@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "survey": "saeb",
+    "section": "Participação",
+    "question": "Você pode explicar o que significa a sigla Saeb e qual sua função?"
+  },
+  {
+    "id": 1,
+    "survey": "saeb",
+    "section": "Participação",
+    "question": "Em que consiste o Sistema de Avaliação da Educação Básica?"
+  },
+  {
+    "id": 1,
+    "survey": "saeb",
+    "section": "Participação",
+    "question": "Qual é a finalidade do Saeb dentro do sistema educacional brasileiro?"
+  },
+  {
+    "id": 1,
+    "survey": "saeb",
+    "section": "Participação",
+    "question": "Como o Saeb é definido e para que serve essa avaliação?"
+  },
+  {
+    "id": 1,
+    "survey": "saeb",
+    "section": "Participação",
+    "question": "O que caracteriza o Sistema de Avaliação da Educação Básica promovido pelo Inep?"
+  },
+  {
+    "id": 2,
+    "survey": "saeb",
+    "section": "Participação",
+    "question": "De que forma as secretarias estaduais e municipais de Educação colaboram com o Inep na realização do Saeb?"
+  },
+  {
+    "id": 2,
+    "survey": "saeb",
+    "section": "Participação",
+    "question": "Qual é a função desempenhada pelas secretarias de Educação no processo de aplicação do Saeb nas escolas?"
+  },
+  {
+    "id": 2,
+    "survey": "saeb",
+    "section": "Participação",
+    "question": "Como as redes estaduais e municipais de ensino participam da organização do Saeb junto às escolas?"
+  },
+  {
+    "id": 2,
+    "survey": "saeb",
+    "section": "Participação",
+    "question": "Que tipo de apoio as secretarias de Educação oferecem ao Inep durante o Saeb?"
+  },
+  {
+    "id": 2,
+    "survey": "saeb",
+    "section": "Participação",
+    "question": "Qual a responsabilidade das secretarias de Educação estaduais e municipais na articulação com as escolas avaliadas pelo Saeb?"
+  },
+  {
+    "id": 3,
+    "survey": "saeb",
+    "section": "Participação",
+    "question": "Como o Inep identifica escolas que têm nomes iguais ou semelhantes no Saeb?"
+  },
+  {
+    "id": 3,
+    "survey": "saeb",
+    "section": "Participação",
+    "question": "Existe algum código que diferencia escolas homônimas participantes do Saeb?"
+  },
+  {
+    "id": 3,
+    "survey": "saeb",
+    "section": "Participação",
+    "question": "De que maneira é possível distinguir duas escolas com o mesmo nome cadastradas no Saeb?"
+  },
+  {
+    "id": 3,
+    "survey": "saeb",
+    "section": "Participação",
+    "question": "Qual mecanismo o Inep utiliza para evitar confusão entre escolas com nomenclaturas semelhantes?"
+  },
+  {
+    "id": 3,
+    "survey": "saeb",
+    "section": "Participação",
+    "question": "Como funciona a identificação única das escolas avaliadas pelo Saeb?"
+  },
+  {
+    "id": 6,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "O Saeb avalia turmas multisseriadas?"
+  },
+  {
+    "id": 6,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "As turmas com alunos de séries diferentes reunidos na mesma sala são incluídas na aplicação do Saeb?"
+  },
+  {
+    "id": 6,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "Existe participação de turmas multisseriadas no Sistema de Avaliação da Educação Básica?"
+  },
+  {
+    "id": 6,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "As escolas com turmas multisseriadas têm seus alunos avaliados pelo Saeb?"
+  },
+  {
+    "id": 6,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "É correto afirmar que turmas multisseriadas ficam de fora da avaliação do Saeb?"
+  },
+  {
+    "id": 7,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "Escolas com menos de dez estudantes matriculados são dispensadas de aplicar o Saeb?"
+  },
+  {
+    "id": 7,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "O critério mínimo de dez alunos para o cálculo da nota se refere à turma ou à escola?"
+  },
+  {
+    "id": 7,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "Caso uma escola tenha menos de dez alunos, ainda assim os estudantes devem realizar a prova do Saeb?"
+  },
+  {
+    "id": 7,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "Como funciona a regra do número mínimo de estudantes para a aplicação e o cálculo dos resultados do Saeb?"
+  },
+  {
+    "id": 7,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "É obrigatório aplicar o Saeb em escolas que não atingem o número mínimo de dez alunos?"
+  },
+  {
+    "id": 8,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "Caso haja baixa frequência de alunos por fatores externos, a data de aplicação do Saeb pode ser alterada?"
+  },
+  {
+    "id": 8,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "Existe a possibilidade de reagendar a prova do Saeb em dias com pouca presença de estudantes?"
+  },
+  {
+    "id": 8,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "A escola pode solicitar mudança na data de aplicação do Saeb se houver baixa presença por motivos alheios à instituição?"
+  },
+  {
+    "id": 8,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "Quem deve autorizar o adiamento da aplicação do Saeb em situações de baixo comparecimento de alunos?"
+  },
+  {
+    "id": 8,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "É permitido remarcar a data da prova quando fatores externos reduzem a presença dos estudantes?"
+  },
+  {
+    "id": 9,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "Alunos da educação especial são incluídos na aplicação do Saeb?"
+  },
+  {
+    "id": 9,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "O Saeb 2025 contempla a participação de estudantes público-alvo da educação especial matriculados em turmas regulares?"
+  },
+  {
+    "id": 9,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "Estudantes com deficiência, TEA ou altas habilidades participam normalmente da avaliação do Saeb?"
+  },
+  {
+    "id": 9,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "Há inclusão de todos os alunos da educação especial nas turmas regulares selecionadas para o Saeb?"
+  },
+  {
+    "id": 9,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "De que forma o Saeb assegura a participação dos alunos público-alvo da educação especial nas turmas regulares avaliadas?"
+  },
+  {
+    "id": 10,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "Quais providências a escola deve tomar para que um aluno tenha direito a atendimento especializado durante o Saeb?"
+  },
+  {
+    "id": 10,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "É possível solicitar atendimento especializado no momento do agendamento do Saeb caso não tenha sido informado no Censo?"
+  },
+  {
+    "id": 10,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "Que informações precisam ser registradas no Educacenso para garantir o atendimento especializado do estudante no Saeb?"
+  },
+  {
+    "id": 10,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "Em que etapa da coleta do Censo Escolar a escola deve declarar a deficiência ou transtorno do aluno para garantir atendimento especializado no Saeb?"
+  },
+  {
+    "id": 10,
+    "survey": "saeb",
+    "section": "Aplicação",
+    "question": "Como o Educacenso se relaciona com a concessão de atendimento especializado para estudantes durante a aplicação do Saeb?"
+  },
+  {
+    "id": 59,
+    "survey": "censo-escolar",
+    "section": "Educacenso",
+    "question": "Qual o procedimento para registrar uma escola recém-criada no Sistema Educacenso?"
+  },
+  {
+    "id": 59,
+    "survey": "censo-escolar",
+    "section": "Educacenso",
+    "question": "Quem deve ser contatado para realizar o cadastro de uma escola nova no Censo Escolar?"
+  },
+  {
+    "id": 59,
+    "survey": "censo-escolar",
+    "section": "Educacenso",
+    "question": "Quais etapas uma instituição de ensino recém-criada deve seguir para ser incluída no Educacenso?"
+  },
+  {
+    "id": 59,
+    "survey": "censo-escolar",
+    "section": "Educacenso",
+    "question": "Como funciona o processo de inclusão de uma nova escola no sistema do Censo Escolar?"
+  },
+  {
+    "id": 59,
+    "survey": "censo-escolar",
+    "section": "Educacenso",
+    "question": "É necessário preencher algum questionário específico para cadastrar uma escola nova no Educacenso?"
+  },
+  {
+    "id": 60,
+    "survey": "censo-escolar",
+    "section": "Educacenso",
+    "question": "Quais tipos de perfil de usuário existem para acessar o Sistema Educacenso?"
+  },
+  {
+    "id": 60,
+    "survey": "censo-escolar",
+    "section": "Educacenso",
+    "question": "Como estão organizados os perfis de acesso disponíveis no Educacenso?"
+  },
+  {
+    "id": 60,
+    "survey": "censo-escolar",
+    "section": "Educacenso",
+    "question": "Quais categorias de usuários podem visualizar dados no Sistema Educacenso e o que cada uma abrange?"
+  },
+  {
+    "id": 60,
+    "survey": "censo-escolar",
+    "section": "Educacenso",
+    "question": "Existe diferença entre os perfis de acesso ao Educacenso conforme o tipo de instituição ou órgão?"
+  },
+  {
+    "id": 60,
+    "survey": "censo-escolar",
+    "section": "Educacenso",
+    "question": "Quais são as opções de perfil disponíveis para os usuários cadastrados no Sistema Educacenso?"
+  },
+  {
+    "id": 61,
+    "survey": "censo-escolar",
+    "section": "Educacenso",
+    "question": "Como são classificados os níveis de acesso dos usuários no Sistema Educacenso?"
+  },
+  {
+    "id": 61,
+    "survey": "censo-escolar",
+    "section": "Educacenso",
+    "question": "Quais permissões cada nível de acesso concede aos usuários do Educacenso?"
+  },
+  {
+    "id": 61,
+    "survey": "censo-escolar",
+    "section": "Educacenso",
+    "question": "O que diferencia os níveis Leitor, Executor e Superusuário no Sistema Educacenso?"
+  },
+  {
+    "id": 61,
+    "survey": "censo-escolar",
+    "section": "Educacenso",
+    "question": "Quais ações cada tipo de usuário pode realizar de acordo com seu nível de acesso no Educacenso?"
+  },
+  {
+    "id": 61,
+    "survey": "censo-escolar",
+    "section": "Educacenso",
+    "question": "Existe hierarquia de permissões entre os usuários cadastrados no Sistema Educacenso?"
+  },
+  {
+    "id": 134,
+    "survey": "censo-escolar",
+    "section": "Educação Especial",
+    "question": "Como o Censo Escolar define os transtornos que afetam o desenvolvimento da aprendizagem dos alunos?"
+  },
+  {
+    "id": 134,
+    "survey": "censo-escolar",
+    "section": "Educação Especial",
+    "question": "O que caracteriza os transtornos de aprendizagem registrados pelo Censo Escolar?"
+  },
+  {
+    "id": 134,
+    "survey": "censo-escolar",
+    "section": "Educação Especial",
+    "question": "Qual a definição utilizada para os transtornos que impactam o desenvolvimento da aprendizagem no contexto do Censo Escolar?"
+  },
+  {
+    "id": 134,
+    "survey": "censo-escolar",
+    "section": "Educação Especial",
+    "question": "De que forma esses transtornos coletados pelo Censo Escolar interferem na aprendizagem do aluno?"
+  },
+  {
+    "id": 134,
+    "survey": "censo-escolar",
+    "section": "Educação Especial",
+    "question": "Quais sintomas caracterizam os transtornos de aprendizagem considerados pelo Censo Escolar?"
+  },
+  {
+    "id": 135,
+    "survey": "censo-escolar",
+    "section": "Educação Especial",
+    "question": "Quais transtornos de aprendizagem passaram a ser coletados pelo Censo Escolar a partir de 2025?"
+  },
+  {
+    "id": 135,
+    "survey": "censo-escolar",
+    "section": "Educação Especial",
+    "question": "Pode listar os tipos específicos de transtornos que impactam a aprendizagem registrados pelo Censo Escolar?"
+  },
+  {
+    "id": 135,
+    "survey": "censo-escolar",
+    "section": "Educação Especial",
+    "question": "O Censo Escolar coleta informações sobre quais transtornos relacionados à leitura, escrita, fala e atenção dos alunos?"
+  },
+  {
+    "id": 135,
+    "survey": "censo-escolar",
+    "section": "Educação Especial",
+    "question": "Quais são as categorias de transtornos de aprendizagem, como discalculia e dislexia, contempladas pelo Censo Escolar?"
+  },
+  {
+    "id": 135,
+    "survey": "censo-escolar",
+    "section": "Educação Especial",
+    "question": "Desde quando e quais transtornos que afetam o desenvolvimento da aprendizagem são registrados no Censo Escolar?"
+  },
+  {
+    "id": 136,
+    "survey": "censo-escolar",
+    "section": "Educação Especial",
+    "question": "Quais estudantes devem ter preenchido o campo relacionado à necessidade de recursos para sala de aula e avaliações do Inep?"
+  },
+  {
+    "id": 136,
+    "survey": "censo-escolar",
+    "section": "Educação Especial",
+    "question": "Para quais categorias de alunos é obrigatório indicar a necessidade de recursos específicos nas avaliações do Saeb?"
+  },
+  {
+    "id": 136,
+    "survey": "censo-escolar",
+    "section": "Educação Especial",
+    "question": "O campo sobre necessidade de recursos em sala de aula e no Saeb deve ser preenchido para quais perfis de estudantes?"
+  },
+  {
+    "id": 136,
+    "survey": "censo-escolar",
+    "section": "Educação Especial",
+    "question": "Alunos com altas habilidades ou superdotação também precisam ter esse campo de recursos preenchido no Censo?"
+  },
+  {
+    "id": 136,
+    "survey": "censo-escolar",
+    "section": "Educação Especial",
+    "question": "Quais características dos alunos determinam o preenchimento do campo de necessidade de recursos para avaliações do Inep?"
+  },
+  {
+    "id": 137,
+    "survey": "censo-escolar",
+    "section": "Tempo Integral",
+    "question": "Qual critério de carga horária define uma matrícula como tempo integral segundo a legislação vigente?"
+  },
+  {
+    "id": 137,
+    "survey": "censo-escolar",
+    "section": "Tempo Integral",
+    "question": "Quantas horas diárias ou semanais um estudante precisa permanecer na escola para ser considerado matriculado em tempo integral?"
+  },
+  {
+    "id": 137,
+    "survey": "censo-escolar",
+    "section": "Tempo Integral",
+    "question": "O que a Lei nº 14.640/2023 estabelece sobre a caracterização do tempo integral no Censo Escolar?"
+  },
+  {
+    "id": 137,
+    "survey": "censo-escolar",
+    "section": "Tempo Integral",
+    "question": "Quais atividades são somadas ao horário curricular para calcular se um aluno está em tempo integral?"
+  },
+  {
+    "id": 137,
+    "survey": "censo-escolar",
+    "section": "Tempo Integral",
+    "question": "Como é feita a contabilização da carga horária para classificar uma matrícula como tempo integral no Censo Escolar?"
+  },
+  {
+    "id": 138,
+    "survey": "censo-escolar",
+    "section": "Tempo Integral",
+    "question": "Como são definidas as atividades complementares no contexto escolar?"
+  },
+  {
+    "id": 138,
+    "survey": "censo-escolar",
+    "section": "Tempo Integral",
+    "question": "Quais tipos de atividades se enquadram como complementares ao currículo obrigatório?"
+  },
+  {
+    "id": 138,
+    "survey": "censo-escolar",
+    "section": "Tempo Integral",
+    "question": "As atividades complementares podem ser realizadas em horário diferente da turma curricular?"
+  },
+  {
+    "id": 138,
+    "survey": "censo-escolar",
+    "section": "Tempo Integral",
+    "question": "Que exemplos de atividades culturais, artísticas ou esportivas são considerados atividades complementares?"
+  },
+  {
+    "id": 138,
+    "survey": "censo-escolar",
+    "section": "Tempo Integral",
+    "question": "Qual a relação entre as atividades complementares e o currículo obrigatório da escola?"
+  }
+]
