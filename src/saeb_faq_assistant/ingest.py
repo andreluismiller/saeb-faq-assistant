@@ -20,6 +20,7 @@ class FaqIngestionPipeline:
         self.sparse_model = SparseTextEmbedding(model_name="Qdrant/bm25")
         
     def setup_collection(self):
+        """Cria a coleção no Qdrant se ela não existir."""
         if self.client.collection_exists(self.collection_name):
             print(f"A coleção '{self.collection_name}' já existe. Ignorando criação.")
             return
@@ -40,6 +41,7 @@ class FaqIngestionPipeline:
 
     # Note que agora esperamos que file_path seja um objeto Path ou string
     def process_and_ingest(self, file_path):
+        """Processa o arquivo JSON e ingere os dados no Qdrant."""
         with open(file_path, "r", encoding="utf-8") as f:
             faq_data = json.load(f)
 
