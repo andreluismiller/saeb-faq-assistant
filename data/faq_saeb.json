@@ -1,0 +1,996 @@
+[
+    {
+        "id": 1,
+        "survey": "saeb",
+        "section": "Participação",
+        "question": "O que é o Saeb?",
+        "answer": "O Sistema de Avaliação da Educação Básica (Saeb) é formado por um conjunto de avaliações externas em larga escala, realizadas periodicamente por meio da aplicação de testes cognitivos e questionários para etapas específicas da educação básica. Tem a finalidade de avaliar a qualidade da educação básica do País e contribuir para sua melhoria, oferecendo subsídios concretos para a formulação, a reformulação e o monitoramento das políticas públicas."
+    },
+    {
+        "id": 2,
+        "survey": "saeb",
+        "section": "Participação",
+        "question": "Qual o papel das secretarias estaduais e municipais de Educação em relação às escolas participantes do Saeb?",
+        "answer": "As secretarias de Educação auxiliam o Inep na articulação com as escolas avaliadas, em cada unidade da Federação.\nO Inep conta com o comprometimento dos gestores das redes de ensino e dos secretários de Educação para a aplicação dos testes e dos questionários, de modo a contribuir para que o Saeb seja fonte de informações para a orientação das políticas educacionais, conforme previsto no art. 11, da Lei n.º 13.005/ 2014, referente ao Plano Nacional de Educação (PNE).\nA Portaria nº 351, de 4 de agosto de 2023, estabelece diretrizes e orientações para melhor articulação entre o Saeb e as redes estaduais e municipais de educação para o monitoramento do Compromisso Nacional da Criança Alfabetizada.\nPortaria nº 351, de 4 de agosto de 2023"
+    },
+    {
+        "id": 3,
+        "survey": "saeb",
+        "section": "Participação",
+        "question": "Como se dá a diferenciação de escolas participantes do Saeb que possuem o mesmo nome?",
+        "answer": "Apesar de haver escolas com nomes parecidos ou iguais, o Inep atribui um Código Inep, de 8 dígitos, diferente para cada escola cadastrada na base do Censo da Educação Básica. O código fica vinculado ao estabelecimento para todas as ações que o Inep utiliza e pode ser obtido a partir da consulta da escola ao Censo da Educação Básica."
+    },
+    {
+        "id": 4,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Quando será a aplicação do Saeb?",
+        "answer": "De acordo com a portaria nº 435, de 3 de julho de 2025, que estabelece as diretrizes do Saeb 2025, aplicação dos instrumentos impressos do Saeb 2025 será realizada no período de 20 de outubro a 31 de outubro de 2025, em todas as unidades da Federação."
+    },
+    {
+        "id": 5,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Os testes amostrais são no mesmo dia que os outros testes?",
+        "answer": "Não, os alunos fazem as provas amostrais em dias separados das censitárias, o dia é acordado diretamente entre a escola e a empresa aplicadora no momento do agendamento."
+    },
+    {
+        "id": 6,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Turmas multisseriadas participam da avaliação?",
+        "answer": "Não, as turmas multisseriadas não são avaliadas pelo Saeb."
+    },
+    {
+        "id": 7,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "O mínimo de dez alunos é por série ou por turma? Se não tiver dez alunos não precisa aplicar a avaliação?",
+        "answer": "É necessário que haja um mínimo válido de dez alunos para o cálculo da nota por escola nas etapas do ensino fundamental e médio. Em caso de menor número de estudantes na escola, esses devem participar da prova porque seus resultados irão compor as médias agregadas por Município e Estado.\nSalvo exceção, prevista no art.9º, inciso VII; serão aplicados testes de língua portuguesa e matemática, com base nas Matrizes de Referência de 2001 e alinhadas à Base Nacional Comum Curricular (BNCC), para estudantes da rede municipal do 5º e 9º anos do ensino fundamental, em municípios cujas escolas públicas municipais desses anos possuam menos de 10 (dez) estudantes cada e o total de alunos do município seja maior ou igual a 10 (dez) estudantes."
+    },
+    {
+        "id": 8,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "É possível remarcar a aplicação em dias de pouca presença por motivos externos?",
+        "answer": "Sim, desde que com a anuência da empresa aplicadora responsável pelo agendamento."
+    },
+    {
+        "id": 9,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Estudantes público-alvo da educação especial participam do Saeb?",
+        "answer": "Sim, todos os estudantes, público-alvo da educação especial, matriculados em turmas regulares selecionadas para as aplicações do Saeb 2025, participam da avaliação."
+    },
+    {
+        "id": 10,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Como assegurar que o estudante receba atendimento especializado no Saeb?",
+        "answer": "A escola deverá atualizar o formulário do aluno no Educacenso durante a etapa preliminar da coleta, informando a(s) deficiência(s) e/ou transtorno que impacta(em) no desenvolvimento da aprendizagem. Somente receberão atendimento especializado no Saeb estudantes que tenham esses campos preenchidos no Educacenso ainda na etapa preliminar da matrícula inicial e estejam vinculados a uma turma que faça parte do público-alvo do Saeb. Não será possível solicitar atendimento especializado no agendamento do Saeb caso a escola não tenha declarado no Censo que o estudante possuía deficiência(s) ou transtorno(s) que impacte no desenvolvimento da aprendizagem."
+    },
+    {
+        "id": 11,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Posso solicitar atendimento especializado na hora do agendamento para um estudante que não teve os dados de deficiência declarados no Educacenso?",
+        "answer": "Não. A única forma de solicitar o atendimento especializado no Saeb é atualizar os dados de deficiência e indicar qual(is) atendimento(s) educacional(is) especializado(s) no formulário do aluno na etapa preliminar de coleta da Matrícula Inicial do Educacenso. O processo de agendamento servirá apenas para confirmar os dados que a escola já declarou no Educacenso."
+    },
+    {
+        "id": 12,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Que tipo de atendimento especializado o Saeb oferece para estudantes público-alvo da Educação Especial?",
+        "answer": "O Saeb 2025 oferecerá as seguintes formas de atendimento especializado:\nI - atendimento com recursos e profissionais oferecidos pela escola participante;\nII - tempo adicional para a realização dos testes e preenchimento do questionário;\nIII - sala extra, com agrupamento adequado às necessidades educacionais especiais;\nIV - instrumentos adaptados para estudantes com baixa visão; e\nV - aplicação, no 9º ano do ensino fundamental, de questionários e cadernos de provas em braille e ledor para todas as áreas avaliadas: língua portuguesa, matemática, ciências humanas e ciências da natureza, como medida de avanço da acessibilidade progressiva no âmbito do Saeb."
+    },
+    {
+        "id": 13,
+        "survey": "saeb",
+        "section": "Cálculo de proficiência",
+        "question": "Como são calculados os resultados do Saeb?",
+        "answer": "Os resultados do Saeb são apresentados por uma escala de desempenho capaz de descrever, em cada nível, as competências e as habilidades que os estudantes demonstraram ter desenvolvido. Cada série e disciplina possui sua própria escala."
+    },
+    {
+        "id": 14,
+        "survey": "saeb",
+        "section": "Cálculo de proficiência",
+        "question": "O aluno recebe algum resultado?",
+        "answer": "Não há boletim individual de desempenho no Saeb. Os resultados são calculados para as escolas e redes de ensino (municipais, estaduais e federal)."
+    },
+    {
+        "id": 15,
+        "survey": "saeb",
+        "section": "Cálculo de proficiência",
+        "question": "As avaliações são utilizadas no Ideb?",
+        "answer": "Sim. Os resultados do Saeb, as taxas de rendimento escolar e as informações prestadas pelas escolas por meio do Censo Escolar são utilizadas no cálculo do Índice de Desenvolvimento da Educação Básica (Ideb)."
+    },
+    {
+        "id": 16,
+        "survey": "saeb",
+        "section": "Cálculo de proficiência",
+        "question": "Os resultados podem ser comparados ao longo dos anos?",
+        "answer": "Sim. A metodologia utilizada no Saeb permite que se compare o desempenho das redes e escolas ao longo do tempo."
+    },
+    {
+        "id": 17,
+        "survey": "saeb",
+        "section": "Cálculo de proficiência",
+        "question": "Como a prova é organizada?",
+        "answer": "São confeccionados tipos diferentes de cadernos de prova para cada ano e série, sendo que cada aluno responde a apenas um caderno de prova. Dessa forma, dois alunos não respondem necessariamente às mesmas questões."
+    },
+    {
+        "id": 18,
+        "survey": "saeb",
+        "section": "Cálculo de proficiência",
+        "question": "Quando o aluno não é considerado para composição da nota final da escola?",
+        "answer": "Para que o aluno seja considerado no\nresultado final\nda escola, é necessário que ele:\ntenha sido\ninformado no Censo Escolar Preliminar\n;\npermaneça matriculado e seja\ninformado também no Censo Escolar Final\n.\nEm resumo, o aluno deve\npermanecer na escola ao longo de todo o ano letivo\n."
+    },
+    {
+        "id": 19,
+        "survey": "saeb",
+        "section": "Cálculo de proficiência",
+        "question": "Alunos transferidos após a data-base do Censo (dados preliminares de Matrícula Inicial coletados pelo Censo Escolar) são considerados no resultado da escola?",
+        "answer": "A\nlunos transferidos após a data\n-\nbase do Censo\nalteram a taxa de participação por\nconstarem na listagem de alunos informados\nno\nCenso\ne\nnão estarem\npresentes no dia da aplicação da avaliação\n.\nAlunos admitidos após a data-base do Censo\npodem ser contabilizados no\ncálculo\nda taxa de participação\nd\na escola de destino\ndesde que\nestejam\nmatriculados em\numa das turmas selecionadas para a aplicação\ne\ntenham realizado a avaliação utilizando\nprovas extras\n."
+    },
+    {
+        "id": 20,
+        "survey": "saeb",
+        "section": "Divulgação de resultados",
+        "question": "O aluno recebe algum resultado?",
+        "answer": "Não há boletim individual de desempenho no Saeb. Os resultados são calculados para as escolas e redes de ensino (municipais, estaduais e federal)."
+    },
+    {
+        "id": 21,
+        "survey": "saeb",
+        "section": "Divulgação de resultados",
+        "question": "Há critérios para a divulgação dos resultados da escola? Escolas com menos de 80% de participação terão resultados?",
+        "answer": "Conforme o artigo 22 da portaria nº435, de 3 de julho de 2025, que estabelece as diretrizes do Saeb 2025, as escolas que participarem das aplicações censitárias gerarão resultados agregados para o Brasil e unidades da Federação. Bem como poderão gerar resultados agregados para municípios e escolas, desde que respeitados os seguintes critérios:\na) registrar, no mínimo, 10 (dez) estudantes da etapa avaliada, presentes no momento da aplicação dos instrumentos; e\nb) alcançar taxa de participação de, pelo menos, 80% (oitenta por cento) dos estudantes matriculados na etapa de ensino avaliada, conforme dados declarados pela escola ao Censo Escolar 2025, considerados aqui os dados finais de Matrícula Inicial."
+    },
+    {
+        "id": 22,
+        "survey": "saeb",
+        "section": "Divulgação de resultados",
+        "question": "Como é feita a divulgação dos resultados do Saeb para a escola?",
+        "answer": "A divulgação dos resultados do Saeb passou a ser dividida em três etapas: divulgação preliminar, interposição de recursos e divulgação dos resultados finais. A divulgação preliminar é uma etapa restrita aos gestores escolares. Por meio de um sistema eletrônico, os diretores podem consultar, em um período específico determinado em portaria, os resultados preliminares da avaliação. Essa consulta apresenta o quantitativo de alunos participantes, a média e a distribuição dos estudantes na escala de proficiência. É possível, então, interpor recurso ao resultado preliminar divulgado. Só depois de analisados os recursos, é feita a divulgação final, aberta ao público."
+    },
+    {
+        "id": 23,
+        "survey": "saeb",
+        "section": "Divulgação de resultados",
+        "question": "As escolas que participarem de forma amostral do Saeb terão os seus resultados divulgados?",
+        "answer": "As escolas que participarem de forma amostral não possuem resultados por escola, esses resultados são utilizados para compor as agregações por região geográfica, por dependência administrativa, por unidade da Federação e Brasil."
+    },
+    {
+        "id": 24,
+        "survey": "saeb",
+        "section": "Divulgação de resultados",
+        "question": "Os resultados das avaliações de Ciências Humanas e Ciências da Natureza são divulgados por unidade escolar?",
+        "answer": "Não, essa avaliação é amostral e esses resultados compõe apenas os estratos amostrais avaliados, como Unidade Federativa e dependência administrativa."
+    },
+    {
+        "id": 25,
+        "survey": "saeb",
+        "section": "Divulgação de resultados",
+        "question": "Quais são os critérios a serem cumpridos para que os municípios obtenham a divulgação dos resultados?",
+        "answer": "De acordo com o inciso II do artigo 22 da portaria nº435 de 3 de julho de 2025 que estabelece as diretrizes do SAEB 2025, para que os municípios tenham acesso aos resultados eles devem atender os seguintes critérios:\na) registrar, no mínimo, 10 (dez) estudantes da etapa avaliada presentes no momento da aplicação dos instrumentos; e\nb) alcançar taxa de participação de, pelo menos, 50% (cinquenta por cento) dos estudantes matriculados na etapa de ensino avaliada, conforme dados declarados pela escola ao Censo Escolar 2025, considerados aqui os dados finais de Matrícula Inicial.\nEm caso de municípios que tenham apenas 1 (uma) escola avaliada por ano ou etapa, e quando esta escola não atingir o mínimo de 80% (oitenta por cento) de taxa de participação, nos termos do inciso II, alínea \"b\", os resultados não serão publicamente divulgados para o respectivo município."
+    },
+    {
+        "id": 26,
+        "survey": "saeb",
+        "section": "Divulgação de resultados",
+        "question": "Quais as informações disponibilizadas no Boletim da Escola do Saeb?",
+        "answer": "Os Boletins das Escolas apresentam contextualização e descrição da avaliação; indicadores contextuais (índice de nível socioeconômico e índice de adequação da formação docente); dados da taxa de participação na avaliação; distribuição dos estudantes por nível da escala de proficiência por área; médias de desempenho e comparação de resultado entre edições."
+    },
+    {
+        "id": 27,
+        "survey": "saeb",
+        "section": "Divulgação de resultados",
+        "question": "As avaliações são utilizadas no Ideb?",
+        "answer": "Os resultados do Saeb, as taxas de rendimento escolar e as informações prestadas pelas escolas por meio do Censo Escolar são utilizadas no cálculo do Índice de Desenvolvimento da Educação Básica (Ideb)."
+    },
+    {
+        "id": 28,
+        "survey": "saeb",
+        "section": "Divulgação de resultados",
+        "question": "O resultado do estudante público-alvo da educação especial compõe o resultado da escola?",
+        "answer": "Sim, todos os resultados dos estudantes público-alvo da educação especial são contabilizados nas médias agregadas e também nas médias por extratos amostrais."
+    },
+    {
+        "id": 29,
+        "survey": "saeb",
+        "section": "Divulgação de resultados",
+        "question": "Escolas com poucos alunos prejudicam os resultados dos municípios?",
+        "answer": "Não, os resultados desses estudantes irão compor o resultado do município como o de qualquer outra escola."
+    },
+    {
+        "id": 30,
+        "survey": "saeb",
+        "section": "Conteúdo pedagógico",
+        "question": "O que é avaliado no Saeb?",
+        "answer": "Tradicionalmente são avaliadas habilidades em língua portuguesa (foco em leitura) e matemática (foco na resolução de problemas). Além disso, desde 2019 o SAEB vem procedendo avaliações da Educação Infantil, habilidades em ciências da natureza e ciências humanas para o 5º e o 9º ano do ensino fundamental, bem como habilidades em língua portuguesa e matemática no 2º ano do ensino fundamental. São também avaliados eixos de qualidade da educação através dos questionários."
+    },
+    {
+        "id": 31,
+        "survey": "saeb",
+        "section": "Conteúdo pedagógico",
+        "question": "O que são as Matrizes de Referência?",
+        "answer": "O termo “matriz de referência” é utilizado especificamente no contexto das avaliações em larga escala para indicar habilidades a serem avaliadas em cada etapa da escolarização e orientar a elaboração de itens de testes e provas, bem como a construção de escalas de proficiência que definem o que e o quanto o aluno realiza no contexto da avaliação. Essas matrizes reúnem o conjunto de habilidades a serem medidas em cada ano e série avaliados no Saeb e estão disponíveis no portal do Inep."
+    },
+    {
+        "id": 32,
+        "survey": "saeb",
+        "section": "Conteúdo pedagógico",
+        "question": "As Matrizes de Referência são equivalentes às matrizes curriculares?",
+        "answer": "As matrizes de referência não podem ser confundidas com as matrizes curriculares, pois não englobam todo o currículo escolar. Também não podem ser confundidas com procedimentos, estratégias de ensino ou orientações metodológicas, pois são um recorte dos conteúdos curriculares estabelecidos para determinada etapa ou ciclo escolar."
+    },
+    {
+        "id": 33,
+        "survey": "saeb",
+        "section": "Conteúdo pedagógico",
+        "question": "O que são descritores?",
+        "answer": "As Matrizes de Referência de língua portuguesa e matemática, que serão utilizadas em 2025 para avaliar para o ensino fundamental e médio, estão subdivididas em tópicos ou temas e estes, em descritores.\nCada descritor é uma associação entre conteúdos curriculares e operações mentais desenvolvidas pelos alunos, que traduzem certas competências e habilidades. Os descritores, portanto, especificam o que cada habilidade implica e são utilizados como base para a construção dos itens das diferentes disciplinas. Cada descritor dá origem a diferentes itens e, a partir das respostas dadas, verificam-se quais habilidades os alunos efetivamente desenvolveram."
+    },
+    {
+        "id": 34,
+        "survey": "saeb",
+        "section": "Conteúdo pedagógico",
+        "question": "O que cai na prova de língua portuguesa?",
+        "answer": "Os testes de língua portuguesa do Saeb tradicional têm como foco a leitura. Seu objetivo é verificar se os alunos são capazes de apreender o texto como construção de conhecimento em diferentes níveis de compreensão, análise e interpretação. Parte-se da proposição de que ser competente no uso da língua significa saber interagir, por meio de textos, em qualquer situação de comunicação.\nOs conhecimentos e competências linguísticas esperadas para cada etapa estão indicadas nos descritores da\nMatriz de Referência de Língua Portuguesa\n, dividida em 5º e 9º ano do ensino fundamental e 3ª e 4ª série do ensino médio.\nO foco do 2º ano do ensino fundamental é aferir os níveis de alfabetização e o letramento matemático."
+    },
+    {
+        "id": 35,
+        "survey": "saeb",
+        "section": "Conteúdo pedagógico",
+        "question": "O que cai na prova de matemática?",
+        "answer": "O conhecimento de matemática no Saeb deve ser demonstrado por meio da resolução de problemas e são consideradas capacidades como observação, estabelecimento de relações, comunicação (diferentes linguagens), argumentação e validação de processos. A prova estimula formas de raciocínio como intuição, indução, dedução e estimativa. Essa opção traz implícita a convicção de que o conhecimento matemático ganha significado quando os alunos têm situações desafiadoras com as quais lidar e trabalham para desenvolver estratégias de resolução.\nOs conhecimentos e competências matemáticas esperadas para cada etapa estão indicadas nos descritores da\nMatriz de Referência de Matemática\n, dividida em 5º e 9º ano do ensino fundamental, e 3ª e 4ª série do ensino médio. O teste cognitivo de Matemática, aplicado para o 2º ano, objetiva medir o letramento matemático, caracterizado pela capacidade de utilização dos conhecimentos da área para a construção da vida cotidiana, com estreita relação entre conhecimentos matemáticos e o contexto social no qual os atores estão inseridos."
+    },
+    {
+        "id": 36,
+        "survey": "saeb",
+        "section": "Conteúdo pedagógico",
+        "question": "É possível disponibilizar provas aplicadas em anos anteriores?",
+        "answer": "Os cadernos de prova e gabaritos do Saeb não são divulgados imediatamente após a aplicação dos testes. Para fins de pesquisa, recomendamos o acesso a alguns exemplos de itens de provas disponíveis no portal do Inep, em documentos, edições antigas.\nAcesse por meio do link:\nhttps://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/saeb/documentos-edicoes-antigas"
+    },
+    {
+        "id": 37,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "Ao abrir o link do Questionário, me deparo com ele já preenchido ou em preenchimento. O que faço?",
+        "answer": "Acesse o Sistema Saeb com seu login (CPF e Senha). Se você estiver contemplado na base de respondentes, o sistema apresentará automaticamente os questionários disponíveis para o seu perfil. Caso visualize um questionário já iniciado, isso pode indicar que o preenchimento foi iniciado anteriormente:\nPara o perfil de professor, é possível que outro profissional da escola, com o mesmo perfil, já tenha iniciado o preenchimento.\nPara os demais perfis (diretores, secretários etc.), pode ser que o próprio usuário tenha iniciado anteriormente ou que se trate de um vínculo ainda associado a um representante anterior da instituição.\nNesses casos, é importante verificar e, se necessário, atualizar o cadastro no Sistema Saeb para garantir o vínculo correto com a escola ou rede de ensino. Em caso de dúvidas ou inconsistências, entre em contato com a equipe do Inep pelo e-mail:\nsistemasaeb@inep.gov.br\nGuia de Cadastro do(a) Diretor(a) de Escola de Educação Infantil no Sistema Saeb\nGuia de Cadastro do(a) Diretor(a) de Escola de Ensino Fundamental e Médio no Sistema Saeb\nGuia de Cadastro do(a) Professor(a) no Sistema Saeb\nGuia de Cadastro do(a) Secretário(a) Municipal de Educação no Sistema Saeb"
+    },
+    {
+        "id": 38,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "Quando o respondente está de licença por um período longo devido à afastamento por doença ou outro tipo de licença (maternidade, prêmio, etc.), quem pode responder ao questionário?",
+        "answer": "Pode responder o(a) substituto(a) do(a) secretário(a), diretor(a) ou professor(a) ou auxiliar de ensino, ou seja, quem está responsável pela secretaria, escola ou turma participante durante a aplicação do Saeb."
+    },
+    {
+        "id": 39,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "Sou Diretor(a) de escola privada, mesmo assim preciso responder ao questionário?",
+        "answer": "O questionário é para todas as escolas participantes do Saeb, inclusa as instituições privadas, desta forma, solicitamos que a direção responda ao questionário.  Para as questões que forem voltadas apenas à realidade da escola pública, você pode deixar a informação solicitada em branco, caso não haja uma resposta adequada à realidade da sua unidade escolar."
+    },
+    {
+        "id": 40,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "Sou Diretor(a) de escola privada, mas ao preencher o questionário encontrei perguntas que são específicas de escolas públicas (como por exemplo a entrega de livro didático), o que faço?",
+        "answer": "No caso de questões específicas voltadas para a rede pública de ensino, os diretores das escolas privadas não precisam responder essas questões, você pode deixar a informação solicitada em branco, caso não haja uma resposta adequada à realidade da sua unidade escolar."
+    },
+    {
+        "id": 41,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "Houve troca de gestor(a) após o questionário ter sido preenchido, mas o período para preenchimento dos questionários ainda está aberto. O(A) novo(a) gestor(a) gostaria de atualizar as informações. Como faço?",
+        "answer": "O novo representante legal deve acessar o Sistema Saeb e se cadastrar como responsável pela escola. Se a escola estiver na base de respondentes, e o vínculo estiver correto, o sistema apresentará os questionários disponíveis. Caso os dados estejam desatualizados, é necessário atualizá-los na plataforma do sistema. Em caso de dúvidasm consulte o manual com o passo a passo ou envie e-mail para:\nsistemasaeb@inep.gov.br"
+    },
+    {
+        "id": 42,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "Respondi ao questionário, mas não consigo finalizar. O que devo fazer?",
+        "answer": "Acesse o Sistema Saeb de outro navegador ou do telefone celular, pode ter ocorrido um problema de rede local. Se o problema persistir, envie o código Inep da escola, um print e entre em contato novamente pelo e-mail:\nsaeb.questionarios@inep.gov.br\n."
+    },
+    {
+        "id": 43,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "Sou Diretor(a) em mais de uma escola, tenho que responder ao questionário nas duas escolas?",
+        "answer": "É permitido apenas um CPF de diretor(a) por questionário e por escola. Na segunda escola, o questionário deverá ser preenchido pelo responsável que permanece no local na ausência do (a) diretor (a)."
+    },
+    {
+        "id": 44,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "Não recebi o link do Questionário do Saeb por e-mail. O que faço?",
+        "answer": "A partir de 2025, os links para responder aos questionários do Saeb não serão mais enviados por e-mail. O acesso deve ser feito diretamente no Sistema Saeb, após realização de um cadastro. Ao realizar o login (com CPF e Senha), se sua turma e/ou escola estiver na lista de participantes do Saeb 2025, o link estará disponível para responder ao Questionário, de acordo com o seu perfil cadastrado."
+    },
+    {
+        "id": 45,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "Como acessar o questionário eletrônico do Saeb 2025?",
+        "answer": "Após realização do cadastro, acesse novamente o Sistema Saeb com seu CPF e senha, durante o período de preenchimento dos Questionários eletrônicos do Saeb 2025. Se sua turma e/ou escola estiver na lista de participantes, o link aparecerá automaticamente no menu “Questionários”. Não haverá envio de link por e-mail."
+    },
+    {
+        "id": 46,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "O preenchimento do questionário do Saeb é obrigatório?",
+        "answer": "O preenchimento dos instrumentos de coleta de dados do Saeb não é obrigatório, mas é altamente recomendado. Cada escola é parte importante do Saeb 2025. As informações coletadas permitem ao Inep realizar um diagnóstico da educação básica brasileira e de alguns fatores que possam interferir no desempenho do estudante, fornecendo um indicativo sobre a qualidade do ensino ofertado no país. A avaliação da Educação Infantil e dos questionários, por exemplo, faz parte do Plano Nacional de Educação, lei aprovada pelo Congresso Nacional. A avaliação do Saeb, no Ensino fundamental e médio, auxilia a distribuir os recursos federais de educação e mesmo as respostas de instituições particulares são importantes na formulação e avaliação de políticas pelos gestores públicos."
+    },
+    {
+        "id": 47,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "Depois de finalizado e enviado, posso solicitar um novo preenchimento para atualizar alguma pergunta?",
+        "answer": "Não, após a finalização do preenchimento do questionário, verifique suas respostas antes de enviá-las. Não será permitido reabrir o questionário após enviado e finalizado."
+    },
+    {
+        "id": 48,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "Qual o período de aplicação em que posso preencher o questionário?",
+        "answer": "Os questionários do Saeb 2025 estarão disponíveis no sistema para preenchimento entre setembro e novembro. A data exata será divulgada pelo Inep oportunamente."
+    },
+    {
+        "id": 49,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "Qual tempo de preenchimento dos questionários?",
+        "answer": "Os estudantes que respondem aos questionários em papel no dia da aplicação dos testes cognitivos do Saeb têm até 30 minutos para responder ao questionário. Para os questionários eletrônicos, diretores(as), professores(as) e dirigentes municipais possuem um tempo estimado de 30 minutos."
+    },
+    {
+        "id": 50,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "Quais as subetapas, séries, turmas, disciplinas que o professor da escola precisará responder ao questionário?",
+        "answer": "Os professores que irão responder ao questionário dependem das turmas que foram selecionadas para participar do Saeb. Ao entrar no link do questionário do(a) professor(a), tanto do ensino fundamental e médio quanto da Educação Infantil, irá aparecer uma tabela com as turmas que estão participando do Saeb, além da série, subetapa de ensino, turno e disciplina. Com essas informações, o(a) diretor (a), que é o responsável por encaminhar os links aos professores, terá conhecimento de quais turmas foram selecionadas para responder os questionários."
+    },
+    {
+        "id": 51,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "Todos os professores de uma turma respondem ao questionário ou os professores respondem um questionário para cada turma da escola?",
+        "answer": "Cada professor(a) responderá somente um questionário por escola. Respondem ao questionário APENAS os professores das turmas selecionadas que participam do Saeb. Sendo os seguintes:\n-        Professores ou auxiliares de ensino das turmas sorteadas da creche e/ou pré-escola para Avaliação da Educação Infantil;\n-        Professores das turmas sorteadas de 2º ano do ensino fundamental;\n-        Professores das turmas de 5º ano do ensino fundamental de português e matemática.\n-        Professores das turmas de 9º ano do ensino fundamental de português e matemática\n-        Professores das turmas de 9º ano do ensino fundamental das turmas sorteadas de ciências da natureza e de ciências humanas.\n-        Professores das turmas de 3º/4º anos do ensino médio de português e matemática."
+    },
+    {
+        "id": 52,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "O secretário(a) ou dirigente municipal de educação do meu município não recebeu o e-mail do questionário, o que faço?",
+        "answer": "O(a) Secretário(a) deve acessar o Sistema Saeb com CPF e senha, após realizar ou atualizar seu cadastro. Se os dados estiverem corretos, o link do questionário do(a) Secretário(a) Municipal de Educação aparecerá automaticamente no menu “Questionários”. Se o e-mail ou outros dados estiverem desatualizados, é necessário atualizá-los no Sistema Saeb. Em caso de dúvidas, consulte o manual com o passo a passo ou envie e-mail para:\nsistemasaeb@inep.gov.br"
+    },
+    {
+        "id": 53,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "O e-mail da escola cadastrado no Censo está errado e o(a) Diretor(a) não recebeu o e-mail para responder ao questionário, o que faço?",
+        "answer": "O(a) Diretor(a) deve acessar o Sistema Saeb com CPF e senha. Se o vínculo com a escola estiver correto e a escola estiver na lista de participantes do Saeb 2025, o link do questionário estará disponível no menu “Questionários”. Se os dados da escola ou do(a) diretor(a) estiverem incorretos, será necessário atualizá-los no sistema. Consulte o manual para mais informações."
+    },
+    {
+        "id": 54,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "Como saber se estou apto a responder?",
+        "answer": "Ao acessar o Sistema Saeb, se sua turma e/ou escola estiver na lista de participantes, o link aparecerá automaticamente no menu “Questionários”, de acordo o seu perfil. Não haverá envio de link por e-mail. Em caso de troca de postos/funções ou responsável, por favor atualize o cadastro."
+    },
+    {
+        "id": 55,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "Fiz login no sistema, mas não vejo o link para responder ao questionário eletrônico do Saeb 2025. O que pode ter acontecido?",
+        "answer": "Isso pode ocorrer por alguns motivos:\nVocê não está na lista de turma/escolas participantes do Inep, no caso de professores e diretores;\nSeu vínculo institucional (com escola ou secretaria) pode estar desatualizado;\nO sistema ainda não liberou os questionários (fora do período de aplicação)."
+    },
+    {
+        "id": 56,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "É possível alterar uma resposta após o envio do questionário?",
+        "answer": "Não. Após o envio definitivo das respostas no Lime Survey, não será possível reabrir o questionário. Certifique-se de revisar devidamente suas respostas antes de finalizar."
+    },
+    {
+        "id": 57,
+        "survey": "saeb",
+        "section": "Questionários",
+        "question": "Como posso atualizar meu cadastro no Sistema Saeb?",
+        "answer": "Caso o vínculo com sua escola ou rede esteja incorreto ou desatualizado, você pode acessar o Sistema Saeb e atualizar seus dados. Certifique-se de que o CPF, a função exercida e a instituição estão corretas. Consulte os Guias com o passo a passo disponíveis no Portal do Inep.\nAcesse pelos links:\nGuia de Cadastro do(a) Diretor(a) de Escola de Educação Infantil no Sistema Saeb\nGuia de Cadastro do(a) Diretor(a) de Escola de Ensino Fundamental e Médio no Sistema Saeb\nGuia de Cadastro do(a) Professor(a) no Sistema Saeb\nGuia de Cadastro do(a) Secretário(a) Municipal de Educação no Sistema Saeb"
+    },
+    {
+        "id": 58,
+        "survey": "saeb",
+        "section": "Pesquisadores",
+        "question": "Perguntas referentes a dados de número de escolas, alunos matriculados nas redes públicas e privadas, material do Saeb, provas, itens etc.",
+        "answer": "Com o objetivo de viabilizar a realização de estudos e garantir o desenvolvimento de pesquisas de interesse público e a manutenção do sigilo e da identidade dos indivíduos e instituições, conforme a legislação vigente, foi criado o Serviço de Acesso a Dados Protegidos (Sedap), que atende a solicitações de acesso a bases de dados protegidos, produzidos pelo Inep. Por meio dele, pesquisadores podem acessar, para fins institucionais e científicos, bases de dados protegidos do Inep.\nAcesse\n:\nhttps://www.gov.br/inep/pt-br/areas-de-atuacao/gestao-do-conhecimento-e-estudos-educacionais/cibec/servico-de-acesso-a-dados-protegidos-sedap"
+    },
+    {
+        "id": 59,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Como cadastrar uma escola nova?",
+        "answer": "A escola deve entrar em contato com a secretaria estadual de Educação, por meio dos telefones disponíveis no Caderno de Conceitos e Orientações do Censo Escolar (Fale Conosco), solicitar um questionário de escola nova, preenchê-lo e devolvê-lo à secretaria estadual, que realizará o cadastro da escola e do responsável pela declaração de dados no Sistema Educacenso. Os contatos das secretarias estaduais de Educação estão disponíveis no Caderno de Conceitos e Orientações,\nna página do Censo Escolar no Portal do Inep\n."
+    },
+    {
+        "id": 60,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Quais são os perfis de acesso ao Sistema Educacenso?",
+        "answer": "Os usuários do Sistema Educacenso são cadastrados por perfis de acesso, que possibilitam a visualização de um conjunto de escolas. São eles:\nPerfil Inep\n: acessa todas as escolas do País.\nPerfil Secretaria Estadual\n: acessa todas as escolas do estado.\nPerfil Setec/MEC\n: acessa as escolas federais vinculadas à Secretaria de Educação Profissional e Tecnológica (Setec), do Ministério da Educação (MEC).\nPerfil Órgão Regional\n: acessa as escolas vinculadas a regionais administrativas e pedagógicas das secretarias estaduais de educação, ou seja, setores descentralizados responsáveis pelo acompanhamento das escolas de regiões do estado.\nPerfil Secretaria Municipal\n: acessa as escolas municipais e as privadas vinculadas ao município.\nPerfil Escola\n: acessa apenas os dados da escola."
+    },
+    {
+        "id": 61,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Quais são os níveis de acesso ao Sistema Educacenso?",
+        "answer": "O Sistema Educacenso permite o gerenciamento do tipo de acesso necessário para cada usuário. Os níveis de acesso definem quais ações o usuário poderá executar no Sistema, são eles:\nLeitor\n: visualiza os dados da escola, mas não tem permissão para inserir ou alterar os dados.\nExecutor\n: preenche e altera os dados no sistema.\nSuperusuário\n: preenche e altera os dados e cadastra e gerencia os usuários."
+    },
+    {
+        "id": 62,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Como altero o meu nível de acesso de leitor para superusuário?",
+        "answer": "A alteração do nível de acesso deverá ser realizada pelo técnico da escola já cadastrado no Sistema Educacenso com nível de acesso “superusuário”. Caso a escola não possua um técnico com esse perfil, deverá entrar em contato com a secretaria municipal ou estadual de educação e solicitar a alteração. Os contatos das coordenações estaduais do Censo Escolar estão disponíveis no Caderno de Conceitos e Orientações,\nna página do Censo Escolar no Portal do Inep\n."
+    },
+    {
+        "id": 63,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Como cadastrar um novo usuário no Sistema Educacenso?",
+        "answer": "As escolas, órgãos regionais, secretarias estaduais e municipais de educação devem designar um responsável para atuar como superusuário no Sistema Educacenso, possibilitando, assim, o cadastro de novos usuários. O superusuário deverá acessar o Sistema, preencher as informações e cadastrar o novo usuário."
+    },
+    {
+        "id": 64,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Como proceder quando não houver Superusuário cadastrado na escola?",
+        "answer": "A escola deve procurar o responsável pelo Censo Escolar junto à entidade hierarquicamente superior à escola (secretaria de educação municipal/estadual ou Setec/MEC) e solicitar o cadastramento de um responsável pela escola no Sistema Educacenso."
+    },
+    {
+        "id": 65,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "É preciso retirar o acesso ao Sistema Educacenso de usuário que não trabalha mais com o Censo Escolar?",
+        "answer": "Sim, o usuário que não trabalha mais com o Censo Escolar não deve ter permissão para acessar o Sistema Educacenso. Para isso, o superusuário da instituição no Sistema Educacenso deve clicar no menu “Usuário”, localizado na lateral esquerda do Sistema, clicar na opção “Gerenciar”, encontrar o usuário e o vínculo que deseja excluir e em seguida clicar em “excluir vínculo”."
+    },
+    {
+        "id": 66,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Como proceder para alterar o e-mail de um usuário do Sistema?",
+        "answer": "Para alteração do e-mail de um usuário cadastrado no Sistema Educacenso, é necessário solicitar ao superusuário da secretaria de educação que acesse a opção “Usuário”. O Sistema encaminhará para a tela de pesquisa. Após realizar a pesquisa e localizar o usuário, deve-se clicar no ícone de um lápis, realizar a alteração de e-mail e clicar em “Salvar”."
+    },
+    {
+        "id": 67,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Todos os gestores escolares são usuários do Sistema Educacenso?",
+        "answer": "Sim. Quando informados os dados do gestor escolar, o sistema fará seu cadastro automático como usuário do Educacenso, com nível de acesso\nleitor\npara a sua escola (caso ainda não seja usuário do sistema). O gestor receberá uma mensagem no endereço de e-mail cadastrado no sistema com um link para que seja cadastrada uma senha de acesso ao sistema.  Assim, o gestor será capaz de conferir as informações declaradas, inclusive no período de retificações, antes do fechamento e do encerramento do ano escolar, a fim de assegurar a fidedignidade dos dados."
+    },
+    {
+        "id": 68,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Esqueci minha senha. O que devo fazer?",
+        "answer": "Ao acessar a página inicial do Sistema Educacenso, clique em “Login” e em seguida na opção “Esqueceu a senha?”. Preencha o CPF e clique no botão “Enviar”. Depois disso, o Sistema encaminhará um link para que você crie uma nova senha.\nApós a alteração da sua senha, você deverá acessar a página do Sistema Educacenso, informar seu CPF e a nova senha cadastrada.\nATENÇÃO\n: a senha deve ser memorizada ou guardada, pois sem ela não é possível ter acesso ao Sistema Educacenso."
+    },
+    {
+        "id": 69,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "A escola pode utilizar vários computadores ao mesmo tempo para responder ao Censo Escolar por meio do Sistema Educacenso?",
+        "answer": "Sim, desde que cada usuário esteja acessando o Sistema Educacenso com CPF e senha individuais."
+    },
+    {
+        "id": 70,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "O que fazer se o link de ativação do acesso inicial ao Sistema Educacenso enviado por e-mail estiver expirado?",
+        "answer": "Siga os passos abaixo para redefinir o seu acesso:\nAcesse a tela de login do Sistema Educacenso no endereço: https://educacenso.inep.gov.br.\nClique em \"Login\" e em seguida clique em \"Esqueceu a senha?\".\nInsira apenas os números do seu CPF (sem pontos ou traços).\nSe seu cadastro já tiver sido migrado, você receberá um novo e-mail para definir sua senha."
+    },
+    {
+        "id": 71,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Solicitei nova senha, mas não recebi o e-mail com o link de ativação. O que devo fazer?",
+        "answer": "Você deve entrar em contato com a secretaria municipal de educação, órgão regional ou a secretaria estadual de educação para verificar a situação do seu cadastro como usuário do Sistema Educacenso."
+    },
+    {
+        "id": 72,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "O que devo fazer quando o Sistema Educacenso apresenta erros, não salva as informações ou não mostra os menus?",
+        "answer": "Ao abrir a página do Sistema Educacenso, aperte as teclas CTRL e F5 do seu teclado simultaneamente para excluir possíveis erros temporários. Caso o problema persista, entre em contato com a equipe do Censo escolar através do e-mail censo.escolar@inep.gov.br, informando o código da escola, procedimentos realizados e uma imagem da tela (print screen) para que possamos reproduzir o erro. As inconsistências identificadas serão encaminhadas à equipe de tecnologia da informação para análise."
+    },
+    {
+        "id": 73,
+        "survey": "censo-escolar",
+        "section": "1ª Etapa da Coleta",
+        "question": "Qual é o período de preenchimento do Censo Escolar 2026?",
+        "answer": "De acordo com a Portaria Inep nº 217, de 11 de maio de 2026, o período para a coleta das informações da 1ª etapa do Censo Escolar (Matrícula Inicial) é de 27 de maio a 31 de julho de 2026. O sistema será reaberto para conferências e retificações durante 30 dias, após a publicação dos dados preliminares no Diário Oficial da União. A data de referência do Censo Escolar 2026 é a última quarta-feira do mês de maio (27/05/2026)."
+    },
+    {
+        "id": 74,
+        "survey": "censo-escolar",
+        "section": "1ª Etapa da Coleta",
+        "question": "O que é “Vincular” no Sistema Educacenso?",
+        "answer": "Vincular é o procedimento para o usuário relacionar um aluno ou profissional escolar a uma determinada turma, e o gestor escolar, a uma instituição."
+    },
+    {
+        "id": 75,
+        "survey": "censo-escolar",
+        "section": "1ª Etapa da Coleta",
+        "question": "Como informar os dados do gestor da escola?",
+        "answer": "Ao acessar uma escola sem informação de gestor escolar, será apresentada inicialmente a tela de pesquisa. Insira os dados do gestor escolar e clique no botão “Pesquisar”, mantendo selecionada a pesquisa “Todo o Brasil”. Caso o gestor não seja localizado, clique no botão “Cadastrar Gestor Escolar” e insira os dados solicitados. Caso o gestor escolar seja localizado, clique em “Vincular”, aceite o Termo de Sigilo, Compromisso e Confidencialidade e informe ou altere os dados solicitados.\nDesde 2019, o questionário do gestor escolar traz campos como a formação acadêmica do dirigente escolar, os critérios de acesso ao cargo e o tipo de vínculo com a instituição de ensino."
+    },
+    {
+        "id": 76,
+        "survey": "censo-escolar",
+        "section": "1ª Etapa da Coleta",
+        "question": "Como editar os dados cadastrais de gestores escolares?",
+        "answer": "O usuário deverá clicar no menu \"Gestor Escolar”. O Sistema encaminhará para a tela de pesquisa de gestor. Nessa tela, selecione a opção “Apenas na escola (nome da sua escola)” e clique em “Pesquisar”. O resultado da pesquisa apresentará o gestor vinculado e disponibilizará o botão com o símbolo de um lápis, que se clicado, direcionará para o seu cadastro.\nAtenção! A edição de dados do gestor escolar só pode ser realizada pelos usuários da(s) escola(s) à(s) qual(is) o gestor está vinculado."
+    },
+    {
+        "id": 77,
+        "survey": "censo-escolar",
+        "section": "1ª Etapa da Coleta",
+        "question": "Como excluir o vínculo de um gestor escolar?",
+        "answer": "É possível excluir o vínculo do gestor escolar de duas maneiras:\n1ª) Pelo menu “Gestor”, realize a pesquisa do gestor e após o sistema retornar a pesquisa, clique sobre o símbolo de três barras para visualizar os dados de vínculo do gestor, e, posteriormente, clique no símbolo “x” para realizar o desvínculo.\n2ª) Pelo menu “Usuário - Gerenciar”, após a apresentação dos resultados, localize o vínculo que deseja excluir, e clique no símbolo de uma lixeira para realizar o desvínculo.\nCaso a instituição possua apenas um gestor vinculado, somente será possível realizar a exclusão desse vínculo após informar um novo gestor para a escola."
+    },
+    {
+        "id": 78,
+        "survey": "censo-escolar",
+        "section": "1ª Etapa da Coleta",
+        "question": "Como cadastrar um novo aluno?",
+        "answer": "Antes de cadastrar um novo aluno, é necessário realizar uma pesquisa minuciosa no sistema. Clique no menu “Aluno”. O sistema encaminhará para a tela de pesquisa, nessa tela, escolha a opção de pesquisa “Todo o Brasil”, para verificar se o aluno já está cadastrado no Educacenso. Para isso, tente primeiramente pesquisar o aluno pelo número do CPF. Caso não tenha essa informação, utilize os filtros de pesquisa detalhada, sobretudo o: nome completo e a data de nascimento. Não havendo registro, aparecerá uma lista de prováveis alunos. Se o aluno pesquisado não fizer parte dessa lista, clique em \"Cadastrar aluno” e faça a sua inclusão."
+    },
+    {
+        "id": 79,
+        "survey": "censo-escolar",
+        "section": "1ª Etapa da Coleta",
+        "question": "Como cadastrar um novo profissional escolar?",
+        "answer": "Antes de cadastrar um novo profissional escolar, é necessário realizar uma pesquisa minuciosa no sistema. Clique no menu “Profissional escolar”. Na próxima tela, escolha a opção de pesquisa “Todo o Brasil” para verificar se o profissional escolar já está cadastrado. A pesquisa terá um resultado mais preciso se for utilizado o CPF do profissional escolar. Caso o profissional não seja localizado na pesquisa, clique em \"Cadastrar profissional escolar\"."
+    },
+    {
+        "id": 80,
+        "survey": "censo-escolar",
+        "section": "1ª Etapa da Coleta",
+        "question": "Quais são os profissionais escolares que podem ser informados no Censo Escolar?",
+        "answer": "No Sistema Educacenso podem ser cadastrados e vinculados às turmas os profissionais escolares que exerçam as seguintes funções em sala de aula:\nDocente: professor responsável pela regência de classe.\nAuxiliar/assistente educacional: profissional que auxilia o docente nas turmas curriculares (etapa de ensino), atuando de forma mais coletiva do que individualizada, não se caracterizando como monitor/auxiliar de aluno com deficiência.\nProfissional/monitor(a) de atividade complementar: profissional ou monitor responsável pelo desenvolvimento das atividades complementares.\nTradutor(a) e intérprete de Língua Brasileira de Sinais (Libras): profissional que realiza a tradução e interpretação da Língua Portuguesa para Libras e/ou da Libras para Língua Portuguesa, de forma simultânea ou consecutiva, em formatos escritos ou filmados, em sala de aula comum, em sala de recursos multifuncionais, em sala onde esteja sendo realizado atendimento educacional especializado (AEE), dentre outras, de modo a mediar e promover o acesso à comunicação e à informação em todos os espaços e atividades escolares.\nDocente titular/coordenador(a) de tutoria (de módulo ou disciplina) em educação a distância (EaD): docente responsável pela regência de módulo ou disciplina de turma desenvolvida em curso de modalidade de educação a distância e pela coordenação dos respectivos docentes tutores.\nDocente tutor(a) - Auxiliar (de módulo ou disciplina) em EaD: profissional responsável pelo acompanhamento das atividades de módulo ou disciplina de turma desenvolvida em curso na modalidade de educação a distância e pelo apoio ao respectivo docente coordenador de tutoria.\nGuia-intérprete: profissional especializado em técnicas de interpretação, comunicação e guia para mediar a interação e o processo de ensino-aprendizagem das pessoas com surdocegueira.\nProfissional de apoio escolar para alunos com deficiência e com transtorno do espectro autista: profissional que exerce atividades de alimentação, higiene, locomoção, comunicação e interação social do estudante com deficiência e transtorno do espectro autista e atua em todas as atividades escolares nas quais se fizer necessário, em todos os níveis  de ensino, em instituições públicas e privadas, excluídas as técnicas ou os procedimentos identificados com profissões legalmente estabelecidas, de acordo com a Lei n.º 13.146/2015 – Lei Brasileira de Inclusão (art. 3º, inciso XIII) e a Lei nº 12.764/2012.\nInstrutor(a) da Educação Profissional: profissional que exerce atividades de colaboração aos docentes dos cursos de qualificação profissional. Pode ter formação de nível médio, preferencialmente em cursos técnicos, e possuir comprovada competência acerca do saber técnico de atividades inerentes à respectiva formação profissional. Ou ainda, formação de nível superior, em curso de graduação, na mesma área científica e tecnológica identificada no projeto pedagógico da formação técnico-profissional em que atua."
+    },
+    {
+        "id": 81,
+        "survey": "censo-escolar",
+        "section": "1ª Etapa da Coleta",
+        "question": "O aluno/profissional escolar foi cadastrado por engano no Sistema Educacenso. O que devo fazer?",
+        "answer": "O usuário deverá entrar em contato com a coordenação estadual do Censo Escolar e informar o código de identificação única (ID) e os dados do aluno ou do profissional escolar que deverá ser excluído. Se for constatada a duplicidade de cadastro, o Inep fará a exclusão do registro mais recente. O procedimento de exclusão de informações do banco de dados só poderá ser realizado pelo Inep. Os contatos das coordenações estaduais do Censo Escolar estão no item “Fale Conosco” do Caderno de Conceitos e Orientações do Censo Escolar 2026, disponível no site do Censo Escolar no Portal do Inep, em orientações sobre a 1ª etapa da coleta."
+    },
+    {
+        "id": 82,
+        "survey": "censo-escolar",
+        "section": "1ª Etapa da Coleta",
+        "question": "O usuário vinculou um aluno ou um profissional escolar a uma turma incorretamente. Como proceder?",
+        "answer": "O usuário deverá clicar no menu \"Aluno\" ou \"Profissional Escolar\", e o sistema o direcionará para a tela de pesquisa. Nessa tela, será necessário preencher os dados solicitados e clicar em \"Pesquisar\". Nos resultados da pesquisa, será exibido o aluno ou profissional correspondente. Para excluir o vínculo atual, clique no ícone das três barras, que exibirá os dados do vínculo, e depois no ícone \"X\" para efetivar a desvinculação. Em seguida, caso necessário, o usuário deverá vincular o aluno ou profissional à turma correta, clicando na opção \"Vincular\"."
+    },
+    {
+        "id": 83,
+        "survey": "censo-escolar",
+        "section": "1ª Etapa da Coleta",
+        "question": "Como proceder se, na data de referência do Censo Escolar, não havia docente lecionando um determinado componente curricular?",
+        "answer": "O Sistema Educacenso permite que sejam informados componentes curriculares sem docente em uma turma curricular (etapa de ensino), se essa for a realidade da escola. Contudo, nesses casos o usuário deverá confirmar a situação no momento do Fechamento do Censo Escolar, quando serão apresentadas as pendências existentes. Assim, o usuário deverá confirmar que não havia docente lecionando aquele componente curricular na data de referência do Censo Escolar."
+    },
+    {
+        "id": 84,
+        "survey": "censo-escolar",
+        "section": "1ª Etapa da Coleta",
+        "question": "Como editar os dados cadastrais de alunos/profissionais escolares?",
+        "answer": "O usuário deverá clicar no menu “Aluno” ou \"Profissional Escolar\". O Sistema encaminhará para a tela de pesquisa. Nessa tela, selecione a opção “Apenas na escola (nome da sua escola)” e clique em “Pesquisar”. O resultado da pesquisa apresentará o aluno/profissional vinculado e disponibilizará o botão com o ícone de um lápis, que, se clicado, direcionará para o seu cadastro. Atenção! A alteração desses dados só pode ser realizada pelos usuários da(s) escola(s) à(s) qual(is) o aluno ou o profissional escolar está vinculado."
+    },
+    {
+        "id": 85,
+        "survey": "censo-escolar",
+        "section": "1ª Etapa da Coleta",
+        "question": "Por que o nome do aluno/profissional escolar fica bloqueado para edição ao inserir o CPF?",
+        "answer": "Ao informar o CPF do aluno ou do profissional escolar, o sistema completará o preenchimento dos dados de nome, data de nascimento e nome da mãe conforme as informações constantes na base da Receita Federal. O campo nome ficará bloqueado e não poderá ser editado. Essa medida garante a unicidade do cadastro. Para alterar o nome do aluno ou do profissional escolar nesses casos, será preciso que a pessoa ou responsável legal atualize o seu cadastro na Receita Federal."
+    },
+    {
+        "id": 86,
+        "survey": "censo-escolar",
+        "section": "1ª Etapa da Coleta",
+        "question": "Como informar a escolaridade do gestor e do profissional escolar?",
+        "answer": "A escolaridade do gestor e do profissional escolar é declarada no campo “Maior nível de escolaridade concluído”, no qual poderão ser informadas as seguintes opções: “Educação superior” (poderão ser informados até três cursos superiores no campo “Dados do curso superior”), “Ensino médio”, “Ensino fundamental” e “Não concluiu o ensino fundamental”. Dessa forma, caso o gestor ou o profissional escolar em sala de aula estejam cursando o ensino superior, deverá ser declarado, como maior nível de escolaridade, o ensino médio.\nNo caso de o profissional ou o gestor escolar terem ensino superior ou ensino médio concluídos, deve ser informado o tipo de ensino médio cursado, entre as opções “Formação geral”; “Modalidade normal/magistério”; “Curso técnico”; e “Magistério indígena - modalidade normal”."
+    },
+    {
+        "id": 87,
+        "survey": "censo-escolar",
+        "section": "1ª Etapa da Coleta",
+        "question": "As turmas de atividade complementar e de atendimento educacional especializado (AEE) necessitam de diário de classe?",
+        "answer": "Sim. Os dados informados ao Censo Escolar devem ser declarados com base em documentação que comprove a sua veracidade. Dessa forma, é importante que as turmas de atividade complementar e de AEE, assim como ocorre em turmas curriculares (etapa de ensino), tenham documentos comprobatórios de registro das atividades realizadas e do desenvolvimento dos alunos, avaliação, dentre outros, bem como documentos que contenham o controle de frequência dos alunos nessas atividades.\nEsse documento facilitará a organização da escola e o preenchimento dos dados no Sistema Educacenso. Além disso, resguardará a escola em caso de possíveis verificações por órgãos de controle e acompanhamento."
+    },
+    {
+        "id": 88,
+        "survey": "censo-escolar",
+        "section": "1ª Etapa da Coleta",
+        "question": "A educação a distância é coletada no Censo Escolar?",
+        "answer": "Sim. A informação de educação a distância deverá ser declarada no cadastro de turma no campo \"Tipo de mediação didático-pedagógica\", sendo disponibilizadas apenas para o ensino médio da Educação de Jovens e Adultos, qualificação profissional (Curso FIC) e curso técnico."
+    },
+    {
+        "id": 89,
+        "survey": "censo-escolar",
+        "section": "1ª Etapa da Coleta",
+        "question": "Como posso ter mais orientações sobre a declaração de turmas do Ensino Médio e Educação Profissional Técnica?",
+        "answer": "No Portal do Inep, na área de Orientações, na 1ª Etapa, há o documento “Ensino Médio e Educação Profissional no Censo Escolar”, com orientações para o preenchimento de turmas nessas etapas de ensino."
+    },
+    {
+        "id": 90,
+        "survey": "censo-escolar",
+        "section": "1ª Etapa da Coleta",
+        "question": "É possível declarar alunos que estão em tratamento de saúde e estão recebendo atendimento educacional fora da escola?",
+        "answer": "No Censo Escolar, é possível informar alunos que estão em tratamento de saúde e não frequentam a escola. Nesse sentido, é possível informar alunos que estejam recebendo atendimento educacional em regime domiciliar ou em regime hospitalar."
+    },
+    {
+        "id": 91,
+        "survey": "censo-escolar",
+        "section": "1ª Etapa da Coleta",
+        "question": "O que fazer se eu tiver uma dúvida sobre um campo específico coletado no Censo Escolar?",
+        "answer": "Se você tiver dúvida sobre um campo específico do Censo Escolar, o primeiro passo é consultar os materiais de orientação disponíveis no portal do Inep. Entre os principais recursos estão:\nCaderno de Conceitos e Orientações do Censo Escolar, que apresenta os conceitos e as orientações de preenchimento de cada campo.\nTabelas e listas de apoio, com informações sobre cursos técnicos, línguas indígenas, componentes curriculares e outros dados necessários para o preenchimento dos questionários.\nDocumentos específicos sobre Educação Especial, Ensino Médio e Educação Profissional e Tecnológica (EPT) e Educação de Jovens e Adultos (EJA).\nVídeos tutoriais disponibilizados no\ncanal do Inep no YouTube\n.\nPerguntas Frequentes sobre temas específicos\nOrientações sobre migração de dados para o Sistema Educacenso.\nCaso sua dúvida não seja esclarecida por esses materiais, consulte a seção de contatos do Caderno de Conceitos, que reúne os canais das Coordenações Estaduais do Censo Escolar, da Setec/MEC e do Inep para atendimento e esclarecimentos adicionais.\nPara mais informações, acesse a\npágina do Censo Escolar no Portal do Inep\n."
+    },
+    {
+        "id": 92,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "Qual é o período de preenchimento da Situação do Aluno 2025?",
+        "answer": "Conforme o cronograma de atividades do Censo Escolar 2025, definido pela\nPortaria Inep nº 239, de 5 de maio de 2025\n, retificada pela\nPortaria nº 41, de 30 de janeiro de 2026\n, o período para coleta no Sistema Educacenso das informações da 2ª etapa do Censo Escolar - Situação do Aluno é de 19 de fevereiro a 30 de março de 2026. Após esse período, o Sistema estará disponível para conferências e retificações, de 31 de março a 20 abril de 2026."
+    },
+    {
+        "id": 93,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "Quais são as informações coletadas na 2ª etapa do Censo Escolar",
+        "answer": "A Situação do Aluno coleta informações sobre o rendimento (aprovado ou reprovado) e movimento (transferido ou deixou de frequentar) alcançados pelos alunos declarados na 1ª etapa do Censo Escolar ao final do ano letivo. Além disso, coleta outras situações como falecimento, alunos da EJA ou Educação Profissional com curso em andamento ou da Educação Infantil que não tiveram movimentação.\nA definição de cada uma dessas situações, assim como a orientação de preenchimento por etapa de ensino, encontram-se disponíveis no\nCaderno de Conceitos e Orientações do Censo Escolar 2025 – Situação do Aluno\n."
+    },
+    {
+        "id": 94,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "Qual é a importância dessas informações?",
+        "answer": "Essas informações são importantes para o cálculo das taxas de rendimento (aprovação, reprovação e abandono) e do Índice de Desenvolvimento da Educação Básica (Ideb), que é um dos instrumentos utilizados para acompanhar o cumprimento das metas do Plano Nacional de Educação (PNE) dos municípios, dos estados e do país. Além disso, essas informações são fundamentais para subsidiar a formulação de políticas públicas educacionais."
+    },
+    {
+        "id": 95,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "Quais escolas devem responder à Situação do Aluno?",
+        "answer": "Escola que informou matrícula em turma curricular (etapa de ensino) na 1ª etapa do Censo Escolar 2025:\nDeve declarar a situação de cada aluno vinculado à escola, bem como admitir aqueles que ingressaram após a data de referência.\nEscola que estava paralisada na data de referência do Censo Escolar 2025 e retomou as atividades posteriormente:\nDeve admitir os alunos que tenham sido declarados por outra escola e que passaram a frequentar a unidade após o retorno das atividades, informando a situação desses alunos ao final do ano letivo.\nEscola que iniciou as atividades em 2025 após a data de referência (escola nova):\nDeve admitir os alunos que tenham sido declarados por outra escola e que passaram a frequentar a unidade, informando a situação desses alunos ao final do ano letivo."
+    },
+    {
+        "id": 96,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "Quais escolas não respondem à Situação do Aluno?",
+        "answer": "Escola que não preencheu a 1ª etapa da coleta do Censo Escolar 2025;\nEscola que preencheu a 1ª etapa da coleta do Censo Escolar 2025, mas informou matrícula apenas em turma de atendimento educacional especializado (AEE), atividade complementar ou itinerário formativo;\nEscola declarada como extinta:\nEscola que não realizou o fechamento do Censo Escolar e, em razão disso, teve matrículas desconsideradas, conforme a Portaria nº 235, de 4 de agosto de 2011."
+    },
+    {
+        "id": 97,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "Como informar os dados do gestor escolar na Situação do Aluno?",
+        "answer": "No Sistema Educacenso, o gestor escolar informado na 1ª etapa da coleta é automaticamente vinculado a essa função na Situação do Aluno. Dessa forma, caso o gestor escolar permaneça o mesmo, não é necessária a adoção de qualquer ação adicional por parte da escola.\nNo entanto, caso tenha ocorrido a designação de um novo gestor para a escola, será necessário realizar sua vinculação no sistema, conforme os procedimentos descritos a seguir:\nAo clicar na opção “Gestor Escolar”, uma tela de pesquisa irá aparecer, com as opções \"Todo o Brasil\" e \"Apenas na escola XXXX\". A pesquisa deve ser efetuada com os dados de CPF, Identificação Única ou, caso necessário, os Filtros de pesquisa detalhada.\nLocalizado o gestor, selecione o ícone \"Clique para vincular o gestor à escola\". Caso o gestor ainda não tenha cadastro no Censo Escolar, seu registro poderá ser efetuado por meio do botão “Cadastrar Gestor” e, após finalizado seu cadastro, deverá ser selecionado o ícone “Clique para vincular o gestor à escola”.\nO Sistema direcionará para a tela chamada \"Vincular gestor escolar\".\nPreencha os dados conforme o Sistema pede: cargo, critério de acesso ao cargo/função e situação Funcional/regime de contratação/tipo de vínculo.\nPor fim, informe o e-mail do gestor e clique em “Enviar”. Um aviso irá aparecer informando a vinculação do gestor escolar."
+    },
+    {
+        "id": 98,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "É possível excluir o vínculo do gestor escolar?",
+        "answer": "Sim. É possível desvincular o gestor escolar exclusivamente em relação ao vínculo da 2ª etapa – Situação do Aluno.\nEntretanto, antes de realizar a exclusão do vínculo do gestor anterior, é obrigatório efetuar o vínculo do novo gestor na 2ª etapa.\nRessalta-se que, ao desvincular o gestor na 2ª etapa, o vínculo referente à 1ª etapa da pesquisa permanecerá ativo, uma vez que não é permitida sua exclusão nessa etapa. Caso o gestor tenha deixado a unidade escolar, seu acesso ao sistema deverá ser bloqueado. Para isso, o superusuário da escola deverá seguir os seguintes passos:\nAcessar o menu “Usuário” e depois “Pesquisar usuário”.\nPreencher os dados do usuário que deseja bloquear e clicar em “Pesquisar”.\nLocalizar o usuário e clicar em “Editar vínculo”.\nSelecionar “Bloquear vínculo”, confirmar em “Sim” e, por fim, clicar em “Salvar alterações dos vínculos”"
+    },
+    {
+        "id": 99,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "Deve ser declarado rendimento ou movimento para as matrículas em turmas de atendimento educacional especializado (AEE), exclusivas de atividade complementar ou de itinerário formativo?",
+        "answer": "Não. As turmas de atendimento educacional especializado (AEE), exclusivas de atividade complementar ou de itinerário formativo, não estarão disponíveis para preenchimento da Situação do Aluno. Os dados de rendimento ou movimento dos alunos devem ser declarados apenas nas turmas curriculares com informação de etapa de ensino."
+    },
+    {
+        "id": 100,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "O que é admissão de aluno?",
+        "answer": "Compreende o registro da situação dos estudantes que ingressaram na escola após a data de referência do Censo Escolar. Assim, cabe à escola admitir todos os alunos que, na 1ª etapa da coleta, estavam vinculados a turmas de etapa de ensino em alguma instituição e que ingressaram posteriormente na unidade, devendo informar a situação desses estudantes ao final do ano letivo.\nPara mais informações,\nacesse o vídeo “Admissão de aluno”, disponível no canal do Inep no YouTube\n."
+    },
+    {
+        "id": 101,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "É possível admitir, após o censo, um aluno que esteja vinculado à escola?",
+        "answer": "É possível admitir após o censo um aluno que esteja vinculado à escola somente se a modalidade de ensino da admissão for diferente da modalidade à qual ele estava vinculado na primeira etapa do Censo Escolar (Matrícula Inicial). Além disso, antes de realizar a admissão, será necessário informar a movimentação (“transferido” ou “deixou de frequentar”) do aluno na turma informada na primeira etapa da coleta."
+    },
+    {
+        "id": 102,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "Como realizar a admissão de um aluno em turma já existente na escola?",
+        "answer": "Caso o aluno tenha sido admitido em turma informada na 1ª etapa do Censo Escolar — ou seja, em turma que estava em funcionamento na data de referência — será necessário selecioná-la entre as turmas já cadastradas no sistema.\nPara isso, acesse o menu “Admissão de aluno”, selecione a opção “Admitir aluno(a)” e informe os dados para a pesquisa (CPF, ID Único, número da certidão de nascimento ou utilize os filtros da pesquisa detalhada).\nApós localizar o estudante, selecione-o e indique a turma no campo “Admitir aluno(a) após a data de referência do Censo Escolar 2025 – Situação do Aluno”. Nesse campo, serão listadas as turmas declaradas na 1ª etapa da coleta. Por fim, informe a situação do aluno ao final do ano letivo."
+    },
+    {
+        "id": 103,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "Como realizar a admissão de um aluno em uma turma que iniciou as atividades após a data de referência do Censo Escolar?",
+        "answer": "Caso o aluno tenha sido admitido em uma turma que iniciou suas atividades após a data de referência do Censo Escolar e, por isso, não tenha sido cadastrada na 1ª etapa do Censo Escolar, será necessário registrá-lo por meio da opção “Cadastrar nova turma — 2ª etapa do Censo Escolar”.\nApós selecionar essa opção, deverão ser informadas as características da nova turma, como o tipo de mediação didático-pedagógica e a etapa de ensino do aluno. Em seguida, deverá ser declarada a situação do aluno ao final do ano letivo."
+    },
+    {
+        "id": 104,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "É possível admitir um aluno em turma de educação especial (classe especial)?",
+        "answer": "Sim. O aluno pode ser admitido em turma de educação especial (classe especial), desde que ele tenha a informação de deficiência, transtorno do espectro autista (TEA) ou altas habilidades/superdotação declarada em seu cadastro na 1ª etapa da coleta do Censo Escolar 2025."
+    },
+    {
+        "id": 105,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "É possível admitir um aluno que esteja vinculado à escola?",
+        "answer": "Sim, é possível admitir um aluno que já esteja vinculado à escola, desde que ele seja informado como transferido na turma registrada na 1ª etapa do Censo Escolar e que a nova admissão ocorra em uma turma de modalidade de ensino diferente.\nPor exemplo, um aluno vinculado à escola em uma etapa do ensino regular poderá ser admitido posteriormente na Educação de Jovens e Adultos (EJA\n)\n."
+    },
+    {
+        "id": 106,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "Como conferir os alunos admitidos na escola?",
+        "answer": "Ao clicar na opção do menu “Admissão de aluno”, será apresentada a opção “Listar alunos(as) admitidos(as)”. Nessa funcionalidade, o sistema apresenta uma lista disposta em ordem alfabética dos alunos admitidos."
+    },
+    {
+        "id": 107,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "O que fazer se um aluno for admitido por engano?",
+        "answer": "Clique no menu “Admissão de aluno” e, em seguida, em “Listar alunos(as) admitidos(as)”. O sistema apresentará a relação de todos os alunos que foram admitidos. Clique no botão “Excluir”, localizado ao lado direito dos dados do aluno."
+    },
+    {
+        "id": 108,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "Ao tentar declarar a informação de rendimento de um aluno, o sistema não permitiu a operação, pois outra escola já registrou o rendimento para esse aluno. Como proceder?",
+        "answer": "Nessa situação, caso o aluno tenha, de fato, concluído o ano letivo com rendimento registrado pela sua escola, é necessário entrar em contato com a outra instituição de ensino, utilizando as informações apresentadas na mensagem do sistema, e solicitar a correção do registro.\nSe a situação não for resolvida, entre em contato com a Coordenação do Censo Escolar na Secretaria de Educação do seu estado, por meio dos telefones disponibilizados no Caderno de Conceitos e Orientações da 2ª Etapa do Censo Escolar 2025 – Situação do Aluno. Para acessá-lo,\nclique aqui\n."
+    },
+    {
+        "id": 109,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "Quando e como preencher as informações da opção “Concluinte”?",
+        "answer": "A opção “Concluinte” é apresentada para as turmas que contenham alunos de anos ou séries finais com emissão de certificado da etapa: 9º ano do ensino fundamental; 3ª e 4ª séries e turma não seriada do ensino médio; educação de jovens e adultos (EJA) anos finais, ensino médio e EJA integrada; curso técnico ou FIC concomitante ou subsequente. A coluna “Concluinte” é habilitada apenas para os alunos aprovados das etapas descritas acima."
+    },
+    {
+        "id": 110,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "Alunos em regime de progressão parcial ou que ficaram em dependência escolar são considerados aprovados ou reprovados?",
+        "answer": "A progressão parcial ou dependência escolar é uma situação estabelecida no regimento escolar e nas normas do respectivo sistema de ensino. Essa possibilidade permite ao aluno avançar de etapa nos componentes curriculares em que tenha alcançado os critérios mínimos, possibilitando-lhe a oportunidade de estudar, no ano letivo seguinte, as disciplinas nas quais tenha apresentado desempenho insuficiente. Para os alunos nesse regime, a opção a ser informada é “Aprovado”. No caso de alunos de séries ou anos finais, também é necessário marcar a opção “Não” em “Concluinte”."
+    },
+    {
+        "id": 111,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "O que é o Encerramento do ano escolar?",
+        "answer": "O encerramento do ano escolar é uma etapa obrigatória para todas as escolas. Ele permite verificar os dados informados na funcionalidade Situação do Aluno e concluir a coleta, com a emissão do respectivo recibo.\nNessa etapa, são apresentados avisos e erros para conferência e, quando necessário, correção das informações. O encerramento não poderá ser finalizado enquanto houver erros pendentes na escola.\nApós a conclusão, visualize o recibo, confira atentamente as informações, imprima-o e guarde-o. Esse documento é a garantia de que a coleta da Situação do Aluno foi concluída com sucesso.\nPara mais informações, acesse o vídeo tutorial sobre o\nEncerramento do Censo Escolar 2025, disponível no canal do Inep no YouTube\n."
+    },
+    {
+        "id": 112,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "É possível alterar dados após selecionar a opção “Encerramento do Ano Escolar”?",
+        "answer": "Sim. Caso seja necessário fazer alterações nos dados de uma escola com o ano escolar encerrado, clique em “Encerramento do ano escolar” e, em seguida, em “Retificar”. Faça a alteração necessária e depois solicite um novo encerramento do ano escolar."
+    },
+    {
+        "id": 113,
+        "survey": "censo-escolar",
+        "section": "2ª Etapa da Coleta",
+        "question": "Como posso conferir as informações da Situação do Aluno?",
+        "answer": "O Sistema Educacenso – 2ª etapa – Situação do Aluno disponibiliza os seguintes relatórios, que auxiliam o acompanhamento e a verificação de inconsistências nas informações prestadas em cada turma da escola. No perfil escola estão disponíveis os seguintes relatórios:\nSituação informada por aluno\nEste relatório permite visualizar a situação de rendimento/movimento informada de todos os alunos, com aplicação de filtros e visualização de totalizadores.\nInformação de movimento vs admissão\nEste relatório lista:\nalunos que foram declarados na escola na 1\na\nEtapa (Matrícula Inicial) e foram admitidos em outra escola na 2\na\nEtapa (Situação do Aluno);\nalunos que foram admitidos na escola na 2\na\nEtapa (Situação do Aluno);\nalunos que foram declarados como transferidos na escola selecionada, mas não foram admitidos em nenhuma outra escola."
+    },
+    {
+        "id": 114,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Qual a definição de pessoa com deficiência?",
+        "answer": "De acordo com a Convenção da Organização das Nações Unidas (ONU) sobre os Direitos das Pessoas com Deficiência (Decreto nº 6.949/2009) e a Lei Brasileira de Inclusão (Lei nº 13.146/2015), pessoa com deficiência é “aquela que tem impedimentos de longo prazo de natureza física, mental, intelectual ou sensorial, os quais, em interação com diversas barreiras, podem obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas”."
+    },
+    {
+        "id": 115,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Qual a definição de estudantes com transtorno do espectro autista (TEA)?",
+        "answer": "São aqueles que apresentam um transtorno do neurodesenvolvimento que se manifesta por impedimentos persistentes na interação social, na comunicação e em padrões restritos e repetitivos de comportamento, que, em interação com as barreiras do contexto educacional, podem obstruir a participação plena e a aprendizagem do estudante. Para fins de declaração ao Censo Escolar, são relevantes os impedimentos funcionais e as demandas educacionais específicas identificadas pelo professor do AEE por meio do Estudo de Caso, e não a gravidade clínica do transtorno."
+    },
+    {
+        "id": 116,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Qual a definição de estudantes com altas habilidades ou superdotação?",
+        "answer": "São aqueles que apresentam uma “condição do neurodesenvolvimento caracterizada, entre outros fatores, por potencial intelectual elevado, intensa curiosidade, elevada capacidade de aprendizagem e profundo envolvimento em temas de interesse. Essas características são frequentemente acompanhadas por alta sensibilidade e intensidade emocional, manifestando-se de diferentes formas e em distintos contextos do desenvolvimento humano”, conforme definido pela Lei nº 15.436, de 17 de junho de 2025, que institui a Política Nacional para Estudantes com Altas Habilidades ou Superdotação."
+    },
+    {
+        "id": 117,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Quais são os tipos de deficiência coletadas no Censo Escolar?",
+        "answer": "No Censo Escolar, são coletados os seguintes tipos de deficiência: baixa visão, cegueira, visão monocular, deficiência auditiva, deficiência física, deficiência intelectual, surdez e surdocegueira. Além dessas deficiências, também são coletadas as informações de transtorno do espectro autista (TEA) e altas habilidades ou superdotação. Cabe destacar que a deficiência múltipla é o resultado da associação entre duas ou mais deficiências. Assim sendo, esse campo não se encontra disponível para marcação, ou seja, o Sistema Educacenso registra automaticamente uma pessoa com deficiência múltipla caso tenha sido declarada mais de uma deficiência para ela.\nPARA SABER MAIS\n– Você sabia que há diferenças entre uma pessoa ser surdo(a)/deficiente auditivo(a) oralizado(a), surdo(a)/deficiente auditivo(a) sinalizante, surdo(a)/deficiente auditivo(a) com implante coclear e surdo(a)/deficiente auditivo(a) com implante coclear sinalizante?\nConfira abaixo as definições:\nOralizado\n: é uma pessoa surda ou com deficiência auditiva que se comunica pela fala, em português, oralmente.\nSinalizante\n: é uma pessoa surda ou com deficiência auditiva que se comunica pela fala/sinalização em Língua Brasileira de Sinais - Libras, fluentemente.\nCom implante coclear\n: é uma pessoa que se submeteu a uma cirurgia de implante de cóclea e utiliza dispositivo eletrônico com o objetivo de resgatar a audição;\nCom implante coclear sinalizante\n: é uma pessoa que se submeteu a uma cirurgia de implante de cóclea e utiliza dispositivo eletrônico com o objetivo de resgatar a audição, no entanto, também se comunica por Língua Brasileira de Sinais - Libras.\nATENÇÃO! Ressalta-se que existe uma diversidade no contexto das experiências linguísticas e identitárias das pessoas surdas. Há casos em que a pessoa pode, simultaneamente, ser oralizada e sinalizante, por exemplo, o que demonstra que as categorias não são excludentes, mas ao contrário, elas podem ser somadas."
+    },
+    {
+        "id": 118,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Como informar alunos, gestores e/ou profissionais escolares em sala de aula com alguma condição específica que não esteja categorizada como deficiência no Censo Escolar?",
+        "answer": "Os profissionais escolares em sala de aula, gestores e alunos que não se enquadram nas definições legais de pessoa com deficiência e/ou transtorno do espectro autista (TEA) não devem ter essa condição declarada no Censo Escolar.\nExistem várias situações, doenças ou síndromes genéticas que podem ocasionar uma deficiência. No entanto, em todos os casos, o que deve ser declarado é a manifestação da deficiência, caso ocorra, entre as coletadas pelo Censo Escolar (baixa visão, cegueira, visão monocular, deficiência auditiva, deficiência física, deficiência intelectual, surdez e surdocegueira). A doença ou síndrome que originou a deficiência não deve ser declarada.\nA Síndrome de Guillain-Barré, por exemplo, não é uma deficiência e sim uma doença, e há casos de pessoas que, em decorrência dessa síndrome, perderam de forma permanente o movimento das pernas e/ou braços. Assim, as pessoas nessa situação devem ser informadas com deficiência física no Censo Escolar. Porém, se a doença não ocasionou uma deficiência, nenhuma opção deverá ser declarada.\nDessa forma, cada caso deve ser analisado de forma específica para a declaração ao Censo Escolar. Seguem alguns exemplos:\n- Hidrocefalia e Microcefalia\nEm alguns casos, essas condições podem ocasionar deficiência. A pessoa deve ser classificada no Censo Escolar de acordo com a deficiência que apresentar. Se a hidrocefalia ou a microcefalia não ocasionarem deficiência, a pessoa não deve ser classificada como tendo uma deficiência no Censo Escolar.\n- Síndrome de Down\nGeralmente as pessoas com Síndrome de Down apresentam deficiência intelectual, mas podem apresentar também outras deficiências, transtorno do espectro autista (TEA) e altas habilidades ou superdotação. Sendo assim, deve ser informado ao Censo Escolar o tipo de deficiência e não a origem dela. Na inexistência da deficiência, nenhuma opção deverá ser informada.\n- Mudez\nA pessoa com mudez, deficiência no sistema fonador e/ou respiratório, pode necessitar de atendimento educacional especializado, levando-se em consideração os apoios que devem ser disponibilizados para a quebra de barreiras e o acesso ao currículo. Essa informação deve ser registrada no Censo Escolar, no campo deficiência física."
+    },
+    {
+        "id": 119,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "O que é o atendimento educacional especializado (AEE)?",
+        "answer": "O atendimento educacional especializado (AEE) constitui-se como\natividade pedagógica de caráter complementar à escolarização dos estudantes com deficiência e transtorno do espectro autista (TEA) e suplementar à escolarização dos estudantes com altas habilidades ou superdotação\n, público da educação especial, devendo sua oferta constar do Projeto Político-Pedagógico da escola e ser garantida em todas as etapas e modalidades da educação básica.\nTem como finalidade\nidentificar, elaborar, desenvolver e organizar recursos pedagógicos e de acessibilidade\n, a fim de assegurar\nacesso, permanência, participação e aprendizagem\ndos estudantes, eliminando barreiras que possam comprometer sua plena participação nas atividades educacionais.\nAs atividades desenvolvidas no AEE diferenciam-se daquelas realizadas na sala de aula comum,\nnão sendo substitutivas à escolarização\n, mas de natureza complementar e/ou suplementar. A matrícula no AEE\nnão substitui a matrícula e a frequência do estudante na classe comum\n.\nEsse atendimento tem como objetivo promover a autonomia e a independência dos estudantes na escola e nos demais contextos sociais, contribuindo para a continuidade dos estudos ao longo das diferentes etapas da educação básica.\nO AEE será ofertado, preferencialmente, na própria unidade escolar, podendo, excepcionalmente, ser realizado em\nCentros de Atendimento Educacional Especializado (CAEE) da rede pública ou de instituições privadas sem fins lucrativos, devidamente conveniadas com o Poder Público\n, observadas as normativas do sistema de ensino.\nAs atividades do AEE visam ao desenvolvimento de habilidades cognitivas, socioemocionais, psicomotoras, comunicacionais, linguísticas, identitárias e culturais dos estudantes, considerando suas singularidades. As ações pedagógicas desenvolvidas pelo professor do AEE têm como finalidade\narticular, apoiar e complementar o trabalho pedagógico realizado na classe comum\n, contribuindo para a efetivação da educação inclusiva.\nO planejamento do AEE pressupõe a realização do Estudo de Caso (Decreto nº 12.686/2025, Art. 11), instrumento pedagógico colaborativo conduzido pelo professor do AEE, com participação do professor da classe comum, da família e, quando possível, do próprio estudante. O Estudo de Caso documenta os impedimentos funcionais do estudante e as barreiras presentes no contexto educacional, fundamentando a elaboração do Plano de AEE (PAEE) e do Plano Educacional Individualizado (PEI). Sua realização não exige laudo médico, sendo vedada essa exigência nos termos do Decreto nº 12.686/2025 e da Portaria MEC nº 421/2026, Art. 7 §4."
+    },
+    {
+        "id": 120,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Em qual escola ocorre o atendimento educacional especializado (AEE)?",
+        "answer": "Na mesma escola da turma curricular (etapa de ensino) do aluno, em outra escola ou em centros de atendimento educacional especializado (CAEE) públicos ou privados, que, nesse último caso, são instituições comunitárias, confessionais ou filantrópicas sem fins lucrativos, com atuação exclusiva na Educação Especial, conveniadas com o Poder Executivo competente.\nUm exemplo de CAEE é o Centro de Atendimento Educacional Especializado aos estudantes surdos, deficientes auditivos e surdocegos (CAS). O CAS é um ambiente destinado à implementação do Serviço de Atendimento Educacional Especializado (SAEE), de apoio didático-pedagógico, de formação continuada de profissionais da educação e ensino de Língua Brasileira de Sinais (Libras) para os familiares de surdos, a fim de apoiar os estudantes surdos, surdocegos ou com deficiência auditiva, matriculados em escolas públicas comuns inclusivas ou bilíngues."
+    },
+    {
+        "id": 121,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "O que é a sala de recursos multifuncionais?",
+        "answer": "Espaço localizado nas escolas de educação básica em que se realiza o atendimento educacional especializado (AEE). É constituída por equipamentos, mobiliários, recursos de acessibilidade e materiais didáticos-pedagógicos para atender a escolas com alunos da Educação Especial. As salas de recursos multifuncionais podem ser implementadas por meio de programa federal ou por recursos próprios dos sistemas de ensino. Além disso, o AEE deve ser realizado por professor com formação em Educação Especial, de acordo com o Decreto 12.686/2025 e da Portaria MEC 421/2026."
+    },
+    {
+        "id": 122,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "O atendimento educacional especializado (AEE) só ocorre em sala de recursos multifuncionais?",
+        "answer": "Não. O AEE é realizado prioritariamente na sala de recursos multifuncionais, mas pode ser realizado em espaço devidamente equipado com recursos da escola ou do sistema de ensino, com o objetivo de atender às necessidades educacionais específicas dos alunos. Além disso, é realizado por professor com formação em Educação Especial. Cabe destacar que a realização do AEE é um direito do aluno e que a ausência da sala de recursos multifuncionais não pode ser impedimento para que o AEE seja ofertado."
+    },
+    {
+        "id": 123,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Quem atua no atendimento educacional especializado (AEE)?",
+        "answer": "Professor com formação inicial que o habilite para o exercício da docência e formação continuada para a educação especial inclusiva, com\ncarga horária, de no mínimo, trezentas e sessenta horas\n, nos termos do Decreto 12.686/2025 e da Portaria MEC 421/2026."
+    },
+    {
+        "id": 124,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Quem são os estudantes que podem ser informados nas turmas cujas atividades são desenvolvidas nas salas de recursos multifuncionais (AEE)?",
+        "answer": "Os estudantes que constituem o público da educação especial definidos por lei, que são os alunos com deficiência, transtorno do espectro autista (TEA) e altas habilidades ou superdotação, de acordo com o Decreto nº 12.686/2025, que institui a Política Nacional de Educação Especial Inclusiva (PNEEI), regulamentado pela Portaria MEC nº 421/2026.\nEsses estudantes são aqueles com deficiência auditiva, surdez, surdocegueira, deficiência intelectual ou física, baixa visão, cegueira e visão monocular, transtorno do espectro autista (TEA) e altas habilidades ou superdotação.\nATENÇÃO! Cabe destacar que estudantes com transtornos que impactam o desenvolvimento da aprendizagem, tais como Transtorno do Deficit de Atenção com Hiperatividade (TDAH), discalculia, disgrafia, dislexia, bem como pessoas com “dificuldade de aprendizagem”,\nNÃO deve ser declaradas ao Censo Escolar como tendo deficiência. Logo, não devem ser declarados em turmas de AEE\n. Com exceção dos casos de dupla excepcionalidade, no qual o estudante apresenta uma deficiência, TEA e altas habilidades ou superdotação, somada a um transtorno de aprendizagem como TDAH, dislexia, dentre outros. Nesses casos o aluno pode ser declarado na turma de AEE para realização do atendimento especializado correspondente a sua condição e a sua necessidade."
+    },
+    {
+        "id": 125,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Quais são os critérios para implementação de sala de recursos multifuncionais?",
+        "answer": "Ter alunos da Educação Especial matriculados em turmas do ensino curricular demandando o atendimento educacional especializado (AEE), disponibilizar espaço físico adequado para implementação da sala e professor com formação em Educação Especial."
+    },
+    {
+        "id": 126,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Quais são as atividades do atendimento educacional especializado (AEE)?",
+        "answer": "Para os alunos com deficiência, transtorno do espectro autista e altas habilidades ou superdotação matriculados em turmas de atendimento educacional especializado (AEE), deve ser informado o tipo de atendimento que o aluno recebe, entre as opções:\n-\nDesenvolvimento de funções cognitivas\n: consiste na organização de estratégias que visam ao desenvolvimento da autonomia e à independência do aluno diante de diferentes situações no contexto escolar. A ampliação dessas estratégias para o desenvolvimento dos processos cognitivos possibilita maior interação entre os alunos, o que promove a construção coletiva de novos saberes na sala de aula comum.\n-\nDesenvolvimento de vida autônoma\n: consiste no desenvolvimento de atividades, realizadas ou não com o apoio de recursos de tecnologia assistiva (TA), visando o aproveitamento, pelos alunos, de todos os bens sociais, culturais, recreativos, esportivos, entre outros, e de todos os serviços e espaços disponíveis no ambiente escolar, com autonomia, independência e segurança.\n- Enriquecimento curricular:\nconsiste na organização de práticas pedagógicas exploratórias suplementares ao currículo que objetivam o aprofundamento e a expansão nas diversas áreas do conhecimento mediante o desenvolvimento de projetos de trabalho com temáticas diversificadas, como artes, esporte, ciências e outras. Tais estratégias podem ser efetivadas pela articulação dos serviços realizados na escola, na comunidade, nas instituições de educação superior, na prática da pesquisa e no desenvolvimento de produtos.\n- Ensino da Língua Brasileira de Sinais (Libras):\nO ensino de Libras consiste no desenvolvimento de estratégias pedagógicas para a aquisição desse sistema linguístico de natureza visual-motora, das estruturas gramaticais próprias e dos aspectos linguísticos que caracterizam essa língua. A Libras é uma língua de instrução, interação, comunicação e ensino.\n-\nEnsino da língua portuguesa como segunda língua\n: consiste no desenvolvimento de atividades e estratégias de ensino da língua portuguesa na modalidade escrita, como segunda língua, para alunos usuários de Libras, voltadas à observação e análise da estrutura da língua, seu sistema linguístico, funcionamento e variações, tanto nos processos de leitura como na produção de textos.\nATENÇÃO!\nO ensino de Libras e da língua portuguesa como segunda língua, oferecido aos estudantes surdos, surdocegos e com deficiência auditiva, possui metodologias de ensino específicas, desenvolvidas por professores bilíngues, com proficiência em Língua Brasileira de Sinais (Libras), a qual é utilizada para instrução, interação, comunicação e ensino.\n- Ensino das técnicas de cálculo no Soroban:\nconsiste na utilização de técnicas de cálculo que possibilitem ao aluno a realização de operações matemáticas com o uso do Soroban.\n- Ensino do Sistema Braille:\nconsiste na definição e utilização de métodos e estratégias para que o aluno se aproprie desse sistema tátil de leitura e escrita.\n- Ensino de técnicas de orientação e mobilidade:\nconsiste no ensino de técnicas e no desenvolvimento de atividades para orientação e mobilidade do aluno com deficiência visual, a fim de proporcionar-lhe o conhecimento dos diferentes espaços e ambientes e viabilizar a sua locomoção com segurança, independência e autonomia.\n- Ensino do uso da Comunicação Alternativa e Aumentativa (CAA):\nconsiste na organização de atividades que ampliem os canais de comunicação com o objetivo de atender às necessidades comunicativas de fala, leitura e escrita dos alunos. Alguns exemplos de CAA são: cartões de comunicação, pranchas de comunicação com símbolos, pranchas alfabéticas e de palavras, vocalizadores ou o próprio computador, quando utilizado como ferramenta de voz e comunicação.\n- Ensino do uso de recursos ópticos e não ópticos:\nensino das funcionalidades dos recursos ópticos e não ópticos para o desenvolvimento de estratégias a fim de promover a acessibilidade nas atividades de leitura e escrita. São exemplos de recursos ópticos: lupas manuais ou de apoio, lupas eletrônicas, lentes específicas bifocais, telescópios, dentre outros, que possibilitam a ampliação de imagens. São exemplos de recursos não ópticos: iluminação, plano inclinado, contraste, ampliação de caracteres, cadernos com pauta ampliada, caneta de escrita grossa, recursos de informática, entre outros, que favorecem o funcionamento visual."
+    },
+    {
+        "id": 127,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Em qual questionário do Sistema Educacenso deve ser declarada a informação sobre o tipo de atendimento educacional especializado (AEE) que o aluno realiza?",
+        "answer": "A informação sobre o(s) tipo(s) de AEE que o aluno realiza é declarada no “Questionário do Aluno”, para que seja possível acompanhar a sua trajetória acadêmica e o atendimento realizado ao longo dos anos. Dessa forma, é importante que seja declarado apenas o(s) tipo(s) de AEE que o aluno, de fato, realiza, ainda que sejam ofertados, na turma de AEE, outros tipos de atendimento."
+    },
+    {
+        "id": 128,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Instituições que atendem pessoas com deficiência e não ofertam etapas da educação básica ou atendimento educacional especializado (AEE) devem responder ao Censo Escolar?",
+        "answer": "Não. O Censo Escolar tem como objetivo coletar informações escolares dos estudantes matriculados nas escolas públicas e privadas do País em turma curricular (etapa de ensino) e AEE."
+    },
+    {
+        "id": 129,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "O que é Turma de Educação Bilíngue de Surdos (classe bilíngue de surdos)?",
+        "answer": "É a classe (turma) na qual a Língua Brasileira de Sinais (Libras) é oferecida como primeira língua, e o português escrito, como segunda língua, em escolas bilíngues de surdos, classes bilíngues de surdos, escolas comuns ou em polos de educação bilíngue de surdos, para educandos surdos, surdo-cegos, com deficiência auditiva sinalizantes, surdos com altas habilidades ou superdotação ou com outras deficiências associadas, optantes pela modalidade de educação bilíngue de surdos."
+    },
+    {
+        "id": 130,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Como declarar Turma de educação bilíngue de surdos (classe bilíngue de surdos)?",
+        "answer": "No “Questionário de Turma” está disponível o campo “Turma curricular de educação bilíngue de surdos (classe bilíngue de surdos)”. A declaração dessa informação é obrigatória, e as opções de preenchimento são “sim” ou “não”. O sistema estará preenchido como padrão “não” para todas as turmas. Para os alunos com deficiência auditiva, surdez ou surdocegueira, que estejam matriculados nessa turma, é importante conferir se no “Questionário de Aluno” foi informado o tipo de deficiência.\nIMPORTANTE:\nA Turma de Educação Bilíngue de Surdos é uma turma curricular de ensino e não deve ser confundida com Turma de Atendimento Educacional Especializado (AEE).\nATENÇÃO!\nPara que a turma seja considerada bilíngue, é necessário que ofereça as duas línguas, ou seja, tanto a Libras, como primeira língua, quanto a língua portuguesa, como segunda, para a escrita. Caso a opção não tenha sido marcada no campo “Áreas do conhecimento/componentes curriculares”, o sistema emitirá um aviso. Logo, é importante que seja verificado no “Questionário de Turma” se foi declarada no campo “Áreas do conhecimento/componentes curriculares” a informação “Português como segunda língua” para turma curricular (etapa de ensino) ou curricular (etapa de ensino) mais atividade complementar.\nA Educação Bilíngue de Surdos pressupõe processos de ensino, aprendizagem e escolarização organizados com a Libras e assegurada pelo regente de sala de aula tendo a Libras como língua de instrução, interação, comunicação e ensino no contexto educacional, bem como o ensino do Português escrito, não se restringindo à oferta de acessibilidade linguística por meio de tradução e interpretação."
+    },
+    {
+        "id": 131,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "O que é Educação Bilíngue de Surdos?",
+        "answer": "Consiste na organização da oferta da modalidade escolar Educação Bilíngue de Surdos, tendo a Libras como língua de instrução, interação, comunicação e ensino, transcendendo sua função meramente comunicativa no cotidiano escolar e desempenhando papel central no processo pedagógico que perpassa todas as dimensões do ensino, incluindo estratégias metodológicas, materiais didáticos e instrumentos de avaliação, de modo a favorecer o desenvolvimento linguístico, social, cognitivo e cultural dos estudantes público-alvo da Educação Bilíngue de Surdos (PAEBS). O público da Educação Bilíngue de Surdos é composto por\neducandos surdos, surdocegos, com deficiência auditiva sinalizantes, surdos com altas habilidades ou superdotação ou com outras deficiências associadas\n, por exemplo."
+    },
+    {
+        "id": 132,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Quais são os documentos comprobatórios necessários para realizar a declaração de alunos com deficiência, transtorno do espectro autista (TEA) e altas habilidades ou superdotação ao Censo Escolar?",
+        "answer": "Para a declaração desses alunos, a escola deverá valer-se das informações contidas em, pelo menos, um dos seguintes documentos comprobatórios:\n- Estudo de Caso:\ninstrumento pedagógico central da Política Nacional de Educação Especial Inclusiva (PNEEI), estabelecido pelo Decreto nº 12.686/2025, Art. 11. Trata-se de uma avaliação pedagógica e colaborativa — e não diagnóstica — que documenta: (i) os impedimentos funcionais de longo prazo do estudante, suas potencialidades e demandas de apoio, observados no contexto educacional; (ii) as barreiras presentes no contexto escolar (arquitetônicas, comunicacionais, pedagógicas, tecnológicas ou atitudinais) que interagem com esses impedimentos para obstruir a participação e a aprendizagem; e (iii) as estratégias e recursos de acessibilidade para eliminação das barreiras identificadas. O Estudo de Caso é conduzido pelo professor do AEE, com participação do professor da classe comum, da família e, quando possível, do próprio estudante. Seus resultados fundamentam a elaboração do PAEE e do PEI, além de constituir documentação suficiente para a declaração do estudante ao Censo Escolar.\n-\nPlano de Atendimento Educacional Especializado (PAEE):\ndocumento que reúne informações sobre os estudantes público da educação especial, elaborado pelo professor de AEE com a participação do professor da classe comum, da Família e do aluno, quando for possível, para atendimento às necessidades específicas desse público. Durante o estudo de caso, primeira etapa da laboração do plano, o professor do AEE poderá articular-se com profissionais que compõem a rede de proteção social, como os da saúde, da assistência social e de órgãos de proteção à criança e ao adolescente.\n-\nPlano Educacional Individualizado (PEI):\nPlano Educacional Individualizado (PEI): instrumento de planejamento pedagógico elaborado pelo professor da classe comum, com o suporte do professor do AEE e da equipe escolar, a partir dos resultados do Estudo de Caso. O PEI deve conter, no mínimo: (i) atividades desenvolvidas na Sala de Recursos Multifuncionais e sua articulação com as atividades da classe comum; (ii) medidas de acessibilidade curricular, didático-pedagógica e avaliativa; (iii) estratégias de acompanhamento e monitoramento do desenvolvimento do estudante; (iv) registro de devolutivas periódicas à família. O PEI deve ser revisto anualmente, conforme a Portaria MEC nº 421/2026, Art.7º.\"\n-\nAvaliação biopsicossocial da deficiência\n, conforme a Lei nº 13.146/2015 (Lei Brasileira de Inclusão). Ressalta-se que tal avaliação poderá ser utilizada como documento subsidiário ao estudo de caso.\n- Laudo médico:\ndocumento que pode ser utilizado como registro administrativo comprobatório para a declaração da deficiência ou do transtorno do espectro autista (TEA) ao Censo Escolar.\nAtenção!\nA exigência de laudo médico como condição para matrícula, acesso ao AEE ou declaração ao Censo Escolar é expressamente vedada pelo Decreto nº 12.686/2025 e pela Portaria MEC nº 421/2026, Art. 7 §4. A declaração pode ser realizada com base em qualquer dos documentos listados — sendo suficiente, o Estudo de Caso ou o Plano de AEE.\nCabe destacar que o laudo médico não é documento obrigatório para o acesso à educação, ao atendimento educacional especializado, nem para o planejamento das ações educacionais, que devem estar alicerçadas em princípios pedagógicos, e não clínicos."
+    },
+    {
+        "id": 133,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Como informar o aluno com deficiência, transtorno do espectro autista e altas habilidades ou superdotação, matriculado em classe comum de uma escola pública ou privada?",
+        "answer": "Deve-se vincular o aluno a uma turma curricular (etapa de ensino) da educação infantil, ensino fundamental, ensino médio, educação de jovens e adultos ou educação profissional e tecnológica e, em seguida, atualizar os dados de identificação referentes à deficiência, transtorno do espectro autista (TEA) e altas habilidades ou superdotação (campos 12 e 12a do cadastro de aluno). Quando informado no campo 12, “sim”, o sistema abrirá o campo 12a, referente ao tipo de deficiência, transtorno do espectro autista (TEA) e altas habilidades ou superdotação que deverá ser preenchido."
+    },
+    {
+        "id": 134,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "O que são os transtornos que impactam o desenvolvimento da aprendizagem coletados pelo Censo Escolar?",
+        "answer": "São transtornos caracterizados por um conjunto de sintomas que provocam uma série de perturbações na aprendizagem do aluno."
+    },
+    {
+        "id": 135,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Quais os tipos de transtornos que impactam o desenvolvimento da aprendizagem que são coletados no Censo Escolar?",
+        "answer": "Desde 2025 são coletados os seguintes transtornos que impactam o desenvolvimento da aprendizagem.\nDiscalculia:\né definida como uma desordem neurológica específica que afeta a habilidade do sujeito para compreender regras, conceitos e realizar operações matemáticas. O aluno(a) com discalculia pode conseguir realizar, de forma automática, cálculos com as quatro operações básicas matemáticas, porém, pode não conseguir entender o enunciado do problema. Dessa forma, a discalculia se apresentam como uma desordem estrutural nas habilidades matemáticas e, que pode estar associada a outros transtornos como o TDAH e a dislexia, por exemplo.\nDisgrafia:\né caracterizada pela dificuldade da pessoa em controlar os músculos da mão. Nesse caso, pode ocorrer uma falta de pressão no traçado das letras ou traços demasiadamente fortes, o que causa cansaço e lentidão durante o processo de escrita. A escrita disgráfica pode ser observada por traços pouco precisos e incontrolados. Há uma desorganização das letras, letras retocadas e ilegíveis. O espaço entre as linhas, palavras e letras são irregulares. Outras características de uma escrita disgráfica: letras muito largas, demasiado pequenas ou com tamanho inconsistente; uso incorreto de letras maiúsculas e minúsculas; letras sobrepostas; alinhamento incorreto; inclinação inconsistente; falta de fluência na escrita. Na maioria dos casos a disgrafia faz com que a letra fique ilegível, o que dificulta ou impossibilita a leitura e compreensão do que o aluno(a) escreveu. Desse modo, a disgrafia é um transtorno da escrita e ocorre, de um modo geral o comprometimento da coordenação motora fina e da coordenação motora ampla, como a inabilidade para esportes por exemplo.\nDislalia\n: É um distúrbio da linguagem que se manifesta mais especificamente na fala causando dificuldade na articulação das palavras. Consiste, basicamente, na dificuldade de pronunciar as palavras que contêm “R” e “L”, seja omitindo ou acrescentando fonemas, trocando um fonema por outro ou ainda distorcendo-os ordenadamente. A falha na emissão das palavras pode ainda ocorrer em fonemas ou sílabas.\nDislexia:\ncompreende um transtorno do desenvolvimento da linguagem, com implicações severas no processo fonológico, influenciando e ocasionando prejuízos importantes na aprendizagem, uma vez que o indivíduo não consegue decifrar as palavras. Trata-se de um distúrbio do desenvolvimento da linguagem, tendo como uma das principais características a dificuldade no processamento fonológico, causando déficits na decodificação das palavras escritas e, consequentemente, na compreensão da leitura. De modo geral, a Dislexia causa prejuízos no processo de aprendizagem, sobretudo nas áreas da leitura, escrita, compreensão e ortografia.\nDisortografia\n: é um transtorno funcional específico de escrita caracterizado por uma alteração na planificação da linguagem escrita, que causa dificuldades na aprendizagem da ortografia, gramática e redação, apesar do potencial intelectual e dos sistemas sensoriais do indivíduo. Compreende, portanto, um padrão de escrita que foge às regras ortográficas estabelecidas convencionalmente, regentes de uma determinada língua. Os alunos(as) que tem esse transtorno iniciam o processo de alfabetização apresentando dificuldades na aprendizagem da ortografia, da gramática e da redação. Além disso, esses alunos(as), provavelmente, chegarão ao final do ensino fundamental apresentando as mesmas dificuldades. De forma geral, a característica mais comum nas crianças com disortografia é, sem dúvida, a ocorrência de erros ortográficos, de natureza as mais diversas.\nTranstorno do Déficit de Atenção e Hiperatividade (TDAH)\n: é um transtorno do\nneurodesenvolvimento definido por níveis prejudiciais de desatenção, desorganização e/ou hiperatividade-impulsividade. Desatenção e desorganização envolvem incapacidade de permanecer em uma tarefa, aparência de não ouvir e perda de materiais em níveis inconsistentes com a idade ou o nível de desenvolvimento. Hiperatividade-impulsividade implicam atividade excessiva, inquietação, incapacidade de permanecer sentado, intromissão em atividades de outros e incapacidade de aguardar – sintomas que são excessivos para a idade ou o nível de desenvolvimento. Na infância, o TDAH frequentemente se sobrepõe a transtornos em geral considerados “de externalização”, tais como o transtorno opositor desafiador (TOD) e o transtorno de conduta. O TDAH costuma persistir na vida adulta, resultando em prejuízos no funcionamento social, acadêmico e profissional.\nTranstorno do Processamento Auditivo Central (TPAC)\n: pode ser descrito como uma dificuldade que o sujeito tem em lidar com as informações que chegam por meio da audição. É um transtorno funcional da audição no qual o indivíduo detecta os sons normalmente, mas tem dificuldades em interpretá-los. Também pode ser considerado como uma dificuldade em processar a informação auditiva da forma correta, em razão de dificuldade em um ou mais níveis das habilidades auditivas. O TPAC costuma produzir dificuldades diárias no processo de comunicação oral, na leitura e escrita, incluindo o desempenho escolar e a compreensão da linguagem.\nATENÇÃO\n: Para mais informações sobre os transtornos acesse o “Glossário da Educação Especial e dos Transtornos que Impactam o Desenvolvimento da Aprendizagem”, nas orientações de preenchimento da 1ª Etapa da Coleta,\nno site do Censo Escolar no Portal do Inep\n."
+    },
+    {
+        "id": 136,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Para quais alunos deve ser informado o campo “Aluno(a) necessita de recursos para uso em sala de aula e para participação em avaliações do Inep (Saeb)?”",
+        "answer": "Esse campo deve ser preenchido para alunos com deficiência, transtorno do espectro autista (TEA) e altas habilidades ou superdotação, bem como para alunos com transtornos que impactam o desenvolvimento da aprendizagem, conforme a necessidade específica de acordo com cada caso."
+    },
+    {
+        "id": 137,
+        "survey": "censo-escolar",
+        "section": "Tempo Integral",
+        "question": "Quando o aluno será considerado em tempo integral?",
+        "answer": "De acordo com a Lei nº 14.640, de 31 de julho de 2023, consideram-se matrículas em tempo integral aquelas em que o estudante permanece na escola ou em atividades escolares por tempo igual ou superior a 7 (sete) horas diárias ou a 35 (trinta e cinco) horas semanais, durante todo o período letivo.\nAssim, para a contabilização da duração do tempo escolar no Censo Escolar, considera-se o horário de funcionamento da turma curricular (etapa de ensino), acrescido, quando houver, do horário das turmas de atividade complementar, de Atendimento Educacional Especializado (AEE) e de itinerário formativo exclusivo às quais o aluno estiver vinculado.\nCabe ressaltar, contudo, que políticas públicas e programas de repasse de recursos, como o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb), podem estabelecer critérios adicionais para a contabilização das matrículas em tempo integral."
+    },
+    {
+        "id": 138,
+        "survey": "censo-escolar",
+        "section": "Tempo Integral",
+        "question": "O que são atividades complementares?",
+        "answer": "São atividades de livre escolha, articuladas ao currículo obrigatório, que integram as experiências educativas desenvolvidas ao longo da jornada escolar. Abrangem atividades culturais, artísticas, de educação patrimonial, esportivas e de lazer, acompanhamento pedagógico, bem como ações voltadas à educação em direitos humanos e à promoção da saúde. Essas atividades podem ser ofertadas no mesmo horário da turma curricular (etapa de ensino) ou em horário distinto."
+    },
+    {
+        "id": 139,
+        "survey": "censo-escolar",
+        "section": "Tempo Integral",
+        "question": "Como as escolas que têm alunos em tempo integral poderão declará-los no Sistema Educacenso?",
+        "answer": "A contabilização do tempo de permanência do aluno em atividades escolares terá como referência a turma curricular (etapa de ensino) à qual ele está vinculado, podendo ser acrescido o tempo de participação em outras atividades escolares (atividade complementar, Atendimento Educacional Especializado (AEE) e de itinerário formativo exclusivo), desde que os respectivos horários não se sobreponham.\nCaso o aluno esteja vinculado a uma turma curricular (etapa de ensino) ou curricular (etapa de ensino) com atividade complementar, com duração igual ou superior a 35 (trinta e cinco) horas semanais, será considerado em tempo integral.\nCaso o aluno esteja vinculado a uma turma curricular (etapa de ensino) com duração inferior a 35 (trinta e cinco) horas semanais e participe de turmas de outras atividades escolares, os tempos correspondentes serão somados, desde que os horários das atividades não coincidam com o da turma curricular nem entre si.  Quando a soma da duração semanal for igual ou superior a 35 (trinta e cinco) horas, o aluno será considerado em tempo integral.\nRessalta-se a importância da correta declaração das turmas e da vinculação dos alunos. Devem ser vinculados a cada turma os alunos que efetivamente participam das atividades correspondentes durante todo o horário informado. Se necessário, podem ser cadastradas turmas adicionais, de modo que cada aluno seja informado na turma correspondente ao horário real de sua participação na atividade.\nImportante\n:\nQuando as atividades complementares forem ofertadas no mesmo horário da turma curricular (etapa de ensino), a turma deverá ser cadastrada com o tipo “Curricular (etapa de ensino) com atividade complementar”.\nQuando as atividades complementares forem ofertadas em horário distinto da turma curricular (etapa de ensino), a turma deverá ser cadastrada com o tipo “Atividade complementar”.\nOs alunos vinculados a turma de tipo “Atividade complementar” ou de “Atendimento educacional especializado (AEE)” devem, obrigatoriamente, estar também vinculados a uma turma curricular (etapa de ensino). Aqueles que estiverem vinculados apenas em turmas exclusivas dessas atividades serão desconsiderados nas estatísticas oficiais."
+    },
+    {
+        "id": 140,
+        "survey": "censo-escolar",
+        "section": "Tempo Integral",
+        "question": "As atividades escolares realizadas em espaços fora da escola podem ser registradas no Censo Escolar? Se sim, como esse cadastro pode ser realizado no Sistema Educacenso?",
+        "answer": "Sim. As atividades realizadas em espaços fora da escola podem ser registradas no Censo Escolar, desde que estejam alinhadas ao planejamento pedagógico e à finalidade educativa do uso desses espaços.\nA integração de ambientes e espaços comunitários, como praças, parques, áreas verdes e equipamentos públicos de diferentes tipos, à realização de atividades pedagógicas planejadas intencionalmente amplia as oportunidades de aprendizagem e desenvolvimento dos estudantes, conforme previsto na Resolução CNE/CEB nº 7, de 1º de agosto de 2025.\nAlém disso, é necessário que as atividades sejam conduzidas por profissionais habilitados e que seja realizado o acompanhamento da frequência dos alunos.\nO cadastro de turmas que ofertam atividades fora da escola segue o mesmo fluxo de cadastro de turma no Sistema Educacenso, sendo necessário informar o nome da turma, dias da semana, horário de funcionamento, tipo de turma e demais informações obrigatórias. É necessário ainda que, no Questionário de “Escola”, na seção “Organização Escolar” deverá ser informada a opção “Sim” no campo “A escola usa espaços e equipamentos do entorno escolar para atividades regulares com os alunos”."
+    },
+    {
+        "id": 141,
+        "survey": "censo-escolar",
+        "section": "Tempo Integral",
+        "question": "Como informar turmas de educação infantil (creche e pré-escola) que possuem alunos de horário integral e parcial? Por exemplo: há 20 alunos na turma, mas 10 ficam o dia todo, 4 somente no período da manhã e 6 somente no período da tarde.",
+        "answer": "Nesse caso, deverão ser cadastradas três turmas de tipo curricular (etapa de ensino), sendo uma turma única no horário integral para os 10 alunos que ficam o dia inteiro, uma parcial para o período da manhã (4 alunos), e uma parcial para o período da tarde (6 alunos). Os professores deverão ser vinculados a cada turma em que atuam.\nAtenção\n: a documentação escolar da turma deve estar de acordo com essa organização, distinguindo alunos de tempo parcial (manhã/tarde) daqueles que estão em horário integral."
+    },
+    {
+        "id": 142,
+        "survey": "censo-escolar",
+        "section": "Tempo Integral",
+        "question": "O horário destinado à alimentação é considerado para o cômputo da carga horária de tempo integral? Como esse período deve ser informado no Censo Escolar?",
+        "answer": "Para o tempo integral, é considerado o tempo em que o aluno permanece na escola ou em atividades escolares. Dessa forma, o horário do almoço pode compor o tempo integral se a refeição for realizada na própria escola.\nA seguir, exemplos de situações em que o horário do almoço pode ou não ser contabilizado.\n-\nCaso 1\n: A turma que funciona das 8h às 16h e oferece refeições na escola das 12h às 13h. Nesse caso, essa turma deve ser declarada ao Censo Escolar com o horário corrido, das 8h às 16h.\n-\nCaso 2\n: A turma funciona das 8h às 12h, e os alunos saem da escola às 12h para almoçarem em casa e retornam para atividades escolares das 14h às 17h (atividade complementar). Esse intervalo das 12h às 14h não deve ser declarado ao Censo Escolar. Nesse caso, a orientação é cadastrar duas turmas: uma turma curricular (etapa de ensino) das 8h às 12h e uma turma de atividade complementar das 14h às 17h.\nCabe ressaltar que, na perspectiva da educação em tempo integral, é recomendado que o período de almoço esteja integrado às atividades escolares planejadas e faça parte da rotina pedagógica da escola, contribuindo para o desenvolvimento integral dos estudantes por meio de atividades de convivência, socialização ou projetos específicos."
+    }
+]
