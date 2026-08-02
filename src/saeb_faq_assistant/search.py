@@ -50,20 +50,21 @@ class FaqSearchEngine:
         query_vector = list(self.dense_model.embed([query]))[0].tolist()
         q_filter = self._build_filter(survey_filter)
 
-        results = self.client.search(
+        # Utilizando a nova API query_points para busca densa
+        results = self.client.query_points(
             collection_name=self.collection_name,
-            query_vector=("dense", query_vector),
+            query=query_vector,
+            using="dense",
             query_filter=q_filter,
             limit=limit,
             with_payload=True
         )
-        return results
+        return results.points
 
     def lexical_search(self, query: str, survey_filter: str = None, limit: int = 5):
         """Realiza busca vetorial esparsa (correspondência exata de palavras/BM25)."""
         query_sparse_gen = list(self.sparse_model.embed([query]))[0]
         
-        # Converte o generator do FastEmbed para o formato esperado pelo Qdrant
         query_vector = {
             "indices": query_sparse_gen.indices.tolist(),
             "values": query_sparse_gen.values.tolist()
@@ -71,14 +72,16 @@ class FaqSearchEngine:
         
         q_filter = self._build_filter(survey_filter)
 
-        results = self.client.search(
+        # Utilizando a nova API query_points para busca esparsa
+        results = self.client.query_points(
             collection_name=self.collection_name,
-            query_vector=("sparse", query_vector),
+            query=query_vector,
+            using="sparse",
             query_filter=q_filter,
             limit=limit,
             with_payload=True
         )
-        return results
+        return results.points
 
     def hybrid_search(self, query: str, survey_filter: str = None, limit: int = 5):
         """Realiza busca híbrida utilizando Reciprocal Rank Fusion (RRF)."""
