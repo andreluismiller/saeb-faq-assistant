@@ -65,14 +65,14 @@ class FaqSearchEngine:
         """Realiza busca vetorial esparsa (correspondência exata de palavras/BM25)."""
         query_sparse_gen = list(self.sparse_model.embed([query]))[0]
         
-        query_vector = {
-            "indices": query_sparse_gen.indices.tolist(),
-            "values": query_sparse_gen.values.tolist()
-        }
+        # ALTERADO: Substituído o dict {} pela classe SparseVector
+        query_vector = SparseVector(
+            indices=query_sparse_gen.indices.tolist(),
+            values=query_sparse_gen.values.tolist()
+        )
         
         q_filter = self._build_filter(survey_filter)
 
-        # Utilizando a nova API query_points para busca esparsa
         results = self.client.query_points(
             collection_name=self.collection_name,
             query=query_vector,
@@ -85,31 +85,29 @@ class FaqSearchEngine:
 
     def hybrid_search(self, query: str, survey_filter: str = None, limit: int = 5):
         """Realiza busca híbrida utilizando Reciprocal Rank Fusion (RRF)."""
-        # Embeddings densos
         query_dense = list(self.dense_model.embed([query]))[0].tolist()
         
-        # Embeddings esparsos
         query_sparse_gen = list(self.sparse_model.embed([query]))[0]
-        query_sparse = {
-            "indices": query_sparse_gen.indices.tolist(),
-            "values": query_sparse_gen.values.tolist()
-        }
+        
+        # ALTERADO: Substituído o dict {} pela classe SparseVector
+        query_sparse = SparseVector(
+            indices=query_sparse_gen.indices.tolist(),
+            values=query_sparse_gen.values.tolist()
+        )
         
         q_filter = self._build_filter(survey_filter)
 
-        # Na API mais recente, query_points é o método ideal para RRF
         results = self.client.query_points(
             collection_name=self.collection_name,
             prefetch=[
                 Prefetch(query=query_dense, using="dense", filter=q_filter, limit=limit),
                 Prefetch(query=query_sparse, using="sparse", filter=q_filter, limit=limit),
             ],
-            query=query, # Passar a string original aciona a fusão (RRF) dos prefetchs
+            query=query, 
             limit=limit,
             with_payload=True
         )
         
-        # O retorno do query_points está na propriedade 'points'
         return results.points
 
 
