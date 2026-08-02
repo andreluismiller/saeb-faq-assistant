@@ -4,7 +4,9 @@ from qdrant_client.models import (
     FieldCondition, 
     MatchValue, 
     Prefetch,
-    SparseVector
+    SparseVector,
+    FusionQuery,
+    Fusion
 )
 from fastembed import TextEmbedding, SparseTextEmbedding
 
@@ -104,7 +106,7 @@ class FaqSearchEngine:
                 Prefetch(query=query_dense, using="dense", filter=q_filter, limit=limit),
                 Prefetch(query=query_sparse, using="sparse", filter=q_filter, limit=limit),
             ],
-            query=query, 
+            query=FusionQuery(fusion=Fusion.RRF), 
             limit=limit,
             with_payload=True
         )
