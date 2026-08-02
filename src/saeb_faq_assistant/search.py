@@ -3,7 +3,8 @@ from qdrant_client.models import (
     Filter, 
     FieldCondition, 
     MatchValue, 
-    Prefetch
+    Prefetch,
+    SparseVector
 )
 from fastembed import TextEmbedding, SparseTextEmbedding
 
