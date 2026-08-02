@@ -60,7 +60,7 @@ class FaqIngestionPipeline:
             for j, item in enumerate(batch):
                 point = PointStruct(
                     id=item["id"],
-                    vectors={
+                    vector={
                         "dense": dense_embeddings[j].tolist(),
                         "sparse": {
                             "indices": sparse_embeddings[j].indices.tolist(),
