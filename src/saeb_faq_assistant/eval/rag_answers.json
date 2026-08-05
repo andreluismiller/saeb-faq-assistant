@@ -1,0 +1,490 @@
+[
+    {
+        "id": 1,
+        "survey": "saeb",
+        "section": "Participação",
+        "question": "Você pode explicar o que significa a sigla Saeb e qual sua função?",
+        "answer_orig": "O Sistema de Avaliação da Educação Básica (Saeb) é formado por um conjunto de avaliações externas em larga escala, realizadas periodicamente por meio da aplicação de testes cognitivos e questionários para etapas específicas da educação básica. Tem a finalidade de avaliar a qualidade da educação básica do País e contribuir para sua melhoria, oferecendo subsídios concretos para a formulação, a reformulação e o monitoramento das políticas públicas.",
+        "answer_llm": "### O que é o Saeb?\nO Sistema de Avaliação da Educação Básica (Saeb) é formado por um conjunto de avaliações externas em larga escala, realizadas periodicamente por meio da aplicação de testes cognitivos e questionários para etapas específicas da educação básica. \n### Função do Saeb\nTem a finalidade de avaliar a qualidade da educação básica do País e contribuir para sua melhoria, oferecendo subsídios concretos para a formulação, a reformulação e o monitoramento das políticas públicas."
+    },
+    {
+        "id": 1,
+        "survey": "saeb",
+        "section": "Participação",
+        "question": "Em que consiste o Sistema de Avaliação da Educação Básica?",
+        "answer_orig": "O Sistema de Avaliação da Educação Básica (Saeb) é formado por um conjunto de avaliações externas em larga escala, realizadas periodicamente por meio da aplicação de testes cognitivos e questionários para etapas específicas da educação básica. Tem a finalidade de avaliar a qualidade da educação básica do País e contribuir para sua melhoria, oferecendo subsídios concretos para a formulação, a reformulação e o monitoramento das políticas públicas.",
+        "answer_llm": "# Sistema de Avaliação da Educação Básica (Saeb)\nO Sistema de Avaliação da Educação Básica (Saeb) é formado por um conjunto de avaliações externas em larga escala, realizadas periodicamente por meio da aplicação de testes cognitivos e questionários para etapas específicas da educação básica. Tem a finalidade de avaliar a qualidade da educação básica do País e contribuir para sua melhoria, oferecendo subsídios concretos para a formulação, a reformulação e o monitoramento das políticas públicas."
+    },
+    {
+        "id": 1,
+        "survey": "saeb",
+        "section": "Participação",
+        "question": "Qual é a finalidade do Saeb dentro do sistema educacional brasileiro?",
+        "answer_orig": "O Sistema de Avaliação da Educação Básica (Saeb) é formado por um conjunto de avaliações externas em larga escala, realizadas periodicamente por meio da aplicação de testes cognitivos e questionários para etapas específicas da educação básica. Tem a finalidade de avaliar a qualidade da educação básica do País e contribuir para sua melhoria, oferecendo subsídios concretos para a formulação, a reformulação e o monitoramento das políticas públicas.",
+        "answer_llm": "### Finalidade do Saeb\nA finalidade do Saeb é avaliar a qualidade da educação básica do País e contribuir para sua melhoria, oferecendo subsídios concretos para a formulação, a reformulação e o monitoramento das políticas públicas."
+    },
+    {
+        "id": 1,
+        "survey": "saeb",
+        "section": "Participação",
+        "question": "Como o Saeb é definido e para que serve essa avaliação?",
+        "answer_orig": "O Sistema de Avaliação da Educação Básica (Saeb) é formado por um conjunto de avaliações externas em larga escala, realizadas periodicamente por meio da aplicação de testes cognitivos e questionários para etapas específicas da educação básica. Tem a finalidade de avaliar a qualidade da educação básica do País e contribuir para sua melhoria, oferecendo subsídios concretos para a formulação, a reformulação e o monitoramento das políticas públicas.",
+        "answer_llm": "### Definição e Finalidade do Saeb\nO Sistema de Avaliação da Educação Básica (Saeb) é formado por um conjunto de avaliações externas em larga escala, realizadas periodicamente por meio da aplicação de testes cognitivos e questionários para etapas específicas da educação básica. Tem a finalidade de **avaliar a qualidade da educação básica do País** e **contribuir para sua melhoria**, oferecendo subsídios concretos para a formulação, a reformulação e o monitoramento das políticas públicas."
+    },
+    {
+        "id": 1,
+        "survey": "saeb",
+        "section": "Participação",
+        "question": "O que caracteriza o Sistema de Avaliação da Educação Básica promovido pelo Inep?",
+        "answer_orig": "O Sistema de Avaliação da Educação Básica (Saeb) é formado por um conjunto de avaliações externas em larga escala, realizadas periodicamente por meio da aplicação de testes cognitivos e questionários para etapas específicas da educação básica. Tem a finalidade de avaliar a qualidade da educação básica do País e contribuir para sua melhoria, oferecendo subsídios concretos para a formulação, a reformulação e o monitoramento das políticas públicas.",
+        "answer_llm": "### Caracterização do Sistema de Avaliação da Educação Básica (Saeb)\nO Sistema de Avaliação da Educação Básica (Saeb) é formado por um conjunto de avaliações externas em larga escala, realizadas periodicamente por meio da aplicação de testes cognitivos e questionários para etapas específicas da educação básica. Tem a finalidade de avaliar a qualidade da educação básica do País e contribuir para sua melhoria, oferecendo subsídios concretos para a formulação, a reformulação e o monitoramento das políticas públicas."
+    },
+    {
+        "id": 2,
+        "survey": "saeb",
+        "section": "Participação",
+        "question": "De que forma as secretarias estaduais e municipais de Educação colaboram com o Inep na realização do Saeb?",
+        "answer_orig": "As secretarias de Educação auxiliam o Inep na articulação com as escolas avaliadas, em cada unidade da Federação.\nO Inep conta com o comprometimento dos gestores das redes de ensino e dos secretários de Educação para a aplicação dos testes e dos questionários, de modo a contribuir para que o Saeb seja fonte de informações para a orientação das políticas educacionais, conforme previsto no art. 11, da Lei n.º 13.005/ 2014, referente ao Plano Nacional de Educação (PNE).\nA Portaria nº 351, de 4 de agosto de 2023, estabelece diretrizes e orientações para melhor articulação entre o Saeb e as redes estaduais e municipais de educação para o monitoramento do Compromisso Nacional da Criança Alfabetizada.\nPortaria nº 351, de 4 de agosto de 2023",
+        "answer_llm": "As secretarias de Educação auxiliam o Inep na articulação com as escolas avaliadas, em cada unidade da Federação. O Inep conta com o comprometimento dos gestores das redes de ensino e dos secretários de Educação para a aplicação dos testes e dos questionários, de modo a contribuir para que o Saeb seja fonte de informações para a orientação das políticas educacionais. Além disso, a Portaria nº 351, de 4 de agosto de 2023, estabelece diretrizes e orientações para melhor articulação entre o Saeb e as redes estaduais e municipais de educação para o monitoramento do Compromisso Nacional da Criança Alfabetizada."
+    },
+    {
+        "id": 2,
+        "survey": "saeb",
+        "section": "Participação",
+        "question": "Qual é a função desempenhada pelas secretarias de Educação no processo de aplicação do Saeb nas escolas?",
+        "answer_orig": "As secretarias de Educação auxiliam o Inep na articulação com as escolas avaliadas, em cada unidade da Federação.\nO Inep conta com o comprometimento dos gestores das redes de ensino e dos secretários de Educação para a aplicação dos testes e dos questionários, de modo a contribuir para que o Saeb seja fonte de informações para a orientação das políticas educacionais, conforme previsto no art. 11, da Lei n.º 13.005/ 2014, referente ao Plano Nacional de Educação (PNE).\nA Portaria nº 351, de 4 de agosto de 2023, estabelece diretrizes e orientações para melhor articulação entre o Saeb e as redes estaduais e municipais de educação para o monitoramento do Compromisso Nacional da Criança Alfabetizada.\nPortaria nº 351, de 4 de agosto de 2023",
+        "answer_llm": "As secretarias de Educação auxiliam o Inep na articulação com as escolas avaliadas, em cada unidade da Federação, e contribuem para a aplicação dos testes e dos questionários, de modo a contribuir para que o Saeb seja fonte de informações para a orientação das políticas educacionais."
+    },
+    {
+        "id": 2,
+        "survey": "saeb",
+        "section": "Participação",
+        "question": "Como as redes estaduais e municipais de ensino participam da organização do Saeb junto às escolas?",
+        "answer_orig": "As secretarias de Educação auxiliam o Inep na articulação com as escolas avaliadas, em cada unidade da Federação.\nO Inep conta com o comprometimento dos gestores das redes de ensino e dos secretários de Educação para a aplicação dos testes e dos questionários, de modo a contribuir para que o Saeb seja fonte de informações para a orientação das políticas educacionais, conforme previsto no art. 11, da Lei n.º 13.005/ 2014, referente ao Plano Nacional de Educação (PNE).\nA Portaria nº 351, de 4 de agosto de 2023, estabelece diretrizes e orientações para melhor articulação entre o Saeb e as redes estaduais e municipais de educação para o monitoramento do Compromisso Nacional da Criança Alfabetizada.\nPortaria nº 351, de 4 de agosto de 2023",
+        "answer_llm": "As secretarias de Educação auxiliam o Inep na articulação com as escolas avaliadas, em cada unidade da Federação. Além disso, o Inep conta com o comprometimento dos gestores das redes de ensino e dos secretários de Educação para a aplicação dos testes e dos questionários, de modo a contribuir para que o Saeb seja fonte de informações para a orientação das políticas educacionais. A Portaria nº 351, de 4 de agosto de 2023, estabelece diretrizes e orientações para melhor articulação entre o Saeb e as redes estaduais e municipais de educação para o monitoramento do Compromisso Nacional da Criança Alfabetizada."
+    },
+    {
+        "id": 2,
+        "survey": "saeb",
+        "section": "Participação",
+        "question": "Que tipo de apoio as secretarias de Educação oferecem ao Inep durante o Saeb?",
+        "answer_orig": "As secretarias de Educação auxiliam o Inep na articulação com as escolas avaliadas, em cada unidade da Federação.\nO Inep conta com o comprometimento dos gestores das redes de ensino e dos secretários de Educação para a aplicação dos testes e dos questionários, de modo a contribuir para que o Saeb seja fonte de informações para a orientação das políticas educacionais, conforme previsto no art. 11, da Lei n.º 13.005/ 2014, referente ao Plano Nacional de Educação (PNE).\nA Portaria nº 351, de 4 de agosto de 2023, estabelece diretrizes e orientações para melhor articulação entre o Saeb e as redes estaduais e municipais de educação para o monitoramento do Compromisso Nacional da Criança Alfabetizada.\nPortaria nº 351, de 4 de agosto de 2023",
+        "answer_llm": "As secretarias de Educação auxiliam o Inep na articulação com as escolas avaliadas, em cada unidade da Federação, e contribuem para a aplicação dos testes e dos questionários, de modo a contribuir para que o Saeb seja fonte de informações para a orientação das políticas educacionais."
+    },
+    {
+        "id": 2,
+        "survey": "saeb",
+        "section": "Participação",
+        "question": "Qual a responsabilidade das secretarias de Educação estaduais e municipais na articulação com as escolas avaliadas pelo Saeb?",
+        "answer_orig": "As secretarias de Educação auxiliam o Inep na articulação com as escolas avaliadas, em cada unidade da Federação.\nO Inep conta com o comprometimento dos gestores das redes de ensino e dos secretários de Educação para a aplicação dos testes e dos questionários, de modo a contribuir para que o Saeb seja fonte de informações para a orientação das políticas educacionais, conforme previsto no art. 11, da Lei n.º 13.005/ 2014, referente ao Plano Nacional de Educação (PNE).\nA Portaria nº 351, de 4 de agosto de 2023, estabelece diretrizes e orientações para melhor articulação entre o Saeb e as redes estaduais e municipais de educação para o monitoramento do Compromisso Nacional da Criança Alfabetizada.\nPortaria nº 351, de 4 de agosto de 2023",
+        "answer_llm": "As secretarias de Educação auxiliam o Inep na articulação com as escolas avaliadas, em cada unidade da Federação."
+    },
+    {
+        "id": 3,
+        "survey": "saeb",
+        "section": "Participação",
+        "question": "Como o Inep identifica escolas que têm nomes iguais ou semelhantes no Saeb?",
+        "answer_orig": "Apesar de haver escolas com nomes parecidos ou iguais, o Inep atribui um Código Inep, de 8 dígitos, diferente para cada escola cadastrada na base do Censo da Educação Básica. O código fica vinculado ao estabelecimento para todas as ações que o Inep utiliza e pode ser obtido a partir da consulta da escola ao Censo da Educação Básica.",
+        "answer_llm": "### Identificação de Escolas com Nomes Iguais ou Semelhantes no Saeb\n\nO Inep atribui um Código Inep, de 8 dígitos, diferente para cada escola cadastrada na base do Censo da Educação Básica. Esse código fica vinculado ao estabelecimento para todas as ações que o Inep utiliza e pode ser obtido a partir da consulta da escola ao Censo da Educação Básica."
+    },
+    {
+        "id": 3,
+        "survey": "saeb",
+        "section": "Participação",
+        "question": "Existe algum código que diferencia escolas homônimas participantes do Saeb?",
+        "answer_orig": "Apesar de haver escolas com nomes parecidos ou iguais, o Inep atribui um Código Inep, de 8 dígitos, diferente para cada escola cadastrada na base do Censo da Educação Básica. O código fica vinculado ao estabelecimento para todas as ações que o Inep utiliza e pode ser obtido a partir da consulta da escola ao Censo da Educação Básica.",
+        "answer_llm": "Sim, o Inep atribui um Código Inep, de 8 dígitos, diferente para cada escola cadastrada na base do Censo da Educação Básica."
+    },
+    {
+        "id": 3,
+        "survey": "saeb",
+        "section": "Participação",
+        "question": "De que maneira é possível distinguir duas escolas com o mesmo nome cadastradas no Saeb?",
+        "answer_orig": "Apesar de haver escolas com nomes parecidos ou iguais, o Inep atribui um Código Inep, de 8 dígitos, diferente para cada escola cadastrada na base do Censo da Educação Básica. O código fica vinculado ao estabelecimento para todas as ações que o Inep utiliza e pode ser obtido a partir da consulta da escola ao Censo da Educação Básica.",
+        "answer_llm": "### Diferenciação de Escolas com o Mesmo Nome no Saeb\n\nApesar de haver escolas com nomes parecidos ou iguais, o Inep atribui um Código Inep, de 8 dígitos, diferente para cada escola cadastrada na base do Censo da Educação Básica. O código fica vinculado ao estabelecimento para todas as ações que o Inep utiliza e pode ser obtido a partir da consulta da escola ao Censo da Educação Básica."
+    },
+    {
+        "id": 3,
+        "survey": "saeb",
+        "section": "Participação",
+        "question": "Qual mecanismo o Inep utiliza para evitar confusão entre escolas com nomenclaturas semelhantes?",
+        "answer_orig": "Apesar de haver escolas com nomes parecidos ou iguais, o Inep atribui um Código Inep, de 8 dígitos, diferente para cada escola cadastrada na base do Censo da Educação Básica. O código fica vinculado ao estabelecimento para todas as ações que o Inep utiliza e pode ser obtido a partir da consulta da escola ao Censo da Educação Básica.",
+        "answer_llm": "* O Inep atribui um Código Inep, de 8 dígitos, diferente para cada escola cadastrada na base do Censo da Educação Básica."
+    },
+    {
+        "id": 3,
+        "survey": "saeb",
+        "section": "Participação",
+        "question": "Como funciona a identificação única das escolas avaliadas pelo Saeb?",
+        "answer_orig": "Apesar de haver escolas com nomes parecidos ou iguais, o Inep atribui um Código Inep, de 8 dígitos, diferente para cada escola cadastrada na base do Censo da Educação Básica. O código fica vinculado ao estabelecimento para todas as ações que o Inep utiliza e pode ser obtido a partir da consulta da escola ao Censo da Educação Básica.",
+        "answer_llm": "Não possui a informação."
+    },
+    {
+        "id": 6,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "O Saeb avalia turmas multisseriadas?",
+        "answer_orig": "Não, as turmas multisseriadas não são avaliadas pelo Saeb.",
+        "answer_llm": "# Não, as turmas multisseriadas não são avaliadas pelo Saeb."
+    },
+    {
+        "id": 6,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "As turmas com alunos de séries diferentes reunidos na mesma sala são incluídas na aplicação do Saeb?",
+        "answer_orig": "Não, as turmas multisseriadas não são avaliadas pelo Saeb.",
+        "answer_llm": "Não possuo a informação."
+    },
+    {
+        "id": 6,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Existe participação de turmas multisseriadas no Sistema de Avaliação da Educação Básica?",
+        "answer_orig": "Não, as turmas multisseriadas não são avaliadas pelo Saeb.",
+        "answer_llm": "Não possuo a informação."
+    },
+    {
+        "id": 6,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "As escolas com turmas multisseriadas têm seus alunos avaliados pelo Saeb?",
+        "answer_orig": "Não, as turmas multisseriadas não são avaliadas pelo Saeb.",
+        "answer_llm": "# Resposta\nNão possui a informação."
+    },
+    {
+        "id": 6,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "É correto afirmar que turmas multisseriadas ficam de fora da avaliação do Saeb?",
+        "answer_orig": "Não, as turmas multisseriadas não são avaliadas pelo Saeb.",
+        "answer_llm": "Sim, é correto afirmar que turmas multisseriadas não participam da avaliação do Saeb."
+    },
+    {
+        "id": 7,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Escolas com menos de dez estudantes matriculados são dispensadas de aplicar o Saeb?",
+        "answer_orig": "É necessário que haja um mínimo válido de dez alunos para o cálculo da nota por escola nas etapas do ensino fundamental e médio. Em caso de menor número de estudantes na escola, esses devem participar da prova porque seus resultados irão compor as médias agregadas por Município e Estado.\nSalvo exceção, prevista no art.9º, inciso VII; serão aplicados testes de língua portuguesa e matemática, com base nas Matrizes de Referência de 2001 e alinhadas à Base Nacional Comum Curricular (BNCC), para estudantes da rede municipal do 5º e 9º anos do ensino fundamental, em municípios cujas escolas públicas municipais desses anos possuam menos de 10 (dez) estudantes cada e o total de alunos do município seja maior ou igual a 10 (dez) estudantes.",
+        "answer_llm": "Não, as escolas com menos de dez estudantes matriculados não são dispensadas de aplicar o Saeb. De acordo com as regras, mesmo que haja menos de dez alunos, eles devem participar da prova, pois seus resultados irão compor as médias agregadas por Município e Estado."
+    },
+    {
+        "id": 7,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "O critério mínimo de dez alunos para o cálculo da nota se refere à turma ou à escola?",
+        "answer_orig": "É necessário que haja um mínimo válido de dez alunos para o cálculo da nota por escola nas etapas do ensino fundamental e médio. Em caso de menor número de estudantes na escola, esses devem participar da prova porque seus resultados irão compor as médias agregadas por Município e Estado.\nSalvo exceção, prevista no art.9º, inciso VII; serão aplicados testes de língua portuguesa e matemática, com base nas Matrizes de Referência de 2001 e alinhadas à Base Nacional Comum Curricular (BNCC), para estudantes da rede municipal do 5º e 9º anos do ensino fundamental, em municípios cujas escolas públicas municipais desses anos possuam menos de 10 (dez) estudantes cada e o total de alunos do município seja maior ou igual a 10 (dez) estudantes.",
+        "answer_llm": "# Resposta\nO critério mínimo de dez alunos para o cálculo da nota se refere à escola."
+    },
+    {
+        "id": 7,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Caso uma escola tenha menos de dez alunos, ainda assim os estudantes devem realizar a prova do Saeb?",
+        "answer_orig": "É necessário que haja um mínimo válido de dez alunos para o cálculo da nota por escola nas etapas do ensino fundamental e médio. Em caso de menor número de estudantes na escola, esses devem participar da prova porque seus resultados irão compor as médias agregadas por Município e Estado.\nSalvo exceção, prevista no art.9º, inciso VII; serão aplicados testes de língua portuguesa e matemática, com base nas Matrizes de Referência de 2001 e alinhadas à Base Nacional Comum Curricular (BNCC), para estudantes da rede municipal do 5º e 9º anos do ensino fundamental, em municípios cujas escolas públicas municipais desses anos possuam menos de 10 (dez) estudantes cada e o total de alunos do município seja maior ou igual a 10 (dez) estudantes.",
+        "answer_llm": "# Sim, os estudantes devem participar da prova porque seus resultados irão compor as médias agregadas por Município e Estado."
+    },
+    {
+        "id": 7,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Como funciona a regra do número mínimo de estudantes para a aplicação e o cálculo dos resultados do Saeb?",
+        "answer_orig": "É necessário que haja um mínimo válido de dez alunos para o cálculo da nota por escola nas etapas do ensino fundamental e médio. Em caso de menor número de estudantes na escola, esses devem participar da prova porque seus resultados irão compor as médias agregadas por Município e Estado.\nSalvo exceção, prevista no art.9º, inciso VII; serão aplicados testes de língua portuguesa e matemática, com base nas Matrizes de Referência de 2001 e alinhadas à Base Nacional Comum Curricular (BNCC), para estudantes da rede municipal do 5º e 9º anos do ensino fundamental, em municípios cujas escolas públicas municipais desses anos possuam menos de 10 (dez) estudantes cada e o total de alunos do município seja maior ou igual a 10 (dez) estudantes.",
+        "answer_llm": "### Regra do Número Mínimo de Estudantes para a Aplicação e Cálculo dos Resultados do Saeb\n\nPara a divulgação dos resultados do Saeb, existem critérios específicos relacionados ao número mínimo de estudantes. \n- **Para Escolas:** É necessário registrar, no mínimo, 10 (dez) estudantes da etapa avaliada presentes no momento da aplicação dos instrumentos, além de alcançar uma taxa de participação de, pelo menos, 80% (oitenta por cento) dos estudantes matriculados na etapa de ensino avaliada.\n- **Para Municípios:** Também é necessário registrar, no mínimo, 10 (dez) estudantes da etapa avaliada presentes no momento da aplicação dos instrumentos, mas a taxa de participação exigida é de, pelo menos, 50% (cinquenta por cento) dos estudantes matriculados na etapa de ensino avaliada. \nEm caso de municípios com apenas 1 (uma) escola avaliada por ano ou etapa, e quando esta escola não atingir o mínimo de 80% (oitenta por cento) de taxa de participação, os resultados não serão publicamente divulgados para o respectivo município."
+    },
+    {
+        "id": 7,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "É obrigatório aplicar o Saeb em escolas que não atingem o número mínimo de dez alunos?",
+        "answer_orig": "É necessário que haja um mínimo válido de dez alunos para o cálculo da nota por escola nas etapas do ensino fundamental e médio. Em caso de menor número de estudantes na escola, esses devem participar da prova porque seus resultados irão compor as médias agregadas por Município e Estado.\nSalvo exceção, prevista no art.9º, inciso VII; serão aplicados testes de língua portuguesa e matemática, com base nas Matrizes de Referência de 2001 e alinhadas à Base Nacional Comum Curricular (BNCC), para estudantes da rede municipal do 5º e 9º anos do ensino fundamental, em municípios cujas escolas públicas municipais desses anos possuam menos de 10 (dez) estudantes cada e o total de alunos do município seja maior ou igual a 10 (dez) estudantes.",
+        "answer_llm": "### Resposta\nNão, não é obrigatório aplicar o Saeb em escolas que não atingem o número mínimo de dez alunos, porém, os alunos dessas escolas devem participar da prova, pois seus resultados irão compor as médias agregadas por Município e Estado."
+    },
+    {
+        "id": 8,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Caso haja baixa frequência de alunos por fatores externos, a data de aplicação do Saeb pode ser alterada?",
+        "answer_orig": "Sim, desde que com a anuência da empresa aplicadora responsável pelo agendamento.",
+        "answer_llm": "Não possui a informação."
+    },
+    {
+        "id": 8,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Existe a possibilidade de reagendar a prova do Saeb em dias com pouca presença de estudantes?",
+        "answer_orig": "Sim, desde que com a anuência da empresa aplicadora responsável pelo agendamento.",
+        "answer_llm": "Sim, desde que com a anuência da empresa aplicadora responsável pelo agendamento."
+    },
+    {
+        "id": 8,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "A escola pode solicitar mudança na data de aplicação do Saeb se houver baixa presença por motivos alheios à instituição?",
+        "answer_orig": "Sim, desde que com a anuência da empresa aplicadora responsável pelo agendamento.",
+        "answer_llm": "Não possuo a informação."
+    },
+    {
+        "id": 8,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Quem deve autorizar o adiamento da aplicação do Saeb em situações de baixo comparecimento de alunos?",
+        "answer_orig": "Sim, desde que com a anuência da empresa aplicadora responsável pelo agendamento.",
+        "answer_llm": "Não possui a informação."
+    },
+    {
+        "id": 8,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "É permitido remarcar a data da prova quando fatores externos reduzem a presença dos estudantes?",
+        "answer_orig": "Sim, desde que com a anuência da empresa aplicadora responsável pelo agendamento.",
+        "answer_llm": "Sim, desde que com a anuência da empresa aplicadora responsável pelo agendamento."
+    },
+    {
+        "id": 9,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Alunos da educação especial são incluídos na aplicação do Saeb?",
+        "answer_orig": "Sim, todos os estudantes, público-alvo da educação especial, matriculados em turmas regulares selecionadas para as aplicações do Saeb 2025, participam da avaliação.",
+        "answer_llm": "### Sim, todos os estudantes, público-alvo da educação especial, matriculados em turmas regulares selecionadas para as aplicações do Saeb 2025, participam da avaliação."
+    },
+    {
+        "id": 9,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "O Saeb 2025 contempla a participação de estudantes público-alvo da educação especial matriculados em turmas regulares?",
+        "answer_orig": "Sim, todos os estudantes, público-alvo da educação especial, matriculados em turmas regulares selecionadas para as aplicações do Saeb 2025, participam da avaliação.",
+        "answer_llm": "Sim, todos os estudantes, público-alvo da educação especial, matriculados em turmas regulares selecionadas para as aplicações do Saeb 2025, participam da avaliação."
+    },
+    {
+        "id": 9,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Estudantes com deficiência, TEA ou altas habilidades participam normalmente da avaliação do Saeb?",
+        "answer_orig": "Sim, todos os estudantes, público-alvo da educação especial, matriculados em turmas regulares selecionadas para as aplicações do Saeb 2025, participam da avaliação.",
+        "answer_llm": "# Estudantes com deficiência, TEA ou altas habilidades participam normalmente da avaliação do Saeb?\nSim, desde que a escola tenha atualizado o formulário do aluno no Educacenso durante a etapa preliminar da coleta, informando a(s) deficiência(s) e/ou transtorno que impacta(em) no desenvolvimento da aprendizagem."
+    },
+    {
+        "id": 9,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Há inclusão de todos os alunos da educação especial nas turmas regulares selecionadas para o Saeb?",
+        "answer_orig": "Sim, todos os estudantes, público-alvo da educação especial, matriculados em turmas regulares selecionadas para as aplicações do Saeb 2025, participam da avaliação.",
+        "answer_llm": "### Resposta\nSim, todos os estudantes, público-alvo da educação especial, matriculados em turmas regulares selecionadas para as aplicações do Saeb 2025, participam da avaliação."
+    },
+    {
+        "id": 9,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "De que forma o Saeb assegura a participação dos alunos público-alvo da educação especial nas turmas regulares avaliadas?",
+        "answer_orig": "Sim, todos os estudantes, público-alvo da educação especial, matriculados em turmas regulares selecionadas para as aplicações do Saeb 2025, participam da avaliação.",
+        "answer_llm": "### Participação dos Alunos Público-Alvo da Educação Especial no Saeb\n\nO Saeb assegura a participação dos alunos público-alvo da educação especial nas turmas regulares avaliadas por meio da atualização do formulário do aluno no Educacenso durante a etapa preliminar da coleta. A escola deve informar a(s) deficiência(s) e/ou transtorno que impacta(em) no desenvolvimento da aprendizagem. Somente os estudantes que tenham esses campos preenchidos no Educacenso ainda na etapa preliminar da matrícula inicial e estejam vinculados a uma turma que faça parte do público-alvo do Saeb receberão atendimento especializado. Além disso, o Saeb oferece formas de atendimento especializado, como:\n- Atendimento com recursos e profissionais oferecidos pela escola participante;\n- Tempo adicional para a realização dos testes e preenchimento do questionário;\n- Sala extra, com agrupamento adequado às necessidades educacionais especiais;\n- Instrumentos adaptados para estudantes com baixa visão;\n- Aplicação, no 9º ano do ensino fundamental, de questionários e cadernos de provas em braille e ledor para todas as áreas avaliadas."
+    },
+    {
+        "id": 10,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Quais providências a escola deve tomar para que um aluno tenha direito a atendimento especializado durante o Saeb?",
+        "answer_orig": "A escola deverá atualizar o formulário do aluno no Educacenso durante a etapa preliminar da coleta, informando a(s) deficiência(s) e/ou transtorno que impacta(em) no desenvolvimento da aprendizagem. Somente receberão atendimento especializado no Saeb estudantes que tenham esses campos preenchidos no Educacenso ainda na etapa preliminar da matrícula inicial e estejam vinculados a uma turma que faça parte do público-alvo do Saeb. Não será possível solicitar atendimento especializado no agendamento do Saeb caso a escola não tenha declarado no Censo que o estudante possuía deficiência(s) ou transtorno(s) que impacte no desenvolvimento da aprendizagem.",
+        "answer_llm": "### Providências para Atendimento Especializado no Saeb\n\nA escola deve atualizar o formulário do aluno no Educacenso durante a etapa preliminar da coleta, informando a(s) deficiência(s) e/ou transtorno que impacta(em) no desenvolvimento da aprendizagem. Além disso, o aluno deve estar vinculado a uma turma que faça parte do público-alvo do Saeb. Não é possível solicitar atendimento especializado no agendamento do Saeb se a escola não tiver declarado a deficiência ou transtorno no Censo Escolar."
+    },
+    {
+        "id": 10,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "É possível solicitar atendimento especializado no momento do agendamento do Saeb caso não tenha sido informado no Censo?",
+        "answer_orig": "A escola deverá atualizar o formulário do aluno no Educacenso durante a etapa preliminar da coleta, informando a(s) deficiência(s) e/ou transtorno que impacta(em) no desenvolvimento da aprendizagem. Somente receberão atendimento especializado no Saeb estudantes que tenham esses campos preenchidos no Educacenso ainda na etapa preliminar da matrícula inicial e estejam vinculados a uma turma que faça parte do público-alvo do Saeb. Não será possível solicitar atendimento especializado no agendamento do Saeb caso a escola não tenha declarado no Censo que o estudante possuía deficiência(s) ou transtorno(s) que impacte no desenvolvimento da aprendizagem.",
+        "answer_llm": "Não. A única forma de solicitar o atendimento especializado no Saeb é atualizar os dados de deficiência e indicar qual(is) atendimento(s) educacional(is) especializado(s) no formulário do aluno na etapa preliminar de coleta da Matrícula Inicial do Educacenso. O processo de agendamento servirá apenas para confirmar os dados que a escola já declarou no Educacenso."
+    },
+    {
+        "id": 10,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Que informações precisam ser registradas no Educacenso para garantir o atendimento especializado do estudante no Saeb?",
+        "answer_orig": "A escola deverá atualizar o formulário do aluno no Educacenso durante a etapa preliminar da coleta, informando a(s) deficiência(s) e/ou transtorno que impacta(em) no desenvolvimento da aprendizagem. Somente receberão atendimento especializado no Saeb estudantes que tenham esses campos preenchidos no Educacenso ainda na etapa preliminar da matrícula inicial e estejam vinculados a uma turma que faça parte do público-alvo do Saeb. Não será possível solicitar atendimento especializado no agendamento do Saeb caso a escola não tenha declarado no Censo que o estudante possuía deficiência(s) ou transtorno(s) que impacte no desenvolvimento da aprendizagem.",
+        "answer_llm": "### Informações Necessárias para Atendimento Especializado no Saeb\n\nPara garantir o atendimento especializado do estudante no Saeb, a escola deve registrar as seguintes informações no Educacenso:\n\n*   **Deficiência ou transtorno**: A escola deve declarar a deficiência ou transtorno do estudante no Educacenso durante a etapa preliminar da coleta da Matrícula Inicial.\n*   **Atendimento educacional especializado**: A escola deve informar o tipo de atendimento educacional especializado (AEE) que o aluno realiza no \"Questionário do Aluno\".\n*   **Dados de deficiência**: A escola deve atualizar os dados de deficiência e indicar quais atendimentos educacionais especializados são necessários no formulário do aluno.\n\nEssas informações devem ser registradas durante a etapa preliminar da coleta da Matrícula Inicial do Educacenso para que o estudante possa receber o atendimento especializado necessário no Saeb."
+    },
+    {
+        "id": 10,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Em que etapa da coleta do Censo Escolar a escola deve declarar a deficiência ou transtorno do aluno para garantir atendimento especializado no Saeb?",
+        "answer_orig": "A escola deverá atualizar o formulário do aluno no Educacenso durante a etapa preliminar da coleta, informando a(s) deficiência(s) e/ou transtorno que impacta(em) no desenvolvimento da aprendizagem. Somente receberão atendimento especializado no Saeb estudantes que tenham esses campos preenchidos no Educacenso ainda na etapa preliminar da matrícula inicial e estejam vinculados a uma turma que faça parte do público-alvo do Saeb. Não será possível solicitar atendimento especializado no agendamento do Saeb caso a escola não tenha declarado no Censo que o estudante possuía deficiência(s) ou transtorno(s) que impacte no desenvolvimento da aprendizagem.",
+        "answer_llm": "### Etapa Preliminar da Coleta da Matrícula Inicial do Educacenso\n\nA escola deve declarar a deficiência ou transtorno do aluno na etapa preliminar da coleta da Matrícula Inicial do Educacenso, informando a(s) deficiência(s) e/ou transtorno que impacta(em) no desenvolvimento da aprendizagem, para garantir atendimento especializado no Saeb."
+    },
+    {
+        "id": 10,
+        "survey": "saeb",
+        "section": "Aplicação",
+        "question": "Como o Educacenso se relaciona com a concessão de atendimento especializado para estudantes durante a aplicação do Saeb?",
+        "answer_orig": "A escola deverá atualizar o formulário do aluno no Educacenso durante a etapa preliminar da coleta, informando a(s) deficiência(s) e/ou transtorno que impacta(em) no desenvolvimento da aprendizagem. Somente receberão atendimento especializado no Saeb estudantes que tenham esses campos preenchidos no Educacenso ainda na etapa preliminar da matrícula inicial e estejam vinculados a uma turma que faça parte do público-alvo do Saeb. Não será possível solicitar atendimento especializado no agendamento do Saeb caso a escola não tenha declarado no Censo que o estudante possuía deficiência(s) ou transtorno(s) que impacte no desenvolvimento da aprendizagem.",
+        "answer_llm": "### Relação do Educacenso com a Concessão de Atendimento Especializado no Saeb\n\nO Educacenso é uma ferramenta utilizada para coletar informações sobre as escolas e os estudantes. No contexto do Saeb, o Educacenso desempenha um papel importante na concessão de atendimento especializado para estudantes com deficiência ou transtorno que impactam no desenvolvimento da aprendizagem.\n\n- **Atualização do Formulário do Aluno**: A escola deve atualizar o formulário do aluno no Educacenso durante a etapa preliminar da coleta, informando a(s) deficiência(s) e/ou transtorno(s) que impactam no desenvolvimento da aprendizagem.\n- **Requisito para Atendimento Especializado**: Somente os estudantes que tiverem essas informações preenchidas no Educacenso durante a etapa preliminar da matrícula inicial e estiverem vinculados a uma turma que faça parte do público-alvo do Saeb poderão receber atendimento especializado.\n- **Não é Possível Solicitar Atendimento Especializado Posteriormente**: Caso a escola não tenha declarado no Censo que o estudante possuía deficiência(s) ou transtorno(s) que impactam no desenvolvimento da aprendizagem, não será possível solicitar atendimento especializado no agendamento do Saeb.\n\nPortanto, o Educacenso é fundamental para garantir que os estudantes com necessidades especiais recebam o atendimento especializado adequado durante a aplicação do Saeb, desde que as informações sejam atualizadas corretamente e dentro do prazo estabelecido."
+    },
+    {
+        "id": 59,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Qual o procedimento para registrar uma escola recém-criada no Sistema Educacenso?",
+        "answer_orig": "A escola deve entrar em contato com a secretaria estadual de Educação, por meio dos telefones disponíveis no Caderno de Conceitos e Orientações do Censo Escolar (Fale Conosco), solicitar um questionário de escola nova, preenchê-lo e devolvê-lo à secretaria estadual, que realizará o cadastro da escola e do responsável pela declaração de dados no Sistema Educacenso. Os contatos das secretarias estaduais de Educação estão disponíveis no Caderno de Conceitos e Orientações,\nna página do Censo Escolar no Portal do Inep\n.",
+        "answer_llm": "### Procedimento para Registrar uma Escola Recém-Criada\n\nA escola deve entrar em contato com a secretaria estadual de Educação, por meio dos telefones disponíveis no Caderno de Conceitos e Orientações do Censo Escolar (Fale Conosco), solicitar um questionário de escola nova, preenchê-lo e devolvê-lo à secretaria estadual, que realizará o cadastro da escola e do responsável pela declaração de dados no Sistema Educacenso. Os contatos das secretarias estaduais de Educação estão disponíveis no Caderno de Conceitos e Orientações, na página do Censo Escolar no Portal do Inep."
+    },
+    {
+        "id": 59,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Quem deve ser contatado para realizar o cadastro de uma escola nova no Censo Escolar?",
+        "answer_orig": "A escola deve entrar em contato com a secretaria estadual de Educação, por meio dos telefones disponíveis no Caderno de Conceitos e Orientações do Censo Escolar (Fale Conosco), solicitar um questionário de escola nova, preenchê-lo e devolvê-lo à secretaria estadual, que realizará o cadastro da escola e do responsável pela declaração de dados no Sistema Educacenso. Os contatos das secretarias estaduais de Educação estão disponíveis no Caderno de Conceitos e Orientações,\nna página do Censo Escolar no Portal do Inep\n.",
+        "answer_llm": "A secretaria estadual de Educação. Os contatos das secretarias estaduais de Educação estão disponíveis no Caderno de Conceitos e Orientações, na página do Censo Escolar no Portal do Inep."
+    },
+    {
+        "id": 59,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Quais etapas uma instituição de ensino recém-criada deve seguir para ser incluída no Educacenso?",
+        "answer_orig": "A escola deve entrar em contato com a secretaria estadual de Educação, por meio dos telefones disponíveis no Caderno de Conceitos e Orientações do Censo Escolar (Fale Conosco), solicitar um questionário de escola nova, preenchê-lo e devolvê-lo à secretaria estadual, que realizará o cadastro da escola e do responsável pela declaração de dados no Sistema Educacenso. Os contatos das secretarias estaduais de Educação estão disponíveis no Caderno de Conceitos e Orientações,\nna página do Censo Escolar no Portal do Inep\n.",
+        "answer_llm": "* A escola deve entrar em contato com a secretaria estadual de Educação, por meio dos telefones disponíveis no Caderno de Conceitos e Orientações do Censo Escolar (Fale Conosco).\n* Solicitar um questionário de escola nova.\n* Preencher o questionário e devolvê-lo à secretaria estadual.\n* A secretaria estadual realizará o cadastro da escola e do responsável pela declaração de dados no Sistema Educacenso."
+    },
+    {
+        "id": 59,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Como funciona o processo de inclusão de uma nova escola no sistema do Censo Escolar?",
+        "answer_orig": "A escola deve entrar em contato com a secretaria estadual de Educação, por meio dos telefones disponíveis no Caderno de Conceitos e Orientações do Censo Escolar (Fale Conosco), solicitar um questionário de escola nova, preenchê-lo e devolvê-lo à secretaria estadual, que realizará o cadastro da escola e do responsável pela declaração de dados no Sistema Educacenso. Os contatos das secretarias estaduais de Educação estão disponíveis no Caderno de Conceitos e Orientações,\nna página do Censo Escolar no Portal do Inep\n.",
+        "answer_llm": "### Processo de Inclusão de uma Nova Escola no Sistema do Censo Escolar\nA inclusão de uma nova escola no sistema do Censo Escolar envolve os seguintes passos:\n1. **Contato com a Secretaria Estadual de Educação**: A escola deve entrar em contato com a secretaria estadual de Educação por meio dos telefones disponíveis no Caderno de Conceitos e Orientações do Censo Escolar.\n2. **Solicitação do Questionário**: A escola solicita um questionário de escola nova.\n3. **Preenchimento do Questionário**: A escola preenche o questionário com as informações necessárias.\n4. **Devolução do Questionário**: A escola devolve o questionário preenchido à secretaria estadual de Educação.\n5. **Cadastro pela Secretaria**: A secretaria estadual de Educação realiza o cadastro da escola e do responsável pela declaração de dados no Sistema Educacenso.\n\nOs contatos das secretarias estaduais de Educação estão disponíveis no Caderno de Conceitos e Orientações e na página do Censo Escolar no Portal do INEP."
+    },
+    {
+        "id": 59,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "É necessário preencher algum questionário específico para cadastrar uma escola nova no Educacenso?",
+        "answer_orig": "A escola deve entrar em contato com a secretaria estadual de Educação, por meio dos telefones disponíveis no Caderno de Conceitos e Orientações do Censo Escolar (Fale Conosco), solicitar um questionário de escola nova, preenchê-lo e devolvê-lo à secretaria estadual, que realizará o cadastro da escola e do responsável pela declaração de dados no Sistema Educacenso. Os contatos das secretarias estaduais de Educação estão disponíveis no Caderno de Conceitos e Orientações,\nna página do Censo Escolar no Portal do Inep\n.",
+        "answer_llm": "### Resposta\nSim, para cadastrar uma escola nova no Educacenso, é necessário preencher um questionário de escola nova, que deve ser solicitado à secretaria estadual de Educação e, após preenchido, devolvido à mesma para que realize o cadastro da escola e do responsável pela declaração de dados no Sistema Educacenso."
+    },
+    {
+        "id": 60,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Quais tipos de perfil de usuário existem para acessar o Sistema Educacenso?",
+        "answer_orig": "Os usuários do Sistema Educacenso são cadastrados por perfis de acesso, que possibilitam a visualização de um conjunto de escolas. São eles:\nPerfil Inep\n: acessa todas as escolas do País.\nPerfil Secretaria Estadual\n: acessa todas as escolas do estado.\nPerfil Setec/MEC\n: acessa as escolas federais vinculadas à Secretaria de Educação Profissional e Tecnológica (Setec), do Ministério da Educação (MEC).\nPerfil Órgão Regional\n: acessa as escolas vinculadas a regionais administrativas e pedagógicas das secretarias estaduais de educação, ou seja, setores descentralizados responsáveis pelo acompanhamento das escolas de regiões do estado.\nPerfil Secretaria Municipal\n: acessa as escolas municipais e as privadas vinculadas ao município.\nPerfil Escola\n: acessa apenas os dados da escola.",
+        "answer_llm": "### Perfis de Acesso ao Sistema Educacenso\nOs usuários do Sistema Educacenso são cadastrados por perfis de acesso, que possibilitam a visualização de um conjunto de escolas. São eles:\n* Perfil Inep: acessa todas as escolas do País.\n* Perfil Secretaria Estadual: acessa todas as escolas do estado.\n* Perfil Setec/MEC: acessa as escolas federais vinculadas à Secretaria de Educação Profissional e Tecnológica (Setec), do Ministério da Educação (MEC).\n* Perfil Órgão Regional: acessa as escolas vinculadas a regionais administrativas e pedagógicas das secretarias estaduais de educação, ou seja, setores descentralizados responsáveis pelo acompanhamento das escolas de regiões do estado.\n* Perfil Secretaria Municipal: acessa as escolas municipais e as privadas vinculadas ao município.\n* Perfil Escola: acessa apenas os dados da escola."
+    },
+    {
+        "id": 60,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Como estão organizados os perfis de acesso disponíveis no Educacenso?",
+        "answer_orig": "Os usuários do Sistema Educacenso são cadastrados por perfis de acesso, que possibilitam a visualização de um conjunto de escolas. São eles:\nPerfil Inep\n: acessa todas as escolas do País.\nPerfil Secretaria Estadual\n: acessa todas as escolas do estado.\nPerfil Setec/MEC\n: acessa as escolas federais vinculadas à Secretaria de Educação Profissional e Tecnológica (Setec), do Ministério da Educação (MEC).\nPerfil Órgão Regional\n: acessa as escolas vinculadas a regionais administrativas e pedagógicas das secretarias estaduais de educação, ou seja, setores descentralizados responsáveis pelo acompanhamento das escolas de regiões do estado.\nPerfil Secretaria Municipal\n: acessa as escolas municipais e as privadas vinculadas ao município.\nPerfil Escola\n: acessa apenas os dados da escola.",
+        "answer_llm": "### Perfis de Acesso no Educacenso\nOs perfis de acesso no Educacenso são organizados da seguinte forma:\n* **Perfil Inep**: acessa todas as escolas do País.\n* **Perfil Secretaria Estadual**: acessa todas as escolas do estado.\n* **Perfil Setec/MEC**: acessa as escolas federais vinculadas à Secretaria de Educação Profissional e Tecnológica (Setec), do Ministério da Educação (MEC).\n* **Perfil Órgão Regional**: acessa as escolas vinculadas a regionais administrativas e pedagógicas das secretarias estaduais de educação.\n* **Perfil Secretaria Municipal**: acessa as escolas municipais e as privadas vinculadas ao município.\n* **Perfil Escola**: acessa apenas os dados da escola."
+    },
+    {
+        "id": 60,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Quais categorias de usuários podem visualizar dados no Sistema Educacenso e o que cada uma abrange?",
+        "answer_orig": "Os usuários do Sistema Educacenso são cadastrados por perfis de acesso, que possibilitam a visualização de um conjunto de escolas. São eles:\nPerfil Inep\n: acessa todas as escolas do País.\nPerfil Secretaria Estadual\n: acessa todas as escolas do estado.\nPerfil Setec/MEC\n: acessa as escolas federais vinculadas à Secretaria de Educação Profissional e Tecnológica (Setec), do Ministério da Educação (MEC).\nPerfil Órgão Regional\n: acessa as escolas vinculadas a regionais administrativas e pedagógicas das secretarias estaduais de educação, ou seja, setores descentralizados responsáveis pelo acompanhamento das escolas de regiões do estado.\nPerfil Secretaria Municipal\n: acessa as escolas municipais e as privadas vinculadas ao município.\nPerfil Escola\n: acessa apenas os dados da escola.",
+        "answer_llm": "### Categorias de Usuários e Acesso a Dados no Sistema Educacenso\n\nAs categorias de usuários que podem visualizar dados no Sistema Educacenso incluem:\n\n* **Leitor**: Pode visualizar os dados da escola, mas não tem permissão para inserir ou alterar os dados.\n* **Executor**: Pode preencher e alterar os dados no sistema, além de visualizá-los.\n* **Superusuário**: Pode preencher, alterar os dados e cadastrar e gerenciar os usuários, além de visualizá-los.\n\nAlém disso, os perfis de acesso também definem o escopo de visualização de dados:\n\n* **Perfil Inep**: Acessa todas as escolas do País.\n* **Perfil Secretaria Estadual**: Acessa todas as escolas do estado.\n* **Perfil Setec/MEC**: Acessa as escolas federais vinculadas à Secretaria de Educação Profissional e Tecnológica (Setec), do Ministério da Educação (MEC).\n* **Perfil Órgão Regional**: Acessa as escolas vinculadas a regionais administrativas e pedagógicas das secretarias estaduais de educação.\n* **Perfil Secretaria Municipal**: Acessa as escolas municipais e as privadas vinculadas ao município.\n* **Perfil Escola**: Acessa apenas os dados da escola."
+    },
+    {
+        "id": 60,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Existe diferença entre os perfis de acesso ao Educacenso conforme o tipo de instituição ou órgão?",
+        "answer_orig": "Os usuários do Sistema Educacenso são cadastrados por perfis de acesso, que possibilitam a visualização de um conjunto de escolas. São eles:\nPerfil Inep\n: acessa todas as escolas do País.\nPerfil Secretaria Estadual\n: acessa todas as escolas do estado.\nPerfil Setec/MEC\n: acessa as escolas federais vinculadas à Secretaria de Educação Profissional e Tecnológica (Setec), do Ministério da Educação (MEC).\nPerfil Órgão Regional\n: acessa as escolas vinculadas a regionais administrativas e pedagógicas das secretarias estaduais de educação, ou seja, setores descentralizados responsáveis pelo acompanhamento das escolas de regiões do estado.\nPerfil Secretaria Municipal\n: acessa as escolas municipais e as privadas vinculadas ao município.\nPerfil Escola\n: acessa apenas os dados da escola.",
+        "answer_llm": "### Perfis de Acesso ao Educacenso\n\nSim, existem diferenças entre os perfis de acesso ao Educacenso conforme o tipo de instituição ou órgão. Os perfis de acesso definem quais conjuntos de escolas o usuário pode visualizar e são classificados da seguinte forma:\n\n*   **Perfil Inep**: acessa todas as escolas do País.\n*   **Perfil Secretaria Estadual**: acessa todas as escolas do estado.\n*   **Perfil Setec/MEC**: acessa as escolas federais vinculadas à Secretaria de Educação Profissional e Tecnológica (Setec), do Ministério da Educação (MEC).\n*   **Perfil Órgão Regional**: acessa as escolas vinculadas a regionais administrativas e pedagógicas das secretarias estaduais de educação.\n*   **Perfil Secretaria Municipal**: acessa as escolas municipais e as privadas vinculadas ao município.\n*   **Perfil Escola**: acessa apenas os dados da escola."
+    },
+    {
+        "id": 60,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Quais são as opções de perfil disponíveis para os usuários cadastrados no Sistema Educacenso?",
+        "answer_orig": "Os usuários do Sistema Educacenso são cadastrados por perfis de acesso, que possibilitam a visualização de um conjunto de escolas. São eles:\nPerfil Inep\n: acessa todas as escolas do País.\nPerfil Secretaria Estadual\n: acessa todas as escolas do estado.\nPerfil Setec/MEC\n: acessa as escolas federais vinculadas à Secretaria de Educação Profissional e Tecnológica (Setec), do Ministério da Educação (MEC).\nPerfil Órgão Regional\n: acessa as escolas vinculadas a regionais administrativas e pedagógicas das secretarias estaduais de educação, ou seja, setores descentralizados responsáveis pelo acompanhamento das escolas de regiões do estado.\nPerfil Secretaria Municipal\n: acessa as escolas municipais e as privadas vinculadas ao município.\nPerfil Escola\n: acessa apenas os dados da escola.",
+        "answer_llm": "### Perfis de Acesso ao Sistema Educacenso\nOs perfis de acesso disponíveis são:\n* Perfil Inep: acessa todas as escolas do País.\n* Perfil Secretaria Estadual: acessa todas as escolas do estado.\n* Perfil Setec/MEC: acessa as escolas federais vinculadas à Secretaria de Educação Profissional e Tecnológica (Setec), do Ministério da Educação (MEC).\n* Perfil Órgão Regional: acessa as escolas vinculadas a regionais administrativas e pedagógicas das secretarias estaduais de educação.\n* Perfil Secretaria Municipal: acessa as escolas municipais e as privadas vinculadas ao município.\n* Perfil Escola: acessa apenas os dados da escola."
+    },
+    {
+        "id": 61,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Como são classificados os níveis de acesso dos usuários no Sistema Educacenso?",
+        "answer_orig": "O Sistema Educacenso permite o gerenciamento do tipo de acesso necessário para cada usuário. Os níveis de acesso definem quais ações o usuário poderá executar no Sistema, são eles:\nLeitor\n: visualiza os dados da escola, mas não tem permissão para inserir ou alterar os dados.\nExecutor\n: preenche e altera os dados no sistema.\nSuperusuário\n: preenche e altera os dados e cadastra e gerencia os usuários.",
+        "answer_llm": "### Níveis de Acesso no Sistema Educacenso\nOs níveis de acesso definem quais ações o usuário poderá executar no Sistema Educacenso. São eles:\n* **Leitor**: visualiza os dados da escola, mas não tem permissão para inserir ou alterar os dados.\n* **Executor**: preenche e altera os dados no sistema.\n* **Superusuário**: preenche e altera os dados e cadastra e gerencia os usuários."
+    },
+    {
+        "id": 61,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Quais permissões cada nível de acesso concede aos usuários do Educacenso?",
+        "answer_orig": "O Sistema Educacenso permite o gerenciamento do tipo de acesso necessário para cada usuário. Os níveis de acesso definem quais ações o usuário poderá executar no Sistema, são eles:\nLeitor\n: visualiza os dados da escola, mas não tem permissão para inserir ou alterar os dados.\nExecutor\n: preenche e altera os dados no sistema.\nSuperusuário\n: preenche e altera os dados e cadastra e gerencia os usuários.",
+        "answer_llm": "### Níveis de Acesso e Permissões no Educacenso\n\nOs níveis de acesso definem quais ações o usuário poderá executar no Sistema Educacenso. São eles:\n\n* **Leitor**: visualiza os dados da escola, mas não tem permissão para inserir ou alterar os dados.\n* **Executor**: preenche e altera os dados no sistema.\n* **Superusuário**: preenche e altera os dados e cadastra e gerencia os usuários."
+    },
+    {
+        "id": 61,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "O que diferencia os níveis Leitor, Executor e Superusuário no Sistema Educacenso?",
+        "answer_orig": "O Sistema Educacenso permite o gerenciamento do tipo de acesso necessário para cada usuário. Os níveis de acesso definem quais ações o usuário poderá executar no Sistema, são eles:\nLeitor\n: visualiza os dados da escola, mas não tem permissão para inserir ou alterar os dados.\nExecutor\n: preenche e altera os dados no sistema.\nSuperusuário\n: preenche e altera os dados e cadastra e gerencia os usuários.",
+        "answer_llm": "### Níveis de Acesso no Sistema Educacenso\nOs níveis de acesso definem quais ações o usuário poderá executar no Sistema. São eles:\n* **Leitor**: visualiza os dados da escola, mas não tem permissão para inserir ou alterar os dados.\n* **Executor**: preenche e altera os dados no sistema.\n* **Superusuário**: preenche e altera os dados e cadastra e gerencia os usuários."
+    },
+    {
+        "id": 61,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Quais ações cada tipo de usuário pode realizar de acordo com seu nível de acesso no Educacenso?",
+        "answer_orig": "O Sistema Educacenso permite o gerenciamento do tipo de acesso necessário para cada usuário. Os níveis de acesso definem quais ações o usuário poderá executar no Sistema, são eles:\nLeitor\n: visualiza os dados da escola, mas não tem permissão para inserir ou alterar os dados.\nExecutor\n: preenche e altera os dados no sistema.\nSuperusuário\n: preenche e altera os dados e cadastra e gerencia os usuários.",
+        "answer_llm": "### Níveis de Acesso e Ações no Educacenso\n\nOs níveis de acesso definem quais ações o usuário poderá executar no Sistema Educacenso. São eles:\n\n* **Leitor**: visualiza os dados da escola, mas não tem permissão para inserir ou alterar os dados.\n* **Executor**: preenche e altera os dados no sistema.\n* **Superusuário**: preenche e altera os dados e cadastra e gerencia os usuários."
+    },
+    {
+        "id": 61,
+        "survey": "censo-escolar",
+        "section": "Educacenso",
+        "question": "Existe hierarquia de permissões entre os usuários cadastrados no Sistema Educacenso?",
+        "answer_orig": "O Sistema Educacenso permite o gerenciamento do tipo de acesso necessário para cada usuário. Os níveis de acesso definem quais ações o usuário poderá executar no Sistema, são eles:\nLeitor\n: visualiza os dados da escola, mas não tem permissão para inserir ou alterar os dados.\nExecutor\n: preenche e altera os dados no sistema.\nSuperusuário\n: preenche e altera os dados e cadastra e gerencia os usuários.",
+        "answer_llm": "### Hierarquia de Permissões\nSim, existe uma hierarquia de permissões entre os usuários cadastrados no Sistema Educacenso, definida pelos níveis de acesso:\n- **Leitor**: visualiza os dados, mas não pode inserir ou alterar.\n- **Executor**: pode preencher e alterar dados.\n- **Superusuário**: além de preencher e alterar dados, pode cadastrar e gerenciar usuários."
+    },
+    {
+        "id": 134,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Como o Censo Escolar define os transtornos que afetam o desenvolvimento da aprendizagem dos alunos?",
+        "answer_orig": "São transtornos caracterizados por um conjunto de sintomas que provocam uma série de perturbações na aprendizagem do aluno.",
+        "answer_llm": "### Definição de Transtornos que Impactam o Desenvolvimento da Aprendizagem\n\nOs transtornos que impactam o desenvolvimento da aprendizagem são caracterizados por um conjunto de sintomas que provocam uma série de perturbações na aprendizagem do aluno. \n\n### Tipos de Transtornos\n\nDesde 2025, são coletados os seguintes transtornos que impactam o desenvolvimento da aprendizagem:\n- **Discalculia**: desordem neurológica específica que afeta a habilidade do sujeito para compreender regras, conceitos e realizar operações matemáticas.\n- **Disgrafia**: dificuldade da pessoa em controlar os músculos da mão, resultando em falta de pressão no traçado das letras ou traços demasiadamente fortes.\n- **Dislalia**: distúrbio da linguagem que se manifesta na fala, causando dificuldade na articulação das palavras, especialmente com sons como \"R\" e \"L\".\n- **Dislexia**: transtorno do desenvolvimento da linguagem com implicações severas no processo fonológico, influenciando a decodificação das palavras escritas e a compreensão da leitura.\n- **Disortografia**: transtorno funcional específico de escrita caracterizado por uma alteração na planificação da linguagem escrita, causando dificuldades na aprendizagem da ortografia, gramática e redação.\n- **Transtorno do Déficit de Atenção e Hiperatividade (TDAH)**: transtorno do neurodesenvolvimento definido por níveis prejudiciais de desatenção, desorganização e/ou hiperatividade-impulsividade.\n- **Transtorno do Processamento Auditivo Central (TPAC)**: dificuldade em lidar com as informações que chegam por meio da audição, resultando em interpretação inadequada dos sons."
+    },
+    {
+        "id": 134,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "O que caracteriza os transtornos de aprendizagem registrados pelo Censo Escolar?",
+        "answer_orig": "São transtornos caracterizados por um conjunto de sintomas que provocam uma série de perturbações na aprendizagem do aluno.",
+        "answer_llm": "### Resposta\nSão transtornos caracterizados por um conjunto de sintomas que provocam uma série de perturbações na aprendizagem do aluno."
+    },
+    {
+        "id": 134,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Qual a definição utilizada para os transtornos que impactam o desenvolvimento da aprendizagem no contexto do Censo Escolar?",
+        "answer_orig": "São transtornos caracterizados por um conjunto de sintomas que provocam uma série de perturbações na aprendizagem do aluno.",
+        "answer_llm": "### Definição de Transtornos que Impactam o Desenvolvimento da Aprendizagem\nSão transtornos caracterizados por um conjunto de sintomas que provocam uma série de perturbações na aprendizagem do aluno."
+    },
+    {
+        "id": 134,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "De que forma esses transtornos coletados pelo Censo Escolar interferem na aprendizagem do aluno?",
+        "answer_orig": "São transtornos caracterizados por um conjunto de sintomas que provocam uma série de perturbações na aprendizagem do aluno.",
+        "answer_llm": "### Interferência dos Transtornos na Aprendizagem\n\nOs transtornos coletados pelo Censo Escolar interferem na aprendizagem do aluno de várias formas, dependendo do tipo de transtorno. Aqui estão algumas das principais formas pelas quais esses transtornos podem afetar a aprendizagem:\n\n*   **Discalculia**: Dificuldade em compreender conceitos matemáticos, realizar operações matemáticas e entender enunciados de problemas, o que pode afetar a capacidade do aluno de resolver problemas matemáticos e entender conceitos científicos.\n*   **Disgrafia**: Dificuldade em escrever de forma legível e organizada, o que pode afetar a capacidade do aluno de expressar suas ideias por escrito e realizar tarefas que exigem escrita.\n*   **Dislalia**: Dificuldade em articular palavras e sons, o que pode afetar a capacidade do aluno de se comunicar eficazmente e participar de atividades de linguagem.\n*   **Dislexia**: Dificuldade em decodificar palavras e compreender textos, o que pode afetar a capacidade do aluno de ler e entender materiais didáticos.\n*   **Disortografia**: Dificuldade em escrever palavras e frases de forma correta, o que pode afetar a capacidade do aluno de expressar suas ideias por escrito e realizar tarefas que exigem escrita.\n*   **TDAH (Transtorno do Déficit de Atenção e Hiperatividade)**: Dificuldade em manter a atenção, controlar impulsos e realizar tarefas de forma organizada, o que pode afetar a capacidade do aluno de aprender e realizar tarefas acadêmicas.\n*   **TPAC (Transtorno do Processamento Auditivo Central)**: Dificuldade em processar informações auditivas, o que pode afetar a capacidade do aluno de entender instruções, participar de discussões e realizar tarefas que exigem audição.\n\nEsses transtornos podem ter um impacto significativo na aprendizagem do aluno, mas é importante notar que cada aluno é único e pode ter necessidades e desafios diferentes. É fundamental que os educadores e profissionais de apoio trabalhem juntos para fornecer suporte e adaptações para ajudar os alunos a superar esses desafios e alcançar seu potencial acadêmico."
+    },
+    {
+        "id": 134,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Quais sintomas caracterizam os transtornos de aprendizagem considerados pelo Censo Escolar?",
+        "answer_orig": "São transtornos caracterizados por um conjunto de sintomas que provocam uma série de perturbações na aprendizagem do aluno.",
+        "answer_llm": "### Transtornos de Aprendizagem Considerados pelo Censo Escolar\n\nOs transtornos de aprendizagem considerados pelo Censo Escolar incluem:\n- **Discalculia**: Dificuldade em compreender regras, conceitos e realizar operações matemáticas.\n- **Disgrafia**: Dificuldade em controlar os músculos da mão, levando a problemas de escrita, como letras ilegíveis, espaçamento irregular e falta de fluência.\n- **Dislalia**: Dificuldade na articulação das palavras, especialmente com sons como \"R\" e \"L\".\n- **Dislexia**: Dificuldade no processamento fonológico, levando a prejuízos na decodificação de palavras escritas e compreensão da leitura.\n- **Disortografia**: Dificuldade na aprendizagem da ortografia, gramática e redação, resultando em erros ortográficos e desorganização na escrita.\n- **Transtorno do Déficit de Atenção e Hiperatividade (TDAH)**: Níveis prejudiciais de desatenção, desorganização e/ou hiperatividade-impulsividade.\n- **Transtorno do Processamento Auditivo Central (TPAC)**: Dificuldade em lidar com informações auditivas, levando a problemas na comunicação oral, leitura e escrita.\n\nEsses transtornos podem impactar significativamente o desenvolvimento da aprendizagem dos alunos e são coletados pelo Censo Escolar para entender melhor as necessidades educacionais especiais."
+    },
+    {
+        "id": 135,
+        "survey": "censo-escolar",
+        "section": "Educação Especial",
+        "question": "Pode listar os tipos específicos de transtornos que impactam a aprendizagem registrados pelo Censo Escolar?",
+        "answer_orig": "Desde 2025 são coletados os seguintes transtornos que impactam o desenvolvimento da aprendizagem.\nDiscalculia:\né definida como uma desordem neurológica específica que afeta a habilidade do sujeito para compreender regras, conceitos e realizar operações matemáticas. O aluno(a) com discalculia pode conseguir realizar, de forma automática, cálculos com as quatro operações básicas matemáticas, porém, pode não conseguir entender o enunciado do problema. Dessa forma, a discalculia se apresentam como uma desordem estrutural nas habilidades matemáticas e, que pode estar associada a outros transtornos como o TDAH e a dislexia, por exemplo.\nDisgrafia:\né caracterizada pela dificuldade da pessoa em controlar os músculos da mão. Nesse caso, pode ocorrer uma falta de pressão no traçado das letras ou traços demasiadamente fortes, o que causa cansaço e lentidão durante o processo de escrita. A escrita disgráfica pode ser observada por traços pouco precisos e incontrolados. Há uma desorganização das letras, letras retocadas e ilegíveis. O espaço entre as linhas, palavras e letras são irregulares. Outras características de uma escrita disgráfica: letras muito largas, demasiado pequenas ou com tamanho inconsistente; uso incorreto de letras maiúsculas e minúsculas; letras sobrepostas; alinhamento incorreto; inclinação inconsistente; falta de fluência na escrita. Na maioria dos casos a disgrafia faz com que a letra fique ilegível, o que dificulta ou impossibilita a leitura e compreensão do que o aluno(a) escreveu. Desse modo, a disgrafia é um transtorno da escrita e ocorre, de um modo geral o comprometimento da coordenação motora fina e da coordenação motora ampla, como a inabilidade para esportes por exemplo.\nDislalia\n: É um distúrbio da linguagem que se manifesta mais especificamente na fala causando dificuldade na articulação das palavras. Consiste, basicamente, na dificuldade de pronunciar as palavras que contêm “R” e “L”, seja omitindo ou acrescentando fonemas, trocando um fonema por outro ou ainda distorcendo-os ordenadamente. A falha na emissão das palavras pode ainda ocorrer em fonemas ou sílabas.\nDislexia:\ncompreende um transtorno do desenvolvimento da linguagem, com implicações severas no processo fonológico, influenciando e ocasionando prejuízos importantes na aprendizagem, uma vez que o indivíduo não consegue decifrar as palavras. Trata-se de um distúrbio do desenvolvimento da linguagem, tendo como uma das principais características a dificuldade no processamento fonológico, causando déficits na decodificação das palavras escritas e, consequentemente, na compreensão da leitura. De modo geral, a Dislexia causa prejuízos no processo de aprendizagem, sobretudo nas áreas da leitura, escrita, compreensão e ortografia.\nDisortografia\n: é um transtorno funcional específico de escrita caracterizado por uma alteração na planificação da linguagem escrita, que causa dificuldades na aprendizagem da ortografia, gramática e redação, apesar do potencial intelectual e dos sistemas sensoriais do indivíduo. Compreende, portanto, um padrão de escrita que foge às regras ortográficas estabelecidas convencionalmente, regentes de uma determinada língua. Os alunos(as) que tem esse transtorno iniciam o processo de alfabetização apresentando dificuldades na aprendizagem da ortografia, da gramática e da redação. Além disso, esses alunos(as), provavelmente, chegarão ao final do ensino fundamental apresentando as mesmas dificuldades. De forma geral, a característica mais comum nas crianças com disortografia é, sem dúvida, a ocorrência de erros ortográficos, de natureza as mais diversas.\nTranstorno do Déficit de Atenção e Hiperatividade (TDAH)\n: é um transtorno do\nneurodesenvolvimento definido por níveis prejudiciais de desatenção, desorganização e/ou hiperatividade-impulsividade. Desatenção e desorganização envolvem incapacidade de permanecer em uma tarefa, aparência de não ouvir e perda de materiais em níveis inconsistentes com a idade ou o nível de desenvolvimento. Hiperatividade-impulsividade implicam atividade excessiva, inquietação, incapacidade de permanecer sentado, intromissão em atividades de outros e incapacidade de aguardar – sintomas que são excessivos para a idade ou o nível de desenvolvimento. Na infância, o TDAH frequentemente se sobrepõe a transtornos em geral considerados “de externalização”, tais como o transtorno opositor desafiador (TOD) e o transtorno de conduta. O TDAH costuma persistir na vida adulta, resultando em prejuízos no funcionamento social, acadêmico e profissional.\nTranstorno do Processamento Auditivo Central (TPAC)\n: pode ser descrito como uma dificuldade que o sujeito tem em lidar com as informações que chegam por meio da audição. É um transtorno funcional da audição no qual o indivíduo detecta os sons normalmente, mas tem dificuldades em interpretá-los. Também pode ser considerado como uma dificuldade em processar a informação auditiva da forma correta, em razão de dificuldade em um ou mais níveis das habilidades auditivas. O TPAC costuma produzir dificuldades diárias no processo de comunicação oral, na leitura e escrita, incluindo o desempenho escolar e a compreensão da linguagem.\nATENÇÃO\n: Para mais informações sobre os transtornos acesse o “Glossário da Educação Especial e dos Transtornos que Impactam o Desenvolvimento da Aprendizagem”, nas orientações de preenchimento da 1ª Etapa da Coleta,\nno site do Censo Escolar no Portal do Inep\n.",
+        "answer_llm": "### Transtornos que Impactam a Aprendizagem\nOs seguintes transtornos são coletados pelo Censo Escolar:\n1. **Discalculia**: Desordem neurológica específica que afeta a habilidade do sujeito para compreender regras, conceitos e realizar operações matemáticas.\n2. **Disgrafia**: Dificuldade da pessoa em controlar os músculos da mão, resultando em falta de pressão no traçado das letras ou traços demasiadamente fortes.\n3. **Dislalia**: Distúrbio da linguagem que se manifesta na fala, causando dificuldade na articulação das palavras.\n4. **Dislexia**: Transtorno do desenvolvimento da linguagem, com implicações severas no processo fonológico, influenciando e ocasionando prejuízos importantes na aprendizagem.\n5. **Disortografia**: Transtorno funcional específico de escrita caracterizado por uma alteração na planificação da linguagem escrita, que causa dificuldades na aprendizagem da ortografia, gramática e redação.\n6. **Transtorno do Déficit de Atenção e Hiperatividade (TDAH)**: Transtorno do neurodesenvolvimento definido por níveis prejudiciais de desatenção, desorganização e/ou hiperatividade-impulsividade.\n7. **Transtorno do Processamento Auditivo Central (TPAC)**: Dificuldade que o sujeito tem em lidar com as informações que chegam por meio da audição, resultando em dificuldades em interpretá-las."
+    }
+]

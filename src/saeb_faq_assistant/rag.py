@@ -4,6 +4,9 @@ from qdrant_client import QdrantClient
 from qdrant_client.models import Prefetch, SparseVector, FusionQuery, Fusion
 from fastembed import TextEmbedding, SparseTextEmbedding
 from openai import OpenAI
+from dotenv import load_dotenv
+
+load_dotenv()  # Carrega variáveis de ambiente do arquivo .env
 
 class RAGSystem:
     def __init__(self, collection_name="faq_inep_collection"):
