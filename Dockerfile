@@ -15,10 +15,14 @@ COPY --from=ghcr.io/astral-sh/uv:latest /uv /uvx /usr/local/bin/
 # Copia primeiro apenas os manifestos de dependências para aproveitar o cache
 # de camadas do Docker (só reinstala dependências se pyproject/uv.lock mudarem)
 COPY pyproject.toml uv.lock ./
-RUN uv sync --frozen
+# --no-install-project: instala só as dependências, sem o pacote em si
+# (o código-fonte ainda não foi copiado neste ponto, então buildar o
+# pacote local falharia aqui)
+RUN uv sync --frozen --no-install-project
 
-# Agora copia o restante do código-fonte
+# Agora copia o restante do código-fonte e instala o próprio projeto
 COPY . .
+RUN uv sync --frozen
 
 ENV PATH="/app/.venv/bin:$PATH" \
     STREAMLIT_SERVER_HEADLESS=true \
