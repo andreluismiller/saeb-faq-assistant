@@ -8,4 +8,3 @@ qdrant_storage/
 grafana/
 db/
 .python-version
-README.md
