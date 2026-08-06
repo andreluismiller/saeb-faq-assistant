@@ -1,0 +1,88 @@
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: saeb-qdrant
+    restart: unless-stopped
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - ./qdrant_storage:/qdrant/storage:z
+    networks:
+      - saeb-net
+
+  postgres:
+    image: postgres:16
+    container_name: saeb-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-saeb_faq}
+      POSTGRES_USER: ${POSTGRES_USER:-saeb_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-saeb_password}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-saeb_user} -d ${POSTGRES_DB:-saeb_faq}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    networks:
+      - saeb-net
+
+  grafana:
+    image: grafana/grafana-oss:latest
+    container_name: saeb-grafana
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      GF_SECURITY_ADMIN_USER: ${GRAFANA_ADMIN_USER:-admin}
+      GF_SECURITY_ADMIN_PASSWORD: ${GRAFANA_ADMIN_PASSWORD:-admin}
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./grafana/provisioning:/etc/grafana/provisioning
+      - ./grafana/dashboards:/etc/grafana/provisioning/dashboards/json
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - saeb-net
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: saeb-app
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      # Sobrescreve os valores do .env (pensados para uso local fora do Docker)
+      # com os nomes dos serviços na rede interna do compose.
+      QDRANT_URL: http://qdrant:6333
+      POSTGRES_HOST: postgres
+    ports:
+      - "8501:8501"
+    volumes:
+      # Cache dos modelos de embedding (FastEmbed/HuggingFace) para não
+      # precisar rebaixar tudo a cada "docker compose up --build".
+      - fastembed_cache:/root/.cache
+    depends_on:
+      qdrant:
+        condition: service_started
+      postgres:
+        condition: service_healthy
+    networks:
+      - saeb-net
+
+volumes:
+  postgres_data:
+  grafana_data:
+  fastembed_cache:
+
+networks:
+  saeb-net:
+    driver: bridge
