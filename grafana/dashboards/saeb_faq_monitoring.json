@@ -1,0 +1,134 @@
+{
+  "title": "SAEB FAQ Assistant - Monitoramento",
+  "uid": "saeb-faq-monitoring",
+  "schemaVersion": 39,
+  "version": 1,
+  "editable": true,
+  "timezone": "browser",
+  "time": { "from": "now-7d", "to": "now" },
+  "refresh": "1m",
+  "panels": [
+    {
+      "id": 1,
+      "title": "Tempo de Resposta (média)",
+      "type": "timeseries",
+      "gridPos": { "h": 8, "w": 12, "x": 0, "y": 0 },
+      "datasource": { "type": "postgres", "uid": "postgres-saeb" },
+      "fieldConfig": {
+        "defaults": { "unit": "s", "custom": { "drawStyle": "line", "fillOpacity": 15 } },
+        "overrides": []
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": { "type": "postgres", "uid": "postgres-saeb" },
+          "format": "time_series",
+          "rawSql": "SELECT $__timeGroup(timestamp, '1h') AS time, avg(response_time) AS \"tempo_resposta_medio\" FROM conversations WHERE $__timeFilter(timestamp) GROUP BY 1 ORDER BY 1",
+          "rawQuery": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Uso de Tokens",
+      "type": "timeseries",
+      "gridPos": { "h": 8, "w": 12, "x": 12, "y": 0 },
+      "datasource": { "type": "postgres", "uid": "postgres-saeb" },
+      "fieldConfig": {
+        "defaults": { "unit": "short", "custom": { "drawStyle": "bars", "fillOpacity": 60, "stacking": { "mode": "normal" } } },
+        "overrides": []
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": { "type": "postgres", "uid": "postgres-saeb" },
+          "format": "time_series",
+          "rawSql": "SELECT $__timeGroup(timestamp, '1h') AS time, sum(prompt_tokens) AS \"tokens_prompt\", sum(completion_tokens) AS \"tokens_completion\" FROM conversations WHERE $__timeFilter(timestamp) GROUP BY 1 ORDER BY 1",
+          "rawQuery": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Uso por Modelo",
+      "type": "piechart",
+      "gridPos": { "h": 8, "w": 8, "x": 0, "y": 8 },
+      "datasource": { "type": "postgres", "uid": "postgres-saeb" },
+      "fieldConfig": { "defaults": {}, "overrides": [] },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": { "type": "postgres", "uid": "postgres-saeb" },
+          "format": "table",
+          "rawSql": "SELECT model AS \"Modelo\", count(*) AS \"Interações\" FROM conversations WHERE $__timeFilter(timestamp) GROUP BY model",
+          "rawQuery": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Feedback dos Usuários",
+      "type": "bargauge",
+      "gridPos": { "h": 8, "w": 8, "x": 8, "y": 8 },
+      "datasource": { "type": "postgres", "uid": "postgres-saeb" },
+      "fieldConfig": {
+        "defaults": {
+          "unit": "short",
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [{ "color": "red", "value": null }, { "color": "green", "value": 1 }]
+          }
+        },
+        "overrides": []
+      },
+      "options": { "displayMode": "gradient", "orientation": "horizontal" },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": { "type": "postgres", "uid": "postgres-saeb" },
+          "format": "table",
+          "rawSql": "SELECT CASE WHEN score > 0 THEN 'Positivo' ELSE 'Negativo' END AS \"feedback\", count(*) AS \"total\" FROM feedback WHERE $__timeFilter(timestamp) GROUP BY 1",
+          "rawQuery": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Custo Estimado (USD)",
+      "type": "timeseries",
+      "gridPos": { "h": 8, "w": 8, "x": 16, "y": 8 },
+      "datasource": { "type": "postgres", "uid": "postgres-saeb" },
+      "fieldConfig": {
+        "defaults": { "unit": "currencyUSD", "custom": { "drawStyle": "bars", "fillOpacity": 40 } },
+        "overrides": []
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": { "type": "postgres", "uid": "postgres-saeb" },
+          "format": "time_series",
+          "rawSql": "SELECT $__timeGroup(timestamp, '1d') AS time, sum(cost) AS \"custo_usd\" FROM conversations WHERE $__timeFilter(timestamp) GROUP BY 1 ORDER BY 1",
+          "rawQuery": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Conversas Recentes",
+      "type": "table",
+      "gridPos": { "h": 9, "w": 24, "x": 0, "y": 16 },
+      "datasource": { "type": "postgres", "uid": "postgres-saeb" },
+      "fieldConfig": { "defaults": {}, "overrides": [] },
+      "options": { "showHeader": true },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": { "type": "postgres", "uid": "postgres-saeb" },
+          "format": "table",
+          "rawSql": "SELECT timestamp AS \"Data/Hora\", course AS \"Programa\", question AS \"Pergunta\", answer AS \"Resposta\", model AS \"Modelo\" FROM conversations ORDER BY timestamp DESC LIMIT 20",
+          "rawQuery": true
+        }
+      ]
+    }
+  ]
+}
